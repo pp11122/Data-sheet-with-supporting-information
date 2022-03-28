@@ -1,0 +1,193 @@
+genus_and_species,taxonomy_id,strain,superkingdom,phylum,class,order,family,genus,assembly_or_accession,Genome_GC,Genome_size,16S_accssion,16S_GC,Tmin
+Sulfurisphaera ohwakuensis,69656,TA-1,Archaea,Crenarchaeota,Thermoprotei,Sulfolobales,Sulfolobaceae,Sulfurisphaera,GCA_009729055.1,32.7,2.8,D85507,63.9,63
+Thermococcus onnurineus,342948,NA1,Archaea,Euryarchaeota,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,GCA_000018365.1,51.3,1.8,DQ167232,65.8,63
+Thermothrix azorensis,48383,TM,Bacteria,,,,,Thermothrix,,39.7,,NR_104832,60.8,63
+Acidilobus sulfurireducens,411357,18D70,Archaea,Crenarchaeota,Thermoprotei,Acidilobales,Acidilobaceae,Acidilobus,,59.9,,EF057391,67.7,62
+Thermothrix thiopara,48382,ATCC 29244,Bacteria,,,,,Thermothrix,,39.7,,L77876,60.3,62
+Desulfovirgula thermocuniculi,348842,RL80JIV,Bacteria,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacteraceae,Desulfovirgula,,60.1,,DQ208689,60.4,61
+Thermococcus kodakarensis,311400,KOD1,Archaea,Euryarchaeota,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,GCA_000009965.1,52,2.1,D38650,66,60
+Thermococcus peptonophilus,53952,OG-1,Archaea,Euryarchaeota,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,GCA_001592435.1,51.7,1.9,D37982,65.8,60
+Vulcanisaeta moutnovskia,985052,768-28,Archaea,Crenarchaeota,Thermoprotei,Thermoproteales,Thermoproteaceae,Vulcanisaeta,GCA_000190315.1,42.4,2.3,AY350589,65.8,60
+Thermococcus prieurii,1128108,Bio-pl-0405IT2,Archaea,Euryarchaeota,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,,53.6,,FN396976,65.9,60
+Thermococcus piezophilus,1712654,CDGS,Archaea,Euryarchaeota,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,GCA_001647085.1,51.1,1.9,LN878294,65.8,60
+Thermococcus aggregans,110163,TY,Archaea,Euryarchaeota,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,,42,,Y08384,64.9,60
+Thermococcus chitonophagus,54262,GC74,Archaea,Euryarchaeota,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,GCA_900012635.1,44.9,2,AY099175,66.6,60
+Acidilobus aceticus,105851,1904,Archaea,Crenarchaeota,Thermoprotei,Acidilobales,Acidilobaceae,Acidilobus,,53.8,,AF191225,66.1,60
+Caldivirga maquilingensis,76887,IC-167,Archaea,Crenarchaeota,Thermoprotei,Thermoproteales,Thermoproteaceae,Caldivirga,GCA_000018305.1,43.1,2.1,AB013926,65.7,60
+Thermococcus barossii,54077,SHCK-94,Archaea,Euryarchaeota,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,GCA_002214465.1,54.7,1.9,AY099173,66,60
+Thermococcus waiotapuensis,90909,WT1,Archaea,Euryarchaeota,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,,50.4,,AB055127,65.8,60
+Archaeoglobus fulgidus,2234,VC-16,Archaea,Euryarchaeota,Archaeoglobi,Archaeoglobales,Archaeoglobaceae,Archaeoglobus,GCA_000008665.1,48.6,2.2,X05567,63.9,60
+Acidianus manzaensis,282676,NA-1,Archaea,Crenarchaeota,Thermoprotei,Sulfolobales,Sulfolobaceae,Acidianus,GCA_002116695.1,30.6,2.7,AB182498,61.4,60
+Sulfurisphaera javensis,2049879,KD-1,Archaea,Crenarchaeota,Thermoprotei,Sulfolobales,Sulfolobaceae,Sulfurisphaera,,30.6,,LC332080,64.3,60
+Acidilobus saccharovorans,242703,345-15,Archaea,Crenarchaeota,Thermoprotei,Acidilobales,Acidilobaceae,Acidilobus,GCA_000144915.1,57.2,1.5,AY350586,67.3,60
+Zestosphaera tikiterensis,1973259,NZ3,Archaea,Crenarchaeota,Thermoprotei,Desulfurococcales,Desulfurococcaceae,Zestosphaera,,41.9,,MH252993,65.1,60
+Palaeococcus ferrophilus,83868,DMJ,Archaea,Euryarchaeota,Thermococci,Thermococcales,Thermococcaceae,Palaeococcus,,53.5,,AB019239,65.2,60
+Fervidobacterium thailandense,1008305,FC2004,Bacteria,Thermotogae,Thermotogae,Thermotogales,Fervidobacteriaceae,Fervidobacterium,,45.8,,KJ473436,61.9,60
+Hydrogenobacter subterraneus,92642,HGP1,Bacteria,Aquificae,Aquificae,Aquificales,Aquificaceae,Hydrogenobacter,,44.5,,AB026268,60.9,60
+Ammonifex thiophilus,444093,SR,Bacteria,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacteraceae,Ammonifex,,56.2,,EF554597,62.7,60
+Archaeoglobus sulfaticallidus,1316941,PM70-1,Archaea,Euryarchaeota,Archaeoglobi,Archaeoglobales,Archaeoglobaceae,Archaeoglobus,GCA_000385565.1,43.2,2.1,FJ810190,62.1,60
+Thermus parvatiensis,456163,RL,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Thermus,GCA_001535545.1,68.5,2,EU017402,63.9,60
+"""Caldisphaera draconis""",411358,18U65,Archaea,Crenarchaeota,Thermoprotei,Acidilobales,Caldisphaeraceae,Caldisphaera,,53.9,,EF057392,61.7,60
+Hydrogenobacter halophilus,2547829,TH-112,Bacteria,Aquificae,Aquificae,Aquificales,Aquificaceae,Hydrogenobacter,,46,,LC466842,62.9,60
+Archaeoglobus infectus,403219,Arc51,Archaea,Euryarchaeota,Archaeoglobi,Archaeoglobales,Archaeoglobaceae,Archaeoglobus,,45.9,,AB274307,62.7,60
+Caldicoprobacter faecalis,937334,DSM 20678,Bacteria,Firmicutes,Clostridia,Clostridiales,Caldicoprobacteraceae,Caldicoprobacter,,45,,FR749980,58,60
+Conexivisphaera calidus,1874277,NAS-02,Archaea,Candidatus Geothermarchaeota,,,,Conexivisphaera,,62.1,,AP018732,63.3,60
+Methanofervidicoccus abyssi,2082189,HHB,Archaea,Euryarchaeota,Methanococci,Methanococcales,,Methanofervidicoccus,,35.9,,BFAX01000003,61.9,60
+Methanocaldococcus bathoardescens,1301915,JH146,Archaea,Euryarchaeota,Methanococci,Methanococcales,Methanocaldococcaceae,Methanocaldococcus,GCA_000739065.1,30.8,1.6,CP009149,64.6,58
+Thermococcus coalescens,227597,TS1,Archaea,Euryarchaeota,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,,53.9,,AB107767,65.8,57
+Stygiolobus azoricus,41675,FC6,Archaea,Crenarchaeota,Thermoprotei,Sulfolobales,Sulfolobaceae,Stygiolobus,GCA_009729035.1,37.6,2,X90480,64.5,57
+Ammonifex degensii,42838,KC4,Bacteria,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacteraceae,Ammonifex,GCA_000024605.1,59.4,2.2,U34975,55.7,57
+Thermococcus acidaminovorans,71280,AEDII10,Archaea,Euryarchaeota,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,,49,,AB055120,65.8,56
+Thermococcus guaymasensis,110164,TYS ,Archaea,Euryarchaeota,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,GCA_000816105.1,52.9,1.9,Y08385,65.5,56
+Thermococcus alcaliphilus,139207,AEDII12 ,Archaea,Euryarchaeota,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,,42,,AB055121,65.8,56
+Pseudothermotoga hypogea,57487,SEBR 7054,Bacteria,Thermotogae,Thermotogae,Thermotogales,Thermotogaceae,Pseudothermotoga,GCA_000816145.1,49.5,2.2,U89768,61.4,56
+Calditerricola satsumensis,373054,YMO81,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Calditerricola,,70,,AB250968,62.4,56
+Calditerricola yamamurae,448141,YMO722,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Calditerricola,,64,,AB308475,62.5,56
+Thermococcus hydrothermalis,46539,AL662,Archaea,Euryarchaeota,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,,58,,Z70244,65.4,55
+Thermococcus litoralis,2265,NS-C,Archaea,Euryarchaeota,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,GCA_000246985.3,43.1,2.2,Z70252,65.4,55
+Methanothermus sociabilis,2181,Kf1-F1,Archaea,Euryarchaeota,Methanobacteria,Methanobacteriales,Methanothermaceae,Methanothermus,,33,,NR_104879,64.1,55
+Thermococcus radiotolerans,187880,EJ2,Archaea,Euryarchaeota,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,GCA_002214565.1,55.6,1.9,AF479013,65.3,55
+Thermococcus marinus,187879,EJ1,Archaea,Euryarchaeota,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,,52.3,,AF479012,65.8,55
+Thermococcus gammatolerans,187878,EJ3,Archaea,Euryarchaeota,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,GCA_000022365.1,53.6,2,AF479014,66.3,55
+Thermococcus nautili,195522,43860,Archaea,Euryarchaeota,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,GCA_000585495.1,54.8,2,AY099161,66.4,55
+Thermococcus cleftensis,163003,CL1,Archaea,Euryarchaeota,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,GCA_000265525.1,55.8,2,CP003651,65.8,55
+Thermococcus stetteri,49900,K-3,Archaea,Euryarchaeota,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,,50.2,,Z75240,65.8,55
+Thermococcus thioreducens,277988,OGL-20P,Archaea,Euryarchaeota,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,GCA_002214545.1,53.5,2.1,AF394925,65.6,55
+Thermotoga neapolitana,2337,NS-E,Bacteria,Thermotogae,Thermotogae,Thermotogales,Thermotogaceae,Thermotoga,GCA_000018945.1,46.9,1.9,NR_074959,64,55
+Thermotoga maritima,2336,MSB8 ,Bacteria,Thermotogae,Thermotogae,Thermotogales,Thermotogaceae,Thermotoga,GCA_000230655.3,46.2,1.9,M21774,63.6,55
+Methanocaldococcus villosus,667126,KIN24-T80,Archaea,Euryarchaeota,Methanococci,Methanococcales,Methanocaldococcaceae,Methanocaldococcus,,30,,FJ766848,64.4,55
+Fervidobacterium changbaicum,310769,CBS-1,Bacteria,Thermotogae,Thermotogae,Thermotogales,Fervidobacteriaceae,Fervidobacterium,,31.9,,AY878719,61.1,55
+Thermocrinis albus,136094,HI 11/12 ,Bacteria,Aquificae,Aquificae,Aquificales,Aquificaceae,Thermocrinis,GCA_000025605.1,46.9,1.5,AJ278895,63,55
+Archaeoglobus lithotrophicus,138903,TF2,Archaea,Euryarchaeota,Archaeoglobi,Archaeoglobales,Archaeoglobaceae,Archaeoglobus,,40,,AJ299218,64.1,55
+Caldicellulosiruptor obsidiansis,717609,OB47 ,Bacteria,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacterales Family III. Incertae Sedis,Caldicellulosiruptor,GCA_000145215.1,35.2,2.5,GQ338764,58.9,55
+Desulfurobacterium pacificum,240166,SL17,Bacteria,Aquificae,Aquificae,Desulfurobacteriales,Desulfurobacteriaceae,Desulfurobacterium,,42,,AY268936,63.5,55
+Sulfolobus acidocaldarius,2285,NBRC 15157,Archaea,Crenarchaeota,Thermoprotei,Sulfolobales,Sulfolobaceae,Sulfolobus,GCA_000012285.1,36.7,2.2,D14876,62.8,55
+Thermococcus zilligii,54076,DSM2770 ,Archaea,Euryarchaeota,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,,46.2,,U76534,65.9,55
+Fervidicoccus fontis,683846,Kam940,Archaea,Crenarchaeota,Thermoprotei,Fervidicoccales,Fervidicoccaceae,Fervidicoccus,GCA_000258425.1,37.5,1.3,EF552404,62.4,55
+Pseudothermotoga thermarum,119394,LA3,Bacteria,Thermotogae,Thermotogae,Thermotogales,Thermotogaceae,Pseudothermotoga,GCA_000217815.1,40.3,2,NR_024751,63,55
+Methanotorris formicicus,213185,Mc-S-70,Archaea,Euryarchaeota,Methanococci,Methanococcales,Methanocaldococcaceae,Methanotorris,,33.3,,AB100884,62,55
+Sulfurihydrogenibium rodmanii,380763,UZ3-5,Bacteria,Aquificae,Aquificae,Aquificales,Hydrogenothermaceae,Sulfurihydrogenibium,,35,,AM259502,58.2,55
+Metallosphaera prunae,47304,Ron 12/II,Archaea,Crenarchaeota,Thermoprotei,Sulfolobales,Sulfolobaceae,Metallosphaera,,46,,X90482,62.7,55
+Persephonella marina,309805,EX-H1,Bacteria,Aquificae,Aquificae,Aquificales,Hydrogenothermaceae,Persephonella,GCA_000021565.1,37.1,2,AF188332,61.1,55
+Fervidicola ferrireducens,520764,Y170,Bacteria,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacteraceae,Fervidicola,,48,,EU443728,60.8,55
+Thermaerobacter subterraneus,175696,C21,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales Family XVII. Incertae Sedis,Thermaerobacter,,71,,AF343566,64,55
+Thermodesulfatator indicus,171695,CIR29812,Bacteria,Thermodesulfobacteria,Thermodesulfobacteria,Thermodesulfobacteriales,Thermodesulfobacteriaceae,Thermodesulfatator,GCA_000217795.1,42.4,2.3,AF393376,62.4,55
+Acidianus tengchongensis,146920,S5 ,Archaea,Crenarchaeota,Thermoprotei,Sulfolobales,Sulfolobaceae,Acidianus,,38,,AF226987,60.6,55
+Rhodothermus profundi,633813,PRI 2902,Bacteria,Bacteroidetes,,Bacteroidetes Order II. Incertae sedis,Rhodothermaceae,Rhodothermus,,60.9,,FJ624399,62.6,55
+Thermosulfidibacter takaii,412593,ABI70S6,Bacteria,Aquificae,Aquificae,Aquificales,,Thermosulfidibacter,GCA_001547735.1,43,1.8,AB282756,62.1,55
+Sulfurihydrogenibium yellowstonense,304736,SS-5,Bacteria,Aquificae,Aquificae,Aquificales,Hydrogenothermaceae,Sulfurihydrogenibium,,32,,AY686713,57.1,55
+Hydrogenivirga caldilitoris,246264,AB120294,Bacteria,Aquificae,Aquificae,Aquificales,Aquificaceae,Hydrogenivirga,,49.2,,AB120294,63,55
+Persephonella guaymasensis,182900,EX-H2,Bacteria,Aquificae,Aquificae,Aquificales,Hydrogenothermaceae,Persephonella,,37.4,,AF385630,61,55
+Metallosphaera tengchongensis,1532350,Ric-A,Archaea,Crenarchaeota,Thermoprotei,Sulfolobales,Sulfolobaceae,Metallosphaera,,41.8,,KJ735100,62.3,55
+Aciduliprofundum boonei,379547,T469,Archaea,Euryarchaeota,,,,Aciduliprofundum,GCA_000025665.1,39.2,1.5,DQ451875,62,55
+Caldicoprobacter algeriensis,699281,TH7C1,Bacteria,Firmicutes,Clostridia,Clostridiales,Caldicoprobacteraceae,Caldicoprobacter,,44.7,,GU216701,57.7,55
+Metallosphaera cuprina,1006005,Ar-4,Archaea,Crenarchaeota,Thermoprotei,Sulfolobales,Sulfolobaceae,Metallosphaera,GCA_000204925.1,42,1.8,FN796482,61.9,55
+Thermodesulfatator atlanticus,501497,AT1325 ,Bacteria,Thermodesulfobacteria,Thermodesulfobacteria,Thermodesulfobacteriales,Thermodesulfobacteriaceae,Thermodesulfatator,,45.6,,EU435435,62.5,55
+Thermodesulfobacterium hveragerdense,53424,JSP,Bacteria,Thermodesulfobacteria,Thermodesulfobacteria,Thermodesulfobacteriales,Thermodesulfobacteriaceae,Thermodesulfobacterium,,40,,X96725,60,55
+Thermanaeromonas toyohensis,161154, ToBE,Bacteria,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacteraceae,Thermanaeromonas,,49.6,,AB062280,59.4,55
+Polycladomyces abyssicola,1125966,JIR-001,Bacteria,Firmicutes,Bacilli,Bacillales,Thermoactinomycetaceae,Polycladomyces,,55.1,,AB688114,60.4,55
+Caldanaerobius zeae,160792,mel2,Bacteria,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacteraceae,Caldanaerobius,,42,,U75993,56.3,55
+Thermorudis peleae,1382356,KI4,Bacteria,Chloroflexi,Thermomicrobia,,,Thermorudis,,60.7,,KF193530,68.3,55
+Thermanaeromonas burensis,1226730,IA106,Bacteria,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacteraceae,Thermanaeromonas,,60.2,,JQ446369,59.5,55
+Thermus tengchongensis,1214928,YIM 77924 ,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Thermus,,66.6,,JX112365,62.3,55
+Caldisericum exile,693075,AZM16c01,Bacteria,Caldiserica,Caldisericia,Caldisericales,Caldisericaceae,Caldisericum,GCA_000284335.1,35.4,1.6,AB428365,55.2,55
+Thermosyntropha tengcongensis,873078,L-60,Bacteria,Firmicutes,Clostridia,Clostridiales,Syntrophomonadaceae,Thermosyntropha,,40.3,,HM807481,56.1,55
+Geobacillus lituanicus,169283,N-3,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Geobacillus,,52.5,,AY044055,59.8,55
+Calderihabitans maritimus,1246530,KKC1,Bacteria,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacteraceae,Calderihabitans,,50.6,,AB758274,59.5,55
+Anoxybacillus thermarum,404937,AF/04,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Anoxybacillus,,53.5,,AM402982,56.3,55
+Symbiobacterium turbinis,557450,KY46,Bacteria,Firmicutes,Clostridia,Clostridiales,Symbiobacteriaceae,Symbiobacterium,,67.2,,AB455238,59.9,55
+Anaerolinea thermophila,167964,UNI-1 ,Bacteria,Chloroflexi,Anaerolineae,Anaerolineales,Anaerolineaceae,Anaerolinea,GCA_000199675.1,53.8,3.5,AB046413,57.1,55
+Rhodothermus marinus,29549,DSM 4252 ,Bacteria,Bacteroidetes,,Bacteroidetes Order II. Incertae sedis,Rhodothermaceae,Rhodothermus,GCA_000024845.1,64.3,3.4,NR_029282,61.9,54
+Thermorudis pharmacophila,1167092,WKT50.2,Bacteria,Chloroflexi,Thermomicrobia,,,Thermorudis,,58.4,,HE794997,67.8,53
+Caldimicrobium rimae,444091,DS,Bacteria,Thermodesulfobacteria,Thermodesulfobacteria,Thermodesulfobacteriales,Thermodesulfobacteriaceae,Caldimicrobium,,35.2,,EF554596,62.2,52
+Thermaerobacter composti,554949,NI80,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales Family XVII. Incertae Sedis,Thermaerobacter,,72,,AB454087,64.9,52
+Thermaerobacter litoralis,317015,KW1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales Family XVII. Incertae Sedis,Thermaerobacter,,70.8,,AY936496,64.1,52
+Thermaerobacter nagasakiensis,159723,Ts1a ,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales Family XVII. Incertae Sedis,Thermaerobacter,,69,,AB061441,64.3,52
+Carboxydothermus siderophilus,441616,1315,Bacteria,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacteraceae,Carboxydothermus,,41.5,,EF542810,58.7,52
+Thermosyntropha lipolytica,54294,JW/VS-265,Bacteria,Firmicutes,Clostridia,Clostridiales,Syntrophomonadaceae,Thermosyntropha,,44,,X99980,56.4,52
+Thermococcus eurythermalis,1505907,A501,Archaea,Euryarchaeota,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,GCA_000769655.1,53.5,2.1,KJ616741,66,50
+Fervidobacterium pennivorans,93466,Ven 5,Bacteria,Thermotogae,Thermotogae,Thermotogales,Fervidobacteriaceae,Fervidobacterium,GCA_000235405.3,38.9,2.2,NR_074097,61.3,50
+Thermococcus aegaeus,84597,P5,Archaea,Euryarchaeota,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,,45,,AJ012643,65.2,50
+Thermococcus siculi,72803,RG-20,Archaea,Euryarchaeota,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,GCA_002214505.1,55,2,AB055126,66,50
+Thermosulfurimonas dismutans,999894,S95,Bacteria,Thermodesulfobacteria,Thermodesulfobacteria,Thermodesulfobacteriales,Thermodesulfobacteriaceae,Thermosulfurimonas,,52,,JF346116,63.3,50
+Thermococcus paralvinellae,582419,ES1,Archaea,Euryarchaeota,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,GCA_000517445.1,40.3,2,CP006965,65.8,50
+Palaeococcus pacificus,971279,DY20341,Archaea,Euryarchaeota,Thermococci,Thermococcales,Thermococcaceae,Palaeococcus,GCA_000725425.1,43,1.9,HQ696462,65.2,50
+Thermococcus profundus,49899,DT5432,Archaea,Euryarchaeota,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,GCA_002214585.1,53.1,2,Z75233,65.9,50
+Thermovibrio guaymasensis,240167,SL19,Bacteria,Aquificae,Aquificae,Desulfurobacteriales,Desulfurobacteriaceae,Thermovibrio,,46,,AY268937,63.8,50
+Saccharolobus solfataricus,2287,NBRC 15331,Archaea,Crenarchaeota,Thermoprotei,Sulfolobales,Sulfolobaceae,Saccharolobus,GCA_900079115.1,35.8,3,X90478,63.4,50
+Methanocaldococcus indicus,213231,SL43,Archaea,Euryarchaeota,Methanococci,Methanococcales,Methanocaldococcaceae,Methanocaldococcus,,30.7,,AF547621,64.3,50
+Methanocaldococcus jannaschii,2190,JAL-1,Archaea,Euryarchaeota,Methanococci,Methanococcales,Methanocaldococcaceae,Methanocaldococcus,GCA_000091665.1,31.3,1.7,M59126,61.4,50
+Geoglobus acetivorans,565033,SBH6,Archaea,Euryarchaeota,Archaeoglobi,Archaeoglobales,Archaeoglobaceae,Geoglobus,GCA_000789255.1,46.8,1.9,FJ216404,63.6,50
+Thermococcus celericrescens,227598,TS2,Archaea,Euryarchaeota,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,,54.6,,AB107768,65.2,50
+Desulfotomaculum kuznetsovii,58135,17,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Desulfofundulus,,54.9,,NR_026410,57.7,50
+Hydrogenobacter hydrogenophilus,35835," INMI
+Z-829",Bacteria,Aquificae,Aquificae,Aquificales,Aquificaceae,Hydrogenobacter,,43,,Z30242,60.1,50
+Thermovorax subterraneus,496831,70B ,Bacteria,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacterales Family III. Incertae Sedis,Thermovorax,,44.2,,EU370564,60.7,50
+Dictyoglomus thermophilum,14,H\6\12,Bacteria,Dictyoglomi,Dictyoglomia,Dictyoglomales,Dictyoglomaceae,Dictyoglomus,GCA_000020965.1,33.7,2,X69194,58.9,50
+Thermovibrio ruber,171869,ED11/3LLK ,Bacteria,Aquificae,Aquificae,Desulfurobacteriales,Desulfurobacteriaceae,Thermovibrio,,46,,AJ316619,62.6,50
+Thermodesulfobacterium hydrogeniphilum,161156,SL6,Bacteria,Thermodesulfobacteria,Thermodesulfobacteria,Thermodesulfobacteriales,Thermodesulfobacteriaceae,Thermodesulfobacterium,,28,,AF332514,62,50
+Caldicellulosiruptor owensensis,55205,OL,Bacteria,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacterales Family III. Incertae Sedis,Caldicellulosiruptor,GCA_000166335.1,35.4,2.4,U80596,58.3,50
+Metallosphaera sedula,43687,TH2,Archaea,Crenarchaeota,Thermoprotei,Sulfolobales,Sulfolobaceae,Metallosphaera,GCA_000016605.1,46.2,2.2,X90481,62.6,50
+Thermoanaerobacter pentosaceus,694059,DTU01,Bacteria,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacteraceae,Thermoanaerobacter,,34.2,,GU176611,59.5,50
+Metallosphaera hakonensis,79601,HO1-1,Archaea,Crenarchaeota,Thermoprotei,Sulfolobales,Sulfolobaceae,Metallosphaera,GCA_003201675.1,43.7,2.5,D86414,62.1,50
+Caldicellulosiruptor hydrothermalis,413888,108,Bacteria,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacterales Family III. Incertae Sedis,Caldicellulosiruptor,GCA_000166355.1,36.1,2.8,EF100908,58.9,50
+Fervidobacterium islandicum,2423,H21,Bacteria,Thermotogae,Thermotogae,Thermotogales,Fervidobacteriaceae,Fervidobacterium,GCA_000767275.3,40.7,2.2,M59176,60.6,50
+Thermaerobacter marianensis,73919,7p75a,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales Family XVII. Incertae Sedis,Thermaerobacter,GCA_000184705.1,72.5,2.8,AB011495,64,50
+Desulfurobacterium atlanticum,240169,SL22,Bacteria,Aquificae,Aquificae,Desulfurobacteriales,Desulfurobacteriaceae,Desulfurobacterium,,41,,AY268939,61.8,50
+Thermodesulfatator autotrophicus,1795632,S606,Bacteria,Thermodesulfobacteria,Thermodesulfobacteria,Thermodesulfobacteriales,Thermodesulfobacteriaceae,Thermodesulfatator,,43.1,,KU681513,62.7,50
+Thermus antranikianii,88190,HN3-7 ,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Thermus,,65.4,,Y18406,63.3,50
+Caldicellulosiruptor lactoaceticus,52766,6A,Bacteria,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacterales Family III. Incertae Sedis,Caldicellulosiruptor,GCA_000193435.3,36.1,2.7,X82842,59.1,50
+Caldicellulosiruptor acetigenus,301953,X6B,Bacteria,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacterales Family III. Incertae Sedis,Caldicellulosiruptor,,35.7,,AY772476,58.7,50
+Hydrogenobacter thermophilus,940,TK-56,Bacteria,Aquificae,Aquificae,Aquificales,Aquificaceae,Hydrogenobacter,GCA_000010785.1,44,1.7,Z30214,59.7,50
+Thermolithobacter ferrireducens,416555,JW/KA-2,Bacteria,Firmicutes,Thermolithobacteria,Thermolithobacterales,Thermolithobacteraceae,Thermolithobacter,,52.7,,AF282253,59.8,50
+Geobacillus galactosidasius,883812,CF1B,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Geobacillus,,53.5,,AM408559,56.3,50
+Pseudothermotoga subterranea,39100,SL1,Bacteria,Thermotogae,Thermotogae,Thermotogales,Thermotogaceae,Pseudothermotoga,,40.3,,U22664,60.6,50
+Caldinitratiruptor microaerophilus,671077,CA62N,Bacteria,Firmicutes,Clostridia,Clostridiales,Symbiobacteriaceae,Caldinitratiruptor,,70.3,,GQ405534,64.4,50
+Pseudothermotoga lettingae,177758,TMO,Bacteria,Thermotogae,Thermotogae,Thermotogales,Thermotogaceae,Pseudothermotoga,GCA_000017865.1,38.7,2.1,AF355615,59.8,50
+Sulfolobus metallicus,47303,Kra 23,Archaea,Crenarchaeota,Thermoprotei,Sulfolobales,Sulfolobaceae,Sulfolobus,,38,,D85519,59.8,50
+Planifilum composti,1108801,P8,Bacteria,Firmicutes,Bacilli,Bacillales,Thermoactinomycetaceae,Planifilum,,56.5,,JN793954,60.7,50
+Thermoanaerobacter mathranii,583357,A3,Bacteria,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacteraceae,Thermoanaerobacter,GCA_000092965.1,34.3,2.3,Y11279,60,50
+Caldanaerobacter uzonensis,447594,K67,Bacteria,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacteraceae,Caldanaerobacter,,34.2,,EF195126,60.1,50
+Planifilum yunnanense,337094, LA5,Bacteria,Firmicutes,Bacilli,Bacillales,Thermoactinomycetaceae,Planifilum,,56.8,,DQ119659,60.6,50
+Geobacillus icigianus,1430331,G1w1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Geobacillus,,52,,KF631430,59.4,50
+Carboxydothermus ferrireducens,54265,JW/AS-Y7 ,Bacteria,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacteraceae,Carboxydothermus,,41,,U76363,58.3,50
+Thermogemmatispora onikobensis,732234,ONI-1 ,Bacteria,Chloroflexi,Ktedonobacteria,Thermogemmatisporales,Thermogemmatisporaceae,Thermogemmatispora,,60.2,,AB547912,62.7,50
+Chthonomonas calidirosea,454171,T49,Bacteria,Armatimonadetes,Chthonomonadetes,Chthonomonadales,Chthonomonadaceae,Chthonomonas,,54.6,,AM749780,59.6,50
+Sulfurihydrogenibium azorense,309806,Az-Fu1,Bacteria,Aquificae,Aquificae,Aquificales,Hydrogenothermaceae,Sulfurihydrogenibium,GCA_000021545.1,32.8,1.6,AF528192,57.4,50
+Persephonella hydrogeniphila,198703,29W,Bacteria,Aquificae,Aquificae,Aquificales,Hydrogenothermaceae,Persephonella,,37.3,,AB086419,60.5,50
+Marinithermus hydrothermalis,186192,T1,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Marinithermus,GCA_000195335.1,68.1,2.3,AB079382,64,50
+Pseudothermotoga elfii,38322,SEBR 6459,Bacteria,Thermotogae,Thermotogae,Thermotogales,Thermotogaceae,Pseudothermotoga,GCA_000504085.1,38.7,2.2,X80790,59.5,50
+Thermoanaerobacter kivui,2325,LKT-1,Bacteria,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacteraceae,Thermoanaerobacter,GCA_000763575.1,35,2.4,L09160,57.3,50
+Thermotoga profunda,1508420,AZM34c06,Bacteria,Thermotogae,Thermotogae,Thermotogales,Thermotogaceae,Thermotoga,GCA_000828675.1,38.8,2.2,NR_133904,59.3,50
+Thermotoga caldifontis,1508419,AZM44c09T,Bacteria,Thermotogae,Thermotogae,Thermotogales,Thermotogaceae,Thermotoga,GCA_000828655.1,51.3,2,NR_133903,62.3,50
+Desulfotomaculum thermosubterraneum,348840,RL50JIII ,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Desulfofundulus,,54.4,,DQ208688,58.4,50
+Thermomicrobium carboxidum,1401547,KI3 ,Bacteria,Chloroflexi,Thermomicrobia,Thermomicrobiales,Thermomicrobiaceae,Thermomicrobium,,66,,KF193529,66.9,50
+Thermus caliditerrae,1330700,YIM 77925 ,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Thermus,,65.7,,KC852874,62.3,50
+Moorella stamsii,1266720,E3-O,Bacteria,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacteraceae,Moorella,,54.6,,HF563589,58,50
+Carboxydothermus pertinax,870242,Ug1,Bacteria,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacteraceae,Carboxydothermus,,42.2,,AB573431,58.7,50
+Carboxydothermus islandicus,661089,SET IS-9 ,Bacteria,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacteraceae,Carboxydothermus,,37.7,,GQ324698,58.5,50
+Thermovenabulum gondwanense,520767,R270 ,Bacteria,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacterales Family III. Incertae Sedis,Thermovenabulum,,41,,EU443729,59.6,50
+Thermodesulfovibrio hydrogeniphilus,412896,Hbr5,Bacteria,Nitrospirae,Nitrospira,Nitrospirales,Nitrospiraceae,Thermodesulfovibrio,,36.1,,EF081294,58.6,50
+Methermicoccus shengliensis,660064,ZC-1,Archaea,Euryarchaeota,Methanomicrobia,Methanosarcinales,Methermicoccaceae,Methermicoccus,,56,,DQ787474,59.1,50
+Thermus caldifontis,1930763,YIM 73026,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Thermus,,65.4,,KX580314,63,50
+Caldibacillus debilis,301148,Tf,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Caldibacillus,,49.9,,AJ564608,59.7,50
+Carboxydocella sporoproducens,285110,Kar,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales Family XVI. Incertae Sedis,Carboxydocella,,46.5,,AY673988,56.5,50
+Caminibacter hydrogeniphilus,152526,AM1116,Bacteria,Proteobacteria,Epsilonproteobacteria,Nautiliales,Nautiliaceae,Caminibacter,,29,,AJ309655,59.2,50
+Sulfodiicoccus acidiphilus,1670455,HS-1,Archaea,Crenarchaeota,Thermoprotei,Sulfolobales,Sulfolobaceae,Sulfodiicoccus,GCA_003967175.1,51.1,2.4,LC061218,61.8,50
+Thermus amyloliquefaciens,1449080,YIM77409,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Thermus,,30.6,,KP284528,62.6,50
+Pyrinomonas methylaliphatogenes,454194,K22,Bacteria,Acidobacteria,Blastocatellia,Blastocatellales,Pyrinomonadaceae,Pyrinomonas,,59.6,,AM749787,59.7,50
+Desulfothermus naphthae,392844,TD3,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfohalobiaceae,Desulfothermus,,37.4,,X80922,58,50
+Hydrogenophilus hirschii,85993,Yel5a,Bacteria,Proteobacteria,Hydrogenophilalia,Hydrogenophilales,Hydrogenophilaceae,Hydrogenophilus,,61,,AJ131694,58.2,50
+Chloroflexus aggregans,152260,MD-66,Bacteria,Chloroflexi,Chloroflexia,Chloroflexales,Chloroflexaceae,Chloroflexus,GCA_000021945.1,56.4,4.7,D32255,62.7,50
+Planifilum fulgidum,201973,500275,Bacteria,Firmicutes,Bacilli,Bacillales,Thermoactinomycetaceae,Planifilum,,59.4,,AB088362,60.6,50
+Meiothermus luteus,2026184,YIM 72257,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Meiothermus,,62.6,,KY608080,59.9,50
+Aeribacillus composti,1868734,N.8,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Aeribacillus,,40.5,,LT594972,57,50
+Thermoanaerobaculum aquaticum,1312852,MP-01,Bacteria,Acidobacteria,Thermoanaerobaculia,Thermoanaerobaculales,Thermoanaerobaculaceae,Thermoanaerobaculum,,62.7,,JX420244,61.3,50
+Ammoniibacillus agariperforans,1229250,FAB2,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Ammoniibacillus,,49.5,,AB745450,57.8,50
+Kosmotoga arenicorallina,688066,S304,Bacteria,Thermotogae,Thermotogae,Kosmotogales,Kosmotogaceae,Kosmotoga,,40.8,,AB530678,60,50
+Deferribacter thermophilus,53573,BMA,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,Deferribacteraceae,Deferribacter,,34,,U75602,59.4,50
+Cellulosibacter alkalithermophilus,630405,A6,Bacteria,Firmicutes,Clostridia,Clostridiales,Hungateiclostridiaceae,Cellulosibacter,,30,,FJ815191,53.2,50
+Symbiobacterium ostreiconchae,471799,KY38,Bacteria,Firmicutes,Clostridia,Clostridiales,Symbiobacteriaceae,Symbiobacterium,,68.8,,AB361629,61.5,50
+Planifilum fimeticola,201975,H0165,Bacteria,Firmicutes,Bacilli,Bacillales,Thermoactinomycetaceae,Planifilum,,60.3,,AB088364,60.7,50
+Desulfotomaculum peckii,1236215,LINDBHT1,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Desulfohalotomaculum,,44.4,,JX861507,55.4,50
+Desulfosoma caldarium,610254,USBA-053,Bacteria,Proteobacteria,Deltaproteobacteria,Syntrophobacterales,Syntrophobacteraceae,Desulfosoma,,,,FJ491989,58.7,50

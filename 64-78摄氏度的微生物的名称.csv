@@ -1,0 +1,55 @@
+genus_and_species,taxonomy_id,strain,superkingdom,phylum,class,order,family,genus,assembly_or_accession,Genome_GC,Genome_size,16S_accssion,16S_GC,Tmin
+Pyrobaculum aerophilum,13773,IM2 ,Archaea,Crenarchaeota,Thermoprotei,Thermoproteales,Thermoproteaceae,Pyrobaculum,GCA_000007225.1,51.4,2.2,L07510,60.2,75
+Pyrococcus glycovorans,74610,AL585,Archaea,Euryarchaeota,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus,,47,,Z70247,67.3,75
+Pyrobaculum calidifontis,181486,VA1,Archaea,Crenarchaeota,Thermoprotei,Thermoproteales,Thermoproteaceae,Pyrobaculum,,51,,AB078332,67.8,75
+Ignicoccus pacificus,114376,LPC33,Archaea,Crenarchaeota,Thermoprotei,Desulfurococcales,Desulfurococcaceae,Ignicoccus,,45,,AJ271794,67,75
+Thermodiscus maritimus,54250,S2,Archaea,Crenarchaeota,Thermoprotei,Desulfurococcales,Desulfurococcaceae,Thermodiscus,,49,,X99554,67.2,75
+Pyrobaculum ferrireducens,1104324,1860,Archaea,Crenarchaeota,Thermoprotei,Thermoproteales,Thermoproteaceae,Pyrobaculum,GCA_000234805.1,57,2.5,CP003098,68,75
+Pyrobaculum igneiluti,1806371,521,Archaea,Crenarchaeota,Thermoprotei,Thermoproteales,Thermoproteaceae,Pyrobaculum,,,,KU720559,67.9,75
+Vulcanisaeta thermophila,867917,CBA1501,Archaea,Crenarchaeota,Thermoprotei,Thermoproteales,Thermoproteaceae,Vulcanisaeta,,43.1,,HM594677,67.3,75
+Thermoproteus thermophilus,867916,CBA1502,Archaea,Crenarchaeota,Thermoprotei,Thermoproteales,Thermoproteaceae,Thermoproteus,,62,,HM594678,68.3,75
+Pyrobaculum islandicum,2277,GEO3,Archaea,Crenarchaeota,Thermoprotei,Thermoproteales,Thermoproteaceae,Pyrobaculum,GCA_000015205.1,49.6,1.8,L07511,66.4,74
+Thermoproteus uzoniensis,184117,Z-605,Archaea,Crenarchaeota,Thermoprotei,Thermoproteales,Thermoproteaceae,Thermoproteus,GCA_000193375.1,59.7,1.9,CP002590,67.6,74
+Thermococcus fumicolans,46540,ST557,Archaea,Euryarchaeota,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,,54.5,,Z70250,65.1,73
+Ignicoccus hospitalis,160233, KIN4/I,Archaea,Crenarchaeota,Thermoprotei,Desulfurococcales,Desulfurococcaceae,Ignicoccus,GCA_000017945.1,56.5,1.3,AJ318042,67.7,73
+Hyperthermus butylicus,54248,DSM 5456,Archaea,Crenarchaeota,Thermoprotei,Desulfurococcales,Pyrodictiaceae,Hyperthermus,GCA_000015145.1,53.7,1.7,X99553,66.3,72
+Pyrococcus kukulkanii,1609559,NCB100,Archaea,Euryarchaeota,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus,GCA_001577775.1,44.6,2,CP010835,66.5,70
+Pyrococcus furiosus,2261,Vc1,Archaea,Euryarchaeota,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus,GCA_000007305.1,40.8,1.9,U20163,66.2,70
+Stetteria hydrogenophila,52001,DSM 11227,Archaea,Crenarchaeota,Thermoprotei,Desulfurococcales,Desulfurococcaceae,Stetteria,,65,,Y07784,66.7,70
+Aeropyrum pernix,56636,K1,Archaea,Crenarchaeota,Thermoprotei,Desulfurococcales,Desulfurococcaceae,Aeropyrum,GCA_000011125.1,56.3,1.7,D83259,67.7,70
+Ignicoccus islandicus,54259,Kol8,Archaea,Crenarchaeota,Thermoprotei,Desulfurococcales,Desulfurococcaceae,Ignicoccus,GCA_001481685.1,44.9,1.4,X99562,66.5,70
+Aeropyrum camini,229980,SY1,Archaea,Crenarchaeota,Thermoprotei,Desulfurococcales,Desulfurococcaceae,Aeropyrum,GCA_000591035.1,56.7,1.6,AB109559,65.8,70
+Pyrobaculum oguniense,99007,TE7,Archaea,Crenarchaeota,Thermoprotei,Thermoproteales,Thermoproteaceae,Pyrobaculum,,48,,AB029339,67.9,70
+Sulfophobococcus zilligii,53426,K1,Archaea,Crenarchaeota,Thermoprotei,Desulfurococcales,Desulfurococcaceae,Sulfophobococcus,,54.7,,X98064,67.1,70
+Thermococcus atlanticus,155321,MA898,Archaea,Euryarchaeota,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,,50,,AJ310754,65.5,70
+Thermococcus pacificus,71998,P-4,Archaea,Euryarchaeota,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,GCA_002214485.1,54.2,1.8,Y16227,55.2,70
+Vulcanisaeta distributa,164451,IC-017,Archaea,Crenarchaeota,Thermoprotei,Thermoproteales,Thermoproteaceae,Vulcanisaeta,GCA_000148385.1,45.4,2.4,AB063630,67.1,70
+Thermofilum uzonense,1550241,1807-2,Archaea,Crenarchaeota,Thermoprotei,Thermoproteales,Thermofilaceae,Thermofilum,GCA_000993805.1,47.9,1.6,CP009961,65.4,70
+Staphylothermus hellenicus,84599,P8,Archaea,Crenarchaeota,Thermoprotei,Desulfurococcales,Desulfurococcaceae,Staphylothermus,GCA_000092465.1,36.8,1.6,AJ012645,66.8,70
+Thermodesulfobacterium geofontis,1295609,OPF15 ,Bacteria,Thermodesulfobacteria,Thermodesulfobacteria,Thermodesulfobacteriales,Thermodesulfobacteriaceae,Thermodesulfobacterium,GCA_000215975.1,30.6,1.6,NR_118457,61.9,70
+Acidianus ambivalens,2283,Lei 10,Archaea,Crenarchaeota,Thermoprotei,Sulfolobales,Sulfolobaceae,Acidianus,GCA_009729015.1,34.2,2.3,D85506,63.7,70
+Thermocrinis jamiesonii,1302351,GBS1,Bacteria,Aquificae,Aquificae,Aquificales,Aquificaceae,Thermocrinis,,41.3,,KC526152,61.6,70
+Sulfurisphaera tokodaii,111955,7,Archaea,Crenarchaeota,Thermoprotei,Sulfolobales,Sulfolobaceae,Sulfurisphaera,GCA_000011205.1,32.8,2.7,AB022438,64,70
+Thermovibrio ammonificans,228745,HB-1 ,Bacteria,Aquificae,Aquificae,Desulfurobacteriales,Desulfurobacteriaceae,Thermovibrio,GCA_000185805.1,52.1,1.8,AY263403,63.5,69
+Pyrobaculum arsenaticum,121277,PZ6,Archaea,Crenarchaeota,Thermoprotei,Thermoproteales,Thermoproteaceae,Pyrobaculum,GCA_000016385.1,55.1,2.1,AJ277124,67.8,68
+Desulfurococcus amylolyticus,94694,Z-533,Archaea,Crenarchaeota,Thermoprotei,Desulfurococcales,Desulfurococcaceae,Desulfurococcus,GCA_000231015.3,44.8,1.4,NR_104706,65.5,68
+Thermococcus gorgonarius,71997,W-12,Archaea,Euryarchaeota,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,GCA_002214385.1,51.7,1.7,Y16226,55.7,68
+Thermoflexus hugenholtzii,1495650,JAD2,Bacteria,Chloroflexi,Thermoflexia,Thermoflexales,Thermoflexaceae,Thermoflexus,,69.3,,KC526151,64.7,68
+Pyrococcus abyssi,29292,GE5,Archaea,Euryarchaeota,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus,GCA_000195935.2,44.7,1.8,L19921,66.8,67
+Aquifex pyrophilus,2714,Kol5a,Bacteria,Aquificae,Aquificae,Aquificales,Aquificaceae,Aquifex,,47.3,,M83548,64.9,67
+Staphylothermus marinus,2280,F1,Archaea,Crenarchaeota,Thermoprotei,Desulfurococcales,Desulfurococcaceae,Staphylothermus,GCA_000015945.1,35.7,1.6,X99560,67.4,65
+Methanothermus fervidus,2180,V24S,Archaea,Euryarchaeota,Methanobacteria,Methanobacteriales,Methanothermaceae,Methanothermus,GCA_000166095.1,31.6,1.2,NR_102926,64,65
+Acidianus infernus,12915,So4a ,Archaea,Crenarchaeota,Thermoprotei,Sulfolobales,Sulfolobaceae,Acidianus,,31,,D85505,64,65
+Sulfolobus tengchongensis,207809,RT8-4,Archaea,Crenarchaeota,Thermoprotei,Sulfolobales,Sulfolobaceae,Sulfolobus,,34.4,,AY135637,61.3,65
+Ferroglobus placidus,54261,AEDII12DO ,Archaea,Euryarchaeota,Archaeoglobi,Archaeoglobales,Archaeoglobaceae,Ferroglobus,GCA_000025505.1,44.1,2.2,AF220166,65.9,65
+Sulfolobus yangmingensis,73007,YM1,Archaea,Crenarchaeota,Thermoprotei,Sulfolobales,Sulfolobaceae,Sulfolobus,,42,,AB010957,63.9,65
+Saccharolobus caldissimus,1702097,HS-3,Archaea,Crenarchaeota,Thermoprotei,Sulfolobales,Sulfolobaceae,Saccharolobus,,31.7,,LC275065,64,65
+Geoglobus ahangari,113653,234,Archaea,Euryarchaeota,Archaeoglobi,Archaeoglobales,Archaeoglobaceae,Geoglobus,GCA_001006045.1,53.1,1.8,AF220165,64.5,65
+Thermosphaera aggregans,54254,M11TL,Archaea,Crenarchaeota,Thermoprotei,Desulfurococcales,Desulfurococcaceae,Thermosphaera,GCA_000092185.1,46.7,1.3,X99556,67,65
+Archaeoglobus profundus,84156,AV18,Archaea,Euryarchaeota,Archaeoglobi,Archaeoglobales,Archaeoglobaceae,Archaeoglobus,GCA_000025285.1,42,1.6,NR_028937,65.1,65
+Vulcanisaeta souniana,164452,IC-059,Archaea,Crenarchaeota,Thermoprotei,Thermoproteales,Thermoproteaceae,Vulcanisaeta,,44.9,,AB063646,68,65
+Archaeoglobus veneficus,58290,SNP6,Archaea,Euryarchaeota,Archaeoglobi,Archaeoglobales,Archaeoglobaceae,Archaeoglobus,GCA_000194625.1,47,1.9,JF449426,58.7,65
+Thermocrinis minervae,381751,CR11,Bacteria,Aquificae,Aquificae,Aquificales,Aquificaceae,Thermocrinis,,40.3,,AM260555,62,65
+Hydrogenivirga okinawensis,345592,LS12-2,Bacteria,Aquificae,Aquificae,Aquificales,Aquificaceae,Hydrogenivirga,,51.3,,AB235314,64.2,65
+Phorcysia thermohydrogeniphila,936138,HB-8 ,Bacteria,Aquificae,Aquificae,Desulfurobacteriales,Desulfurobacteriaceae,Phorcysia,,47.8,,HQ336972,62.9,65
+Thermogladius shockii,477696,WB1,Archaea,Crenarchaeota,Thermoprotei,Desulfurococcales,Desulfurococcaceae,Thermogladius,,51.3,,EU183120,66.5,64

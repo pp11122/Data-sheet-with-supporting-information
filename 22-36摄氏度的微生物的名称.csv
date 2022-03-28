@@ -1,0 +1,1144 @@
+genus_and_species,taxonomy_id,strain,superkingdom,phylum,class,order,family,genus,assembly_or_accession,Genome_GC,Genome_size,16S_accssion,16S_GC,Tmin
+Geobacillus thermocatenulatus,33938,DSM 730,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Geobacillus,GCA_002243665.1,51.9,3.7,Z26926,59.7,35
+Thermosipho africanus,2421,Ob7,Bacteria,Thermotogae,Thermotogae,Thermotogales,Fervidobacteriaceae,Thermosipho,GCA_000021285.1,30.8,2,NR_043912,60,35
+Coprothermobacter proteolyticus,35786,BT,Bacteria,Coprothermobacterota,Coprothermobacteria,Coprothermobacterales,Coprothermobacteraceae,Coprothermobacter,GCA_000020945.1,44.8,1.4,NR_029236,57.5,35
+Thermoanaerobacterium thermosulfurigenes,33950,4BT,Bacteria,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacterales Family III. Incertae Sedis,Thermoanaerobacterium,,32.6,,L09171,54.1,35
+Anoxybacillus kaynarcensis,1173302,D1021,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Anoxybacillus,,42.9,,EU926955,55.9,35
+Anoxybacillus eryuanensis,651866,E-112,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Anoxybacillus,,42.6,,GQ153549,56.1,35
+Anoxybacillus calidus,575178,C161ab,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Anoxybacillus,,37.8,,FJ430012,56.2,35
+Meiothermus ruber,277,21,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Meiothermus,GCA_000024425.1,63.4,3.1,Z15059,57.5,35
+Inmirania thermothiophila,1750597,S2479,Bacteria,Proteobacteria,Gammaproteobacteria,Chromatiales,Ectothiorhodospiraceae,Inmirania,,71.5,,KT159732,58.8,35
+Anoxybacillus rupiensis,311460,R270,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Anoxybacillus,,41.7,,AJ879076,56.6,35
+Thermoanaerobacterium aotearoense,47490,JW/SL-NZ613 ,Bacteria,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacterales Family III. Incertae Sedis,Thermoanaerobacterium,GCA_009905255.1,35.4,2.7,X93359,54.8,35
+Anoxybacillus caldiproteolyticus,247480,SF03,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Anoxybacillus,,,,AY327448,56.3,35
+Marinitoga hydrogenitolerans,287990,AT1271,Bacteria,Thermotogae,Thermotogae,Petrotogales,Petrotogaceae,Marinitoga,,28,,AJ786363,56.3,35
+Thermonema rossianum,55505,NR-27,Bacteria,Bacteroidetes,Cytophagia,Cytophagales,Thermonemataceae,Thermonema,,50.9,,Y08956,58.1,35
+Acetomicrobium flavidum,49896,TN,Bacteria,Synergistetes,Synergistia,Synergistales,Synergistaceae,Acetomicrobium,,47,,FR733692,59,35
+Brevibacillus aydinogluensis,927786,PDF25,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Brevibacillus,,56.1,,HQ419073,56.6,35
+Hydrogenophilus islandicus,545536,16C,Bacteria,Proteobacteria,Hydrogenophilalia,Hydrogenophilales,Hydrogenophilaceae,Hydrogenophilus,,63.9,,EU625664,58,35
+Hydrogenimonas thermophila,223786,EP1-55-1% ,Bacteria,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Hydrogenimonaceae,Hydrogenimonas,,34.6,,AB105049,63.1,35
+Geothermobacter ehrlichii,213224,SS015,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Geobacteraceae,Geothermobacter,,62.6,,AY155599,55.4,35
+Coprothermobacter platensis,108819,3R ,Bacteria,Coprothermobacterota,Coprothermobacteria,Coprothermobacterales,Coprothermobacteraceae,Coprothermobacter,,43,,NR_026366,56.7,35
+Marinithermofilum abyssi,1571185,SCSIO 11157 ,Bacteria,Firmicutes,Bacilli,Bacillales,Thermoactinomycetaceae,Marinithermofilum,,54.2,,KM368341,59.3,35
+Meiothermus rufus,604332,CAL-4,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Meiothermus,,64.1,,FN178496,57.6,35
+Alicyclobacillus herbarius,122960, CP-1,Bacteria,Firmicutes,Bacilli,Bacillales,Alicyclobacillaceae,Alicyclobacillus,,56.2,,AB042055,60,35
+Acetomicrobium mobile,97477,NGA,Bacteria,Synergistetes,Synergistia,Synergistales,Synergistaceae,Acetomicrobium,GCA_000266925.1,48,2.2,AJ243189,59,35
+Thermoanaerobacterium butyriciformans,1702242, USBA-019,Bacteria,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacterales Family III. Incertae Sedis,Thermoanaerobacterium,,32.7,,KT369738,54.5,35
+Tepidimonas ignava,114249,SPS-1037,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,,Tepidimonas,,69.7,,AF177943,57.9,35
+Thermoflavifilum aggregans,454188,P373 ,Bacteria,Bacteroidetes,Chitinophagia,Chitinophagales,Chitinophagaceae,Thermoflavifilum,,47.3,,AM749771,55.6,35
+Lebetimonas natsushimae,1936991,HS1857,Bacteria,Proteobacteria,Epsilonproteobacteria,Nautiliales,Nautiliaceae,Lebetimonas,,33.2,,NR_152636,57.3,35
+Melghiribacillus thermohalophilus,1324956,Nari2A ,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Melghiribacillus,,41.9,,KC845574,57.7,35
+Thermasporomyces composti,696763,I3,Bacteria,Actinobacteria,Actinobacteria,Propionibacteriales,Nocardioidaceae,Thermasporomyces,,69.2,,AB535715,59.8,35
+Thiobacter subterraneus,279810,C55,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,,Thiobacter,,66.9,,AB180657,56.7,35
+Bacillus kokeshiiformis,1247960,MO-04,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,,33.4,,JX848633,54.1,35
+Calorithrix insularis,1852309,KR,Bacteria,Calditrichaeota,,,,Calorithrix,,47.3,,KU306340,56.3,35
+Crenotalea thermophila,1393122,STH-1-Y1 ,Bacteria,Bacteroidetes,Chitinophagia,Chitinophagales,Chitinophagaceae,Crenotalea,,46.6,,AB849120,55.4,35
+Melioribacter roseus,1134405,P3M-2,Bacteria,Ignavibacteriae,Ignavibacteria,Ignavibacteriales,Melioribacteraceae,Melioribacter,GCA_000279145.1,41.3,3.3,JQ292917,55,35
+Tepidimonas fonticaldi,1101373,AT-A2,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,,Tepidimonas,,70.1,,JN713899,56.6,35
+Tepidimonas taiwanensis,307486,I1-1,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,,Tepidimonas,,68.1,,AY845054,57.3,35
+Caldimonas taiwanensis,307483,Onl,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Caldimonas,,65.9,,AY845052,57.1,35
+Alicyclobacillus vulcanalis,252246,CsHg2,Bacteria,Firmicutes,Bacilli,Bacillales,Alicyclobacillaceae,Alicyclobacillus,,62,,AB222267,60.1,35
+Tepidiphilus succinatimandens,224436,4BON,Bacteria,Proteobacteria,Hydrogenophilalia,Hydrogenophilales,Hydrogenophilaceae,Tepidiphilus,,58.6,,AY219713,59.2,35
+Meiothermus cerbereus,65552,GY-1,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Meiothermus,,60.9,,Y13594,57.9,35
+Bacillus methanolicus,1471,PB1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,GCA_000724485.1,38.6,3.4,X64465,55.7,35
+Raineya orbicola,2016530,SPSPC-11,Bacteria,Bacteroidetes,Cytophagia,Cytophagales,Raineyaceae,Raineya,,37.6,,KY990922,53.3,35
+Bacillus sediminis,1274353,DX-5,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,,46.6,,KC311559,56.1,35
+Desulfothermus okinawensis,392842,TFISO9,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfohalobiaceae,Desulfothermus,,34.9,,AB264617,58.2,35
+Desulfotomaculum thermosapovorans,58137,MLF,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Desulfallas,,51.2,,NR_044948,57.4,35
+Halopiger thermotolerans,1383816,SR-441,Archaea,Euryarchaeota,Halobacteria,Natrialbales,Natrialbaceae,Halopiger,,63.5,,AB844674,59.2,35
+Alicyclobacillus contaminans,392016,3-A191,Bacteria,Firmicutes,Bacilli,Bacillales,Alicyclobacillaceae,Alicyclobacillus,,60.6,,AB264026,58.2,35
+Alicyclobacillus macrosporangiidus,392015,5-A239쭯2O-A,Bacteria,Firmicutes,Bacilli,Bacillales,Alicyclobacillaceae,Alicyclobacillus,,62.5,,AB264025,59.4,35
+Alicyclobacillus shizuokensis,392014,4-A336,Bacteria,Firmicutes,Bacilli,Bacillales,Alicyclobacillaceae,Alicyclobacillus,,60.5,,AB264024,60.2,35
+Aciditerrimonas ferrireducens,667306,IC-180,Bacteria,Actinobacteria,Acidimicrobiia,Acidimicrobiales,Acidimicrobiaceae,Aciditerrimonas,,74.1,,AB517669,61.2,35
+Meiothermus hypogaeus,884155,AZM34c11,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Meiothermus,,63.4,,AB586707,57.1,35
+Natranaerobius thermophilus,375929,JW/NM-WN-LF,Bacteria,Firmicutes,Clostridia,Natranaerobiales,Natranaerobiaceae,Natranaerobius,GCA_000020005.1,36.3,3.2,DQ417202,57.7,35
+Heliothrix oregonensis,1110, IS/F-I,Bacteria,Chloroflexi,Chloroflexia,Chloroflexales,Roseiflexaceae,Heliothrix,,,,L04675,60.6,35
+Meiothermus terrae,1408545,YIM 77755,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Meiothermus,,68.9,,KF603888,63.2,35
+Thermophagus xiamenensis,385682,HS-1,Bacteria,Bacteroidetes,Bacteroidia,Marinilabiliales,Marinilabiliaceae,Thermophagus,,38.7,,DQ517535,52.7,35
+Methanolinea tarda,263906,NOBI-1,Archaea,Euryarchaeota,Methanomicrobia,Methanomicrobiales,Methanoregulaceae,Methanolinea,,56.3,,AB162774,57.1,35
+Methanosarcina thermophila,2210,TM-1,Archaea,Euryarchaeota,Methanomicrobia,Methanosarcinales,Methanosarcinaceae,Methanosarcina,GCA_000969885.1,41.1,3.1,M59140,55.1,35
+Tepidibacter formicigenes,227138,DV1184,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Tepidibacter,,29,,AY245527,54.1,35
+Natrialba swarupiae,2448032,ESP3B_9,Archaea,Euryarchaeota,Halobacteria,Natrialbales,Natrialbaceae,Natrialba,,62.5,,MN378559,58.5,35
+Haloterrigena mahii,1416969,H13,Archaea,Euryarchaeota,Halobacteria,Natrialbales,Natrialbaceae,Haloterrigena,,65.1,,KY349160,58.6,35
+Alicyclobacillus acidoterrestris,1450,GD3B,Bacteria,Firmicutes,Bacilli,Bacillales,Alicyclobacillaceae,Alicyclobacillus,,51.6,,AB042057,57.1,35
+Aneurinibacillus danicus,267746,NCIMB 13288,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Aneurinibacillus,,46.7,,AB112725,56.9,35
+Halarchaeum grantii,1193105,MH1-243-3,Archaea,Euryarchaeota,Halobacteria,Halobacteriales,Halobacteriaceae,Halarchaeum,,65.2,,AB698662,57.7,35
+Halorubrum tebenquichense,119434,ALT6-92,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Halorubraceae,Halorubrum,,63.2,,AJ276887,56.1,35
+Halomicrobium katesii,437163,Al-5,Archaea,Euryarchaeota,Halobacteria,Halobacteriales,Haloarculaceae,Halomicrobium,,52.4,,EF533994,57.6,35
+Anaerostipes butyraticus,645466,12966,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Anaerostipes,,44,,FJ947528,54,35
+Bifidobacterium lemurum,1603886,LMC 13 ,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,,57.2,,KJ658281,59.4,35
+Caproiciproducens galactitolivorans,642589,BS-1 ,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Caproiciproducens,,50,,FJ805840,54.1,35
+Methanobrevibacter boviskoreani,1348249,JH1,Archaea,Euryarchaeota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanobrevibacter,,28,,KC608769,53.1,35
+Mageeibacillus indolicus,884684,BAA-2120 ,Bacteria,Firmicutes,Clostridia,Clostridiales,Hungateiclostridiaceae,Mageeibacillus,GCA_000025225.2,44.2,1.8,GQ900632,52.8,35
+Bifidobacterium eulemuris,1765219,LMM_E3,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,,62.3,,KP979748,59.4,35
+Agathobaculum desmolans,39484,ATCC 43058,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Agathobaculum,,48.5,,L34618,53.1,35
+Thermoanaerobacter sulfurigignens,120958,JW/SL-NZ826,Bacteria,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacteraceae,Thermoanaerobacter,,34.5,,AF234164,58.6,34
+Anaerobranca horikoshii,42448,JW/YL-138,Bacteria,Firmicutes,Clostridia,Clostridiales,Proteinivoraceae,Anaerobranca,,33.5,,U21809,52.6,34
+Thiomonas thermosulfata,40991, ATCC 51520,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,,Thiomonas,,61,,U27839,54.6,34
+Anaerobranca zavarzinii,436000,JW/VK-KS5Y,Bacteria,Firmicutes,Clostridia,Clostridiales,Proteinivoraceae,Anaerobranca,,32.5,,EF190921,53.4,34
+Brevibacillus thermoruber,33942,BT2,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Brevibacillus,,57,,AB112722,56.7,34
+Acidimicrobium ferrooxidans,53635,ICP ,Bacteria,Actinobacteria,Acidimicrobiia,Acidimicrobiales,Acidimicrobiaceae,Acidimicrobium,GCA_000023265.1,68.3,2.2,U75647,60.3,34
+Thermochromatium tepidum,1050,MC,Bacteria,Proteobacteria,Gammaproteobacteria,Chromatiales,Chromatiaceae,Thermochromatium,GCA_009664085.1,63.4,3,M59150,56.6,34
+Isosphaera pallida,128,IS1B,Bacteria,Planctomycetes,Planctomycetia,Planctomycetales,Isosphaeraceae,Isosphaera,GCA_000186345.1,62.4,5.5,AJ231195,62,34
+Acetitomaculum ruminis,2382,139B,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Acetitomaculum,,34,,M59083,54.1,34
+Mycoplasma tullyi,1612150,56A97T,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,,,,NR_158114,46.3,34
+Kosmotoga pacifica,1330330,SLHLJ1,Bacteria,Thermotogae,Thermotogae,Kosmotogales,Kosmotogaceae,Kosmotoga,,43.7,,KC119212,60.3,33
+Thermoanaerobacter uzonensis,447593,JW/IW010,Bacteria,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacteraceae,Thermoanaerobacter,,33.6,,EF530067,57.9,33
+Thermoplasma volcanium,50339,GSS1,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Thermoplasmataceae,Thermoplasma,GCA_000011185.1,39.9,1.6,NR_074223,54.7,33
+Nautilia abyssi,498371,PH1209,Bacteria,Proteobacteria,Epsilonproteobacteria,Nautiliales,Nautiliaceae,Nautilia,,35,,AM937002,57.2,33
+Ureibacillus thermosphaericus,51173,DSM 10633,Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Ureibacillus,GCA_002370195.2,36.3,3.5,X90640,55.2,33
+Caloramator viterbiensis,112729,?JW/MS-VS5,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Caloramator,,32,,AF181848,55.3,33
+Desulfurella propionica,79271,U-8,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfurellales,Desulfurellaceae,Desulfurella,,32.2,,Y16942,53.9,33
+Tepidibacter thalassicus,214905,SC 562,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Tepidibacter,,24,,AY158079,54.9,33
+Chloroflexus islandicus,1707952,isl-2,Bacteria,Chloroflexi,Chloroflexia,Chloroflexales,Chloroflexaceae,Chloroflexus,,59.7,,NR_148571,64.1,33
+Desulfotomaculum alcoholivorax,265477,RE35E1,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Desulfallas,,48,,AY548778,56.8,33
+Anaerobiospirillum thomasii,179995,NCTC 12467,Bacteria,Proteobacteria,Gammaproteobacteria,Aeromonadales,Succinivibrionaceae,Anaerobiospirillum,,40,,AJ420985,53.6,33
+Methanobrevibacter millerae,230361,ZA-10,Archaea,Euryarchaeota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanobrevibacter,GCA_001477655.1,31.8,2.5,AY196673,53.1,33
+Mycobacterium ahvazicum,1964395,AFP-003,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,,66.2,,LT797535,57.8,33
+Nitrospira moscoviensis,42253,M-1 ,Bacteria,Nitrospirae,Nitrospira,Nitrospirales,Nitrospiraceae,Nitrospira,GCA_001273775.1,62,4.6,X82558,57.8,33
+Alysiella filiformis,194196,ATCC 15532,Bacteria,Proteobacteria,Betaproteobacteria,Neisseriales,Neisseriaceae,Alysiella,,46,,AF487710,53.5,33
+Ruminococcus champanellensis,1161942,18P13,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcus,,53.1,,AJ515913,51.5,33
+Thermobacillus composti,377615,KWC4,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Thermobacillus,GCA_000227705.3,60.1,4.4,AB254031,58,32
+Acidithiobacillus caldus,33059,KU,Bacteria,Proteobacteria,Acidithiobacillia,Acidithiobacillales,Acidithiobacillaceae,Acidithiobacillus,GCA_000175575.2,61.4,3,Z29975,57.9,32
+Alkaliphilus oremlandii,461876,OhILAs,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Alkaliphilus,GCA_000018325.1,,3.1,DQ250645,54.1,32
+Thiomicrorhabdus chilensis,63656,Ch-1,Bacteria,Proteobacteria,Gammaproteobacteria,Thiotrichales,Piscirickettsiaceae,Thiomicrorhabdus,,49.9,,AF013975,51.2,32
+Anaerococcus pacaensis,1465826,9403502,Bacteria,Firmicutes,Tissierellia,Tissierellales,Peptoniphilaceae,Anaerococcus,,35.1,,HM587325,49.9,32
+Fenollaria massiliensis,938288,9401234,Bacteria,Firmicutes,Clostridia,Clostridiales,,Fenollaria,,36.5,,HM587321,49.5,32
+Centipeda periodontii,82203,LL2383,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,Centipeda,,52.5,,AJ010963,54.1,32
+Thermosporothrix hazakensis,644383,SK20-1 ,Bacteria,Chloroflexi,Ktedonobacteria,Ktedonobacterales,Thermosporotrichaceae,Thermosporothrix,,54,,AB500145,58.4,31
+Hyphomonas jannaschiana,86,VP2,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Hyphomonadaceae,Hyphomonas,,60,,AF082789,53.7,31
+Mycoplasma enhydrae,2499220,16011,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,,32.8,,MF351868,46,31
+Thiomicrorhabdus frisia,63655,JB-A2,Bacteria,Proteobacteria,Gammaproteobacteria,Thiotrichales,Piscirickettsiaceae,Thiomicrorhabdus,,39.6,,AF013974,50.5,31
+Anoxybacillus mongoliensis,452565,T4,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Anoxybacillus,,44.2,,NR_116097,56.6,30
+Anoxybacillus tengchongensis,576944,T-11,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Anoxybacillus,,41.1,,FJ438370,56.4,30
+Ardenticatena maritima,872965,110S,Bacteria,Chloroflexi,Ardenticatenia,Ardenticatenales,Ardenticatenaceae,Ardenticatena,,51.5,,AB576167,61.8,30
+Anoxybacillus flavithermus,33934,DSM 2641,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Anoxybacillus,GCA_000019045.1,41.8,2.8,AF004589,56.1,30
+Deferrisoma palaeochoriense,1573172,MAG-PB1,Bacteria,Proteobacteria,Deltaproteobacteria,,,Deferrisoma,,66.7,,KM386664,61.2,30
+Rubrobacter taiwanensis,185139,LS-293,Bacteria,Actinobacteria,Rubrobacteria,Rubrobacterales,Rubrobacteraceae,Rubrobacter,,68.5,,AF465803,60.4,30
+Brassicibacter thermophilus,1548890,Cel2f ,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Brassicibacter,,31.3,,KM277820,54.5,30
+Desulfotomaculum nigrificans,1565,ATCC 19998,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Desulfotomaculum,GCA_000214435.1,46.6,2.9,X62176,55.6,30
+Anoxybacillus ayderensis,265546,AB04,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Anoxybacillus,,54,,AF001963,56.7,30
+Marinitoga okinawensis,389480,TFS10-5,Bacteria,Thermotogae,Thermotogae,Petrotogales,Petrotogaceae,Marinitoga,,28,,AB262395,57.2,30
+Methanothrix thermoacetophila,2224,PT,Archaea,Euryarchaeota,Methanomicrobia,Methanosarcinales,Methanotrichaceae,Methanothrix,,53.3,,CP000477,57.8,30
+Thermoanaerobacterium thermosaccharolyticum,1517,ATCC 7956,Bacteria,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacterales Family III. Incertae Sedis,Thermoanaerobacterium,GCA_000145615.1,34.1,2.8,M59119,51.9,30
+Thermostilla marina,1742923,SVX8,Bacteria,Planctomycetes,Planctomycetia,Planctomycetales,Planctomycetaceae,Thermostilla,,58.5,,KR872395,57.9,30
+Caloramator proteoclasticus,53342,U,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Caloramator,,31,,X90488,56.8,30
+Lebetimonas acidiphila,267990,Pd55,Bacteria,Proteobacteria,Epsilonproteobacteria,Nautiliales,Nautiliaceae,Lebetimonas,,34,,AB167820,57.3,30
+Oceanithermus desulfurans,227924,St55B,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Oceanithermus,,71.1,,AB107956,62.7,30
+Keratinibaculum paraultunense,1278232,KD-1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Keratinibaculum,,28,,kc188660,53.7,30
+Bacillus borbori,1245521,DX-4,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,,38.6,,JX274440,56,30
+Calditerrivibrio nitroreducens,477976,Yu37-1,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,Deferribacteraceae,Calditerrivibrio,GCA_000183405.1,35.7,2.2,AB364234,56,30
+Novibacillus thermophilus,1471761,SG-1 ,Bacteria,Firmicutes,Bacilli,Bacillales,Thermoactinomycetaceae,Novibacillus,GCA_002005165.1,50.4,3.6,KF958346,59.4,30
+Anaerobranca gottschalkii,108328,LBS3,Bacteria,Firmicutes,Clostridia,Clostridiales,Proteinivoraceae,Anaerobranca,,,,AF203703,53.5,30
+Methanoculleus receptaculi,394967,ZC-2,Archaea,Euryarchaeota,Methanomicrobia,Methanomicrobiales,Methanomicrobiaceae,Methanoculleus,,55.2,,DQ787476,56.9,30
+Dissulfurimicrobium hydrothermale,1750598,Sh68,Bacteria,Proteobacteria,Deltaproteobacteria,,,Dissulfurimicrobium,,49,,KT159733,55.4,30
+Anoxybacillus voinovskiensis,230470,TH13,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Anoxybacillus,,43.9,,AB110008,55.7,30
+Sinibacillus soli,1289106,GD05,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Sinibacillus,,43.7,,KC404830,55.4,30
+Natribaculum longum,1419051,TRM20345 ,Archaea,Euryarchaeota,Halobacteria,Natrialbales,Natrialbaceae,Natribaculum,,63.8,,KF739019,59.6,30
+Natribaculum breve,1419050,TRM20010 ,Archaea,Euryarchaeota,Halobacteria,Natrialbales,Natrialbaceae,Natribaculum,,63.9,,KF739011,60.1,30
+Bacillus coagulans,1398,ATCC 7050,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,GCA_001039495.1,46.2,3.7,D16267,56.2,30
+Haloterrigena limicola,370323,AX-7,Archaea,Euryarchaeota,Halobacteria,Natrialbales,Natrialbaceae,Haloterrigena,,61.9,,DQ367241,58.2,30
+Athalassotoga saccharophila,1441386,NAS-01,Bacteria,Thermotogae,Thermotogae,Mesoaciditogales,Mesoaciditogaceae,Athalassotoga,GCA_009936215.1,40.4,2,AB898788,55.9,30
+Caldimonas hydrothermale,391358,HAN-85,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Caldimonas,,68.3,,AM283038,57,30
+Thermogutta hypogea,1331911,SBP2,Bacteria,Planctomycetes,Planctomycetia,Planctomycetales,Planctomycetaceae,Thermogutta,,66.6,,KC867695,57.7,30
+Thermosporothrix narukonensis,1445971,F4,Bacteria,Chloroflexi,Ktedonobacteria,Ktedonobacterales,Thermosporotrichaceae,Thermosporothrix,,52.5,,AB900623,58.2,30
+Kroppenstedtia guangzhouensis,1274356,GD02,Bacteria,Firmicutes,Bacilli,Bacillales,Thermoactinomycetaceae,Kroppenstedtia,,56.3,,KC311557,59.9,30
+Compostibacillus humi,1245525,DX-3,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Compostibacillus,,43.5,,JX274434,55.2,30
+Bacillus composti,1245523,SgZ-9 ,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,,45.3,,JX274437,55.8,30
+Schleiferia thermophila,884107,TU-20 ,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Schleiferiaceae,Schleiferia,,42.8,,HQ172900,54.6,30
+Schlegelella aquatica,376175,wcf1,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Schlegelella,,69.2,,DQ417336,57.9,30
+Mahella australiensis,252966,50-1 BON,Bacteria,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacterales Family IV. Incertae Sedis,Mahella,GCA_000213255.1,43.5,3.1,AY331143,54.6,30
+Thermomonas hydrothermalis,213588,SGM-6,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Thermomonas,,64.7,,AF542054,57.4,30
+Methanonatronarchaeum thermophilum,1927129,AMET1,Archaea,Euryarchaeota,Methanonatronarchaeia,Methanonatronarchaeales,Methanonatronarchaeaceae,Methanonatronarchaeum,,38,,KY449317,56.8,30
+Sporohalobacter salinus,1494606, CEJFT1B,Bacteria,Firmicutes,Clostridia,Halanaerobiales,Halobacteroidaceae,Sporohalobacter,,32.3,,KJ477328,53.7,30
+Desulfotomaculum profundi,1383067,Bs107,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Desulfotomaculum,,48.7,,KF591694,55.3,30
+Cohnella laeviribosi,380174, RI-39,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Cohnella,,51,,DQ459874,57.1,30
+Desulfonauticus submarinus,206665,6N,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfohalobiaceae,Desulfonauticus,,34.4,,AF524933,57.7,30
+Geotoga subterranea,28235,T5,Bacteria,Thermotogae,Thermotogae,Petrotogales,Petrotogaceae,Geotoga,,30,,L10659,53.5,30
+Ferroplasma thermophilum,424696,L1,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Ferroplasmaceae,Ferroplasma,,34.1,,EF062309,51.6,30
+Meiothermus cateniformans,482825,LY1,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Meiothermus,,,,EU247891,58.4,30
+Pseudoxanthomonas taiwanensis,176598,CB-226,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Pseudoxanthomonas,,69.9,,AF427039,57,30
+Geothermomicrobium terrae,1411133,YIM 77562 ,Bacteria,Firmicutes,Bacilli,Bacillales,Thermoactinomycetaceae,Geothermomicrobium,,45.5,,AB859256,57.1,30
+Tepidiphilus thermophilus,876478,JHK30,Bacteria,Proteobacteria,Hydrogenophilalia,Hydrogenophilales,Hydrogenophilaceae,Tepidiphilus,,66.1,,HM543264,59.3,30
+Sulfurivirga caldicuralii,364032,MM1,Bacteria,Proteobacteria,Gammaproteobacteria,Thiotrichales,Piscirickettsiaceae,Sulfurivirga,,51.3,,AB245479,57.2,30
+Paenibacillus tezpurensis,627231,AS-S24-II,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,,,,FJ804507,56.3,30
+Alicyclobacillus pomorum,204470,3A,Bacteria,Firmicutes,Bacilli,Bacillales,Alicyclobacillaceae,Alicyclobacillus,,53.1,,AB089840,58.2,30
+Bacillus okuhidensis,136160,GTC 854,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,,40.1,,AB047684,54.4,30
+Desulfotomaculum alkaliphilum,105483,S1,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Desulfohalotomaculum,,40.9,,AF097024,54.4,30
+Heliobacterium modesticaldum,35701,Ice1,Bacteria,Firmicutes,Clostridia,Clostridiales,Heliobacteriaceae,Heliobacterium,GCA_000019165.1,57,3.1,L36200,56.8,30
+Natronolimnobius aegyptiacus,745377,JW/NM-HA 15,Archaea,Euryarchaeota,Halobacteria,Natrialbales,Natrialbaceae,Natronolimnobius,GCA_002156705.1,64.1,3.9,KX857214,59.3,30
+Halorubrum coriense,64713,Ch2,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Halorubraceae,Halorubrum,,67,,L00922,58.1,30
+Halorubrum saccharovorum,2248,M6,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Halorubraceae,Halorubrum,,71.2,,U17364,58.2,30
+Haloterrigena longa,370324,ABH32,Archaea,Euryarchaeota,Halobacteria,Natrialbales,Natrialbaceae,Haloterrigena,,63.2,,DQ367242,57.9,30
+Haloferax elongans,403191,SA5,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Haloferax,,61.4,,DQ860977,56.9,30
+Desulfotomaculum ferrireducens,1833852,GSS09,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Desulfotomaculum,GCA_002005145.1,45.4,3.2,KU589293,55.2,30
+Thioprofundum lithotrophicum,571898,106,Bacteria,Proteobacteria,Gammaproteobacteria,Chromatiales,Thioprofundaceae,Thioprofundum,,66,,AB468957,56.6,30
+Thermotalea metallivorans,520762,B2-1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Thermotalea,,48,,EU443727,54.5,30
+Cerasibacillus quisquiliarum,227865, BLx,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Cerasibacillus,,35.5,,AB107894,54.6,30
+Geotoga petraea,28234,CC-1,Bacteria,Thermotogae,Thermotogae,Petrotogales,Petrotogaceae,Geotoga,,30,,L10658,52.8,30
+Haloferax denitrificans,35745,S1,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Haloferax,,66.3,,D14128,56.6,30
+Rehaibacterium terrae,1341696,YIM 77974,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Rehaibacterium,,68.3,,KC999854,57.9,30
+Ignavibacterium album,591197,Mat9-16,Bacteria,Ignavibacteriae,Ignavibacteria,Ignavibacteriales,Ignavibacteriaceae,Ignavibacterium,GCA_000258405.1,33.9,3.7,AB478415,53.7,30
+Actinomadura keratinilytica,547461,WCC-2265,Bacteria,Actinobacteria,Actinobacteria,Streptosporangiales,Thermomonosporaceae,Actinomadura,,73.7,,EU637009,59.6,30
+Annwoodia aquaesulis,47959,ATCC 43788,Bacteria,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Thiobacillaceae,Annwoodia,,65.7,,U58019,56.4,30
+Geosporobacter subterraneus,390806,VNs68,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Geosporobacter,,42.2,,DQ643978,53.8,30
+Nautilia profundicola,244787,AmH,Bacteria,Proteobacteria,Epsilonproteobacteria,Nautiliales,Nautiliaceae,Nautilia,GCA_000021725.1,33.5,1.7,AF357197,57.1,30
+Clostridium isatidis,182773,Wv6,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,GCA_002285495.1,28.9,2.9,X98395,52.7,30
+Clostridium tepidum,1962263,IEH 97212,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,,26.9,,KY322707,52.4,30
+Limnochorda pilosa,1555112,HC45,Bacteria,Firmicutes,Limnochordia,Limnochordales,Limnochordaceae,Limnochorda,GCA_001544015.1,69.7,3.8,AB992259,63.6,30
+Meiothermus granaticius,863370,AF-68,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Meiothermus,,63.5,,GU584097,57.6,30
+Methylomarinovum caldicuralii,438856,IT-9,Bacteria,Proteobacteria,Gammaproteobacteria,Methylococcales,Methylothermaceae,Methylomarinovum,,66,,AB301718,60.6,30
+Alicyclobacillus sacchari,392010,RB718,Bacteria,Firmicutes,Bacilli,Bacillales,Alicyclobacillaceae,Alicyclobacillus,,56.6,,AB264020,57.6,30
+Paludifilum halophilum,1642702,SMBg3,Bacteria,Firmicutes,Bacilli,Bacillales,Thermoactinomycetaceae,Paludifilum,,51.2,,KP229518,59.6,30
+Tibeticola sediminis,1917811, YIM 73013,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Tibeticola,,68.3,,KX161735,56,30
+Halorubrum aethiopicum,1758255,SAH-A6,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Halorubraceae,Halorubrum,,68,,KX150521,58.7,30
+Haloarcula quadrata,182779,801030/1,Archaea,Euryarchaeota,Halobacteria,Halobacteriales,Haloarculaceae,Haloarcula,,60.1,,AB010964,56.8,30
+Flexistipes sinusarabici,2352,MAS10,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,Deferribacteraceae,Flexistipes,GCA_000218625.1,38.3,2.5,M59231,54.1,30
+Deinococcus geothermalis,68909,AG-3a,Bacteria,Deinococcus-Thermus,Deinococci,Deinococcales,Deinococcaceae,Deinococcus,GCA_000196275.1,66.4,3.2,Y13038,59.5,30
+Mesotoga infera,1236046,VNs100,Bacteria,Thermotogae,Thermotogae,Kosmotogales,Kosmotogaceae,Mesotoga,,47.5,,HE818616,55.3,30
+Alicyclobacillus tengchongensis,368812,ACK006,Bacteria,Firmicutes,Bacilli,Bacillales,Alicyclobacillaceae,Alicyclobacillus,,53.7,,KF772795,58.6,30
+Halanaerobaculum tunisiense,503834,6SANG,Bacteria,Firmicutes,Clostridia,Halanaerobiales,Halobacteroidaceae,Halanaerobaculum,,34.3,,EU327343,53.3,30
+Acidibacillus sulfuroxidans,1765684,Y002,Bacteria,Firmicutes,Bacilli,Bacillales,,Acidibacillus,,,,KP860945,58,30
+Halovivax cerinus,1487865,IC35,Archaea,Euryarchaeota,Halobacteria,Natrialbales,Natrialbaceae,Halovivax,,63.2,,KJ406208,58.6,30
+Halorientalis persicus,1367881,D108,Archaea,Euryarchaeota,Halobacteria,Halobacteriales,Haloarculaceae,Halorientalis,,62.8,,KF313134,59.4,30
+Halopenitus malekzadehii,1267564,CC65,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Halorubraceae,Halopenitus,,63.8,,KC018183,59.3,30
+Haloplanus vescus,555874,RO5-8,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Haloplanus,,62.1,,EU931578,57.5,30
+Salinifilum proteinilyticum,1851175,Miq-12,Bacteria,Actinobacteria,Actinobacteria,Pseudonocardiales,Pseudonocardiaceae,Salinifilum,,72.1,,KX024578,59.3,30
+Salinithrix halophila,1485204,R4S8,Bacteria,Firmicutes,Bacilli,Bacillales,Thermoactinomycetaceae,Salinithrix,,52.6,,KJ206288,58.6,30
+Limimonas halophila,1082479,IA16,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,Limimonas,,67,,JN605361,61.1,30
+Catenisphaera adipataccumulans,700500,GK12,Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Catenisphaera,,47.7,,AB537978,55.1,30
+Geoalkalibacter subterraneus,483547,Red1,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Geobacteraceae,Geoalkalibacter,GCA_000827125.1,56.6,3.7,EU182247,57.4,30
+Paenibacillus xylaniclasticus,588083,TW1,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,,49.5,,FJ532373,55.5,30
+Syntrophomonas palmitatica,402877,MPA,Bacteria,Firmicutes,Clostridia,Clostridiales,Syntrophomonadaceae,Syntrophomonas,,45,,AB274039,54.4,30
+Bacillus oleronius,38875, Kuhnigk RT 10,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,,35,,X82492,54.3,30
+Porphyrobacter tepidarius,60454,OT3,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Erythrobacteraceae,Porphyrobacter,,65,,D84429,52.6,30
+Cecembia rubra,1485585, YIM 78110,Bacteria,Bacteroidetes,Cytophagia,Cytophagales,Cyclobacteriaceae,Cecembia,,47.1,,KJ361469,55.4,30
+Natronococcus roseus,1052014,CG-1,Archaea,Euryarchaeota,Halobacteria,Natrialbales,Natrialbaceae,Natronococcus,,62.1,,FR877778,59,30
+Paracoccus kondratievae,135740,GB,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Paracoccus,GCA_009301415.1,62.9,4.2,AF250332,55.8,30
+Paenibacillus lentus,1338368,CMG1240,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,GCA_003931855.1,46.5,5.3,KC800716,54.3,30
+Halomonas sabkhae,626223,5墩3휑,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Halomonadaceae,Halomonas,,57,,EF442769,55.7,30
+Xylanibacillus composti,1572762,K13,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Xylanibacillus,,52.3,,KX298897,55.2,30
+Pseudoxanthomonas icgebensis,643829,ICGEB-L15,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Pseudoxanthomonas,,69.9,,FJ838784,54.8,30
+Bifidobacterium thermacidophilum,246618,36,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,,59,,AB016246,60.5,30
+Methylocaldum tepidum,73781,LK6,Bacteria,Proteobacteria,Gammaproteobacteria,Methylococcales,Methylococcaceae,Methylocaldum,,59,,U89297,55.8,30
+Anaerotignum lactatifermentans,160404,G17,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Anaerotignum,,44.6,,AY033434,52.3,30
+Clostridium amazonense,1648214,NE08V,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,,31.6,,KP281434,52.6,30
+Acetohalobium arabaticum,28187,Z-7288,Bacteria,Firmicutes,Clostridia,Halanaerobiales,Halobacteroidaceae,Acetohalobium,GCA_000144695.1,36.6,2.5,L37422,53.2,30
+Sulfobacillus benefaciens,453960, BRGM2,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales Family XVII. Incertae Sedis,Sulfobacillus,,50.6,,EF679212,63,30
+Natronolimnobius baerhuensis,253108,IHC-005 ,Archaea,Euryarchaeota,Halobacteria,Natrialbales,Natrialbaceae,Natronolimnobius,,59.5,,AB125107,57.9,30
+Aeriscardovia aeriphila,218139,T6,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Aeriscardovia,,54.7,,NR_042759,60.3,30
+Desulfotomaculum aquiferis,1397668,Bs105,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Desulfotomaculum,,42.9,,KF591693,53.8,30
+Methanomicrobium mobile,2205,BP,Archaea,Euryarchaeota,Methanomicrobia,Methanomicrobiales,Methanomicrobiaceae,Methanomicrobium,,48.8,,M59142,53,30
+Aminobacterium thunnarium,1482737,OTA 102 ,Bacteria,Synergistetes,Synergistia,Synergistales,Synergistaceae,Aminobacterium,,41.7,,KJ159211,56,30
+Oscillibacter ruminantium,1263547,GH1,Bacteria,Firmicutes,Clostridia,Clostridiales,Oscillospiraceae,Oscillibacter,,54.6,,JF750939,53.4,30
+Halapricum salinum,1457250,CBA1105,Archaea,Euryarchaeota,Halobacteria,Halobacteriales,Haloarculaceae,Halapricum,GCA_004799665.1,63.7,3.5,KF314042,58.5,30
+Halostagnicola bangensis,1245458,T26,Archaea,Euryarchaeota,Halobacteria,Natrialbales,Natrialbaceae,Halostagnicola,,60.1,,HF544345,57.8,30
+Proteus alimentorum,1973495,08MAS0041,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Morganellaceae,Proteus,,38,,KY930948,53.1,30
+Lawsonibacter asaccharolyticus,2108523,3BBH22,Bacteria,Firmicutes,Clostridia,Clostridiales,,Lawsonibacter,,61.2,,LC371917,54.1,30
+Parolsenella catena,2003188,2CBEGH3,Bacteria,Actinobacteria,Coriobacteriia,Coriobacteriales,Atopobiaceae,Parolsenella,GCA_003966955.1,65.6,1.8,LC270126,64.4,30
+Paenibacillus senegalensis,1465766,JC66,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,,48.2,,JF824808,54.9,30
+Corynebacterium jeddahense,1414719,JCB,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,,67.2,,HG726038,56.5,30
+Bacillus dielmoensis,1347369,FF4,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,,40.8,,HG315676,54.9,30
+Megasphaera massiliensis,1232428,NP3,Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae,Megasphaera,,50.2,,JX424772,55.4,30
+Corynebacterium ihumii,1232427,GD7,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,,65.1,,JX424769,56.4,30
+Clostridium vulturis,1157312,YMB-57,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,,34,,JQ423949,51.8,30
+Brevibacillus massiliensis,1118054,phR,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Brevibacillus,,53.1,,JN837488,56.6,30
+Romboutsia ilealis,1115758,CRIB,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Romboutsia,,28.1,,JN381505,52.9,30
+Anaerostipes hadrus,649756,Anaerostipes hadrus,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Anaerostipes,GCA_001998765.1,37.3,3.2,FR749932,53.5,30
+Salicola salis,338884,B2,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Halomonadaceae,Salicola,,56,,DQ129689,57.3,30
+Clostridium nitritogenes,83340,ATCC 25547,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,,,,NR_024684,52.7,30
+Selenomonas infelix,135082,ATCC 43532,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,Selenomonas,,57,,AF287802,55,30
+Selenomonas flueggei,135080,ATCC 43531,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,Selenomonas,,57,,AF287803,54.9,30
+Selenomonas dianae,135079,ATCC 43527,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,Selenomonas,,53,,AF287801,54.4,30
+Eubacterium ruminantium,42322,ATCC 17233,Bacteria,Firmicutes,Clostridia,Clostridiales,Eubacteriaceae,Eubacterium,,,,AB008552,52.7,30
+Butyrivibrio crossotus,45851,ATCC 29175,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Butyrivibrio,,37,,X89981,51.6,30
+Eubacterium ramulus,39490,ATCC 29099,Bacteria,Firmicutes,Clostridia,Clostridiales,Eubacteriaceae,Eubacterium,,39,,L34623,52.9,30
+Absiella dolichum,31971,ATCC 29143,Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Absiella,,39,,L34682,50.7,30
+Eubacterium limosum,1736,ATCC 8486,Bacteria,Firmicutes,Clostridia,Clostridiales,Eubacteriaceae,Eubacterium,GCA_000807675.2,47.2,4.4,M59120,52.1,30
+Butyrivibrio fibrisolvens,831,ATCC 19171,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Butyrivibrio,,42,,X89970,52.5,30
+Sporolactobacillus putidus,492735,QC81-06,Bacteria,Firmicutes,Bacilli,Bacillales,Sporolactobacillaceae,Sporolactobacillus,,47.5,,AB374522,56.2,30
+Enterococcus ureasiticus,903984,CCRI-16986,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,,41.7,,GU457262,52.9,30
+Clostridium acetireducens,76489,30A,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,,28.5,,X79862,51,30
+Marinobacter oulmenensis,643747,Set74,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Marinobacter,,57.4,,FJ897726,54.8,30
+Clostridium colicanis,179628, 3WC2,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,,31.7,,AJ420008,53,30
+Succinatimonas hippei,626938,YIT 12066,Bacteria,Proteobacteria,Gammaproteobacteria,Aeromonadales,Succinivibrionaceae,Succinatimonas,,40.3,,AB490810,55.5,30
+Glucerabacter canisensis,1912090,NATH-2371,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Glucerabacter,,36.9,,LC191811,52.3,30
+Alkalispirillum mobile,85925,SL-1,Bacteria,Proteobacteria,Gammaproteobacteria,Chromatiales,Ectothiorhodospiraceae,Alkalispirillum,,,,AF114783,57.8,30
+Corynebacterium massiliense,441501,5402485,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,,,,EF217056,56.8,30
+Sorangium orientale,2093420,Soce GT47,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Polyangiaceae,Sorangium,,71.2,,MG824978,57.5,30
+Syntrophococcus sucromutans,84037,S195,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Syntrophococcus,,52,,AF202264,55.7,30
+Comamonas kerstersii,225992,LMG 3475,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Comamonas,GCA_002056725.1,59.6,3.5,AJ430347,54,30
+Serpentinicella alkaliphila,1734049,3b,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Serpentinicella,,33.2,,KR349722,53.8,30
+Peptoniphilus catoniae,1660341,M6.X2D,Bacteria,Firmicutes,Tissierellia,Tissierellales,Peptoniphilaceae,Peptoniphilus,,34.4,,KR911910,51.2,30
+Aquicella lusitana,254246,SGT-39,Bacteria,Proteobacteria,Gammaproteobacteria,Legionellales,Coxiellaceae,Aquicella,GCA_902459475.1,44.1,2.6,AY359282,55.2,30
+Eubacterium oxidoreducens,1732,G41,Bacteria,Firmicutes,Clostridia,Clostridiales,Eubacteriaceae,Eubacterium,,36,,AF202258,52.8,30
+Actinobaculum suis,1657, Soltys 50052,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Actinomycetaceae,Actinobaculum,,56,,S83623,56.4,30
+Bifidobacterium faecale,1454229,CU3-7,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,,58.6,,KF990498,59.6,30
+Peptoanaerobacter stomatis,796937,ACC19a,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Peptoanaerobacter,,30.4,,HM120213,48.7,30
+Burkholderia contaminans,488447,LMG23361,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,GCA_001029145.1,66.4,8.5,NR_104978,55.3,30
+Paenibacillus konsidensis,479474,LBY,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,,51.3,,EU081509,54.6,30
+Acetanaerobacterium elongatum,258515,Z7,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Acetanaerobacterium,,50.4,,AY487928,53.9,30
+Mycobacterium palustre,153971,DSM 44572,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,,,,AJ308603,58.7,30
+Alloprevotella rava,671218,29688,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Alloprevotella,,47,,JQ039189,53.3,30
+Selenomonas noxia,135083,ATCC 43541,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,Selenomonas,,57,,AF287799,54.7,30
+Selenomonas lipolytica,60695,CF1B,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,Selenomonas,,40,,AF001901,54.3,30
+Riemerella columbipharyngis,1071918,8151,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Riemerella,,35.7,,HQ286278,50.5,30
+Faecalimonas umbilicata,1912855,EGH7,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Faecalimonas,,46.9,,LC192831,54,30
+Alloscardovia venturai,1769421,MOZIV/2,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Alloscardovia,,45.8,,KT343144,55.6,30
+Megasphaera hexanoica,1675036,MH,Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae,Megasphaera,GCA_003315775.1,49,2.9,KX021300,55.7,30
+Agathobaculum butyriciproducens,1628085,SR79,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Agathobaculum,,52.9,,KP889099,53.8,30
+Longilinea arvoryzae,360412,KOME-1,Bacteria,Chloroflexi,Anaerolineae,Anaerolineales,Anaerolineaceae,Longilinea,,57.6,,AB243673,55.7,30
+Pelotomaculum terephthalicicum,206393,JT,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Pelotomaculum,,53.6,,AB091323,55.9,30
+Clostridium ljungdahlii,1538,PETC,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,GCA_000143685.1,31.1,4.6,M59097,49.4,30
+Capnocytophaga endodontalis,2708117,ChDC OS43,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Capnocytophaga,GCA_002209445.1,38.2,3.4,NR_165677,50.9,30
+Desulfotomaculum halophilum,57172,SEBR 3139,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Desulfohalotomaculum,,56.3,,U88891,53.6,30
+Streptomyces chitinivorans,1257027,RC1832,Bacteria,Actinobacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces,,66.2,,JQ862603,60.3,30
+Streptomyces barkulensis,1257026,RC 1831,Bacteria,Actinobacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces,,66.2,,JQ862602,60.3,30
+Allobaculum stercoricanis,174709,DSM 13633,Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Allobaculum,,37.9,,AJ417075,53.5,30
+Methanosphaera stadtmanae,2317,MCB-3,Archaea,Euryarchaeota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanosphaera,GCA_000012545.1,27.6,1.8,M59139,50.7,30
+Bacteroides cellulosilyticus,246787,CRE21,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,GCA_001318345.1,42.7,7.1,AJ583243,50.3,30
+Methanogenium organophilum,2199,CV,Archaea,Euryarchaeota,Methanomicrobia,Methanomicrobiales,Methanomicrobiaceae,Methanogenium,,46.7,,M59131,54.9,30
+Ileibacterium valens,1862668,NYU-BL-A3,Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Ileibacterium,,41.1,,KU744404,54.6,30
+Senegalimassilia anaerobia,1473216,JC110,Bacteria,Actinobacteria,Coriobacteriia,Coriobacteriales,Coriobacteriaceae,Senegalimassilia,,60.9,,JF824809,64.6,30
+Timonella senegalensis,1465825,JC301,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,,Timonella,,61.4,,JN657220,57.6,30
+Cellulomonas massiliensis,1465811,JC225,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Cellulomonadaceae,Cellulomonas,,71.2,,JN657218,58.3,30
+Peptoniphilus senegalensis,1465757,JC140 ,Bacteria,Firmicutes,Tissierellia,Tissierellales,Peptoniphilaceae,Peptoniphilus,,32.2,,NR_125592,49.9,30
+Ezakiella peruensis,1464038, M6.X2,Bacteria,Firmicutes,Tissierellia,,,Ezakiella,,38.4,,KJ469554,50.1,30
+Alistipes senegalensis,1288121,JC50,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,,58.4,,JF824804,53.1,30
+Anaerococcus senegalensis,1288120,JC48,Bacteria,Firmicutes,Tissierellia,Tissierellales,Peptoniphilaceae,Anaerococcus,,28.6,,NR_118220,48.5,30
+Dactylosporangium darangshiense,579108,DLS-44,Bacteria,Actinobacteria,Actinobacteria,Micromonosporales,Micromonosporaceae,Dactylosporangium,,69.8,,FM882231,59.6,30
+Exiguobacterium chiriqhucha,1385984,N139,Bacteria,Firmicutes,Bacilli,Bacillales,,Exiguobacterium,,52,,NZ_JMEH01000010,56.8,30
+Albirhodobacter marinus,992290,N9,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Albirhodobacter,,63,,FR827899,53.4,30
+Exiguobacterium arabatum,518693,RFL1109,Bacteria,Firmicutes,Bacilli,Bacillales,,Exiguobacterium,,52,,FM203124,57.1,30
+Oxalicibacterium flavum,179467,TA17,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Oxalicibacterium,,63,,AY061962,54.3,30
+Fusobacterium pseudoperiodonticum,2663009,ChDC F213,Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,GCA_002763695.1,28,2.7,FJ471665,49.8,30
+Prevotella colorans,1703337,A1336,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,,43.2,,KT886066,56.4,30
+Neisseria macacae,496,M-740,Bacteria,Proteobacteria,Betaproteobacteria,Neisseriales,Neisseriaceae,Neisseria,,50.5,,L06169,53,30
+Mycobacterium heidelbergense,53376,ATCC 51253,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,,,,AJ000684,58.5,30
+Rhodoplanes oryzae,1410330,JA793,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Hyphomicrobiaceae,Rhodoplanes,,68.7,,HG531388,57.8,30
+Lacticigenium naphtae,515351,MIC1-18,Bacteria,Firmicutes,Bacilli,Lactobacillales,Carnobacteriaceae,Lacticigenium,,37.8,,AB430339,53.4,30
+Haloterrigena turkmenica,62320,4k,Archaea,Euryarchaeota,Halobacteria,Natrialbales,Natrialbaceae,Haloterrigena,GCA_000025325,59.8,5.4,NR_040778,57.9,29
+Thioprofundum hispidum,394805,gsp61,Bacteria,Proteobacteria,Gammaproteobacteria,Chromatiales,Thioprofundaceae,Thioprofundum,,62.9,,AB266389,56.1,29
+Dissulfuribacter thermophilus,1156395,S69,Bacteria,Proteobacteria,Deltaproteobacteria,,,Dissulfuribacter,,40.5,,JQ414031,58.8,28
+Laceyella sediminis,573074,RHA1,Bacteria,Firmicutes,Bacilli,Bacillales,Thermoactinomycetaceae,Laceyella,,47.9,,FJ422144,58.1,28
+Lihuaxuella thermophila,1173111,YIM 77831,Bacteria,Firmicutes,Bacilli,Bacillales,Thermoactinomycetaceae,Lihuaxuella,,55.6,,JX045707,58.6,28
+Caloribacterium cisternae,996765,SGL43,Bacteria,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacteraceae,Caloribacterium,,43.1,,JF262044,55.3,28
+Albidovulum xiamenense,990712,YBY-7,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Albidovulum,,70.6,,HQ709061,57,28
+Acetomicrobium thermoterrenum,1120986,Rwcit,Bacteria,Synergistetes,Synergistia,Synergistales,Synergistaceae,Acetomicrobium,,44,,U50711,58.9,28
+Thermoactinospora rubra,1088767,YIM 77501 ,Bacteria,Actinobacteria,Actinobacteria,Streptosporangiales,Streptosporangiaceae,Thermoactinospora,,75.7,,JN626947,60.9,28
+Effusibacillus lacus,1348429,skLN1 ,Bacteria,Firmicutes,Bacilli,Bacillales,Alicyclobacillaceae,Effusibacillus,,50.8,,AB828155,58.3,28
+Gracilibacillus halophilus,470864,YIM-C55.5,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Gracilibacillus,,42.3,,EU135704,55.6,28
+Pseudonocardia thermophila,1848,MB A-18,Bacteria,Actinobacteria,Actinobacteria,Pseudonocardiales,Pseudonocardiaceae,Pseudonocardia,,,,X53195,57.5,28
+Thermocatellispora tengchongensis,1073253,YIM 77521 ,Bacteria,Actinobacteria,Actinobacteria,Streptosporangiales,Streptosporangiaceae,Thermocatellispora,,73.3,,JN315666,59.8,28
+Desulfotomaculum intricatum,1285191,SR45,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Desulfofarcimen,,41.1,,AB778017,55.5,28
+Rubellimicrobium thermophilum,295419,C-lvk-R2A-2 ,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rubellimicrobium,,70,,AJ844281,58.6,28
+Halarsenatibacter silvermanii,321763,SLAS-1,Bacteria,Firmicutes,Clostridia,Halanaerobiales,Halanaerobiaceae,Halarsenatibacter,,45.2,,AY965613,57.9,28
+Microvirga massiliensis,1033741,JC119,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Methylobacteriaceae,Microvirga,,63.3,,JF824802,57.8,28
+Rummeliibacillus stabekisii,241244,KSC-SF6g ,Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Rummeliibacillus,GCA_001617605.1,37.7,3.4,DQ870754,53.3,28
+Halobacterium noricense,223182,A1,Archaea,Euryarchaeota,Halobacteria,Halobacteriales,Halobacteriaceae,Halobacterium,,54.4,,AJ548827,58.2,28
+Halococcus salifodinae,36738,Blp ,Archaea,Euryarchaeota,Halobacteria,Halobacteriales,Halococcaceae,Halococcus,,62,,NR_113436,59.6,28
+Halorubrum amylolyticum,2508724,ZC67,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Halorubraceae,Halorubrum,,66.3,,KX376720,58.8,28
+Halorubrum chaoviator,335819,Halo-G,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Halorubraceae,Halorubrum,,65.5,,AM048786,58.1,28
+Streptomyces albiaxialis,329523, DSM 41799,Bacteria,Actinobacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces,,,,AY999901,59.1,28
+Streptomyces calidiresistens,1485586,YIM 78087,Bacteria,Actinobacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces,,73,,KJ361473,59.6,28
+Halorubrum terrestre,267368,4p,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Halorubraceae,Halorubrum,,64.6,,AB090169,57.7,28
+Halococcus dombrowskii,179637,H4,Archaea,Euryarchaeota,Halobacteria,Halobacteriales,Halococcaceae,Halococcus,,61.3,,AJ420376,58.9,28
+Salinibacillus aidingensis,237684,7墩25휑,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Salinibacillus,,39.9,,AY321436,55.8,28
+Nitrososphaera viennensis,1034015,EN76,Archaea,Thaumarchaeota,Nitrososphaeria,Nitrososphaerales,Nitrososphaeraceae,Nitrososphaera,GCA_000698785.1,52.7,2.5,FR773157,57.7,28
+Paenibacillus woosongensis,307580,YB-45,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,,51.7,,AY847463,54.7,28
+Sulfurifustis variabilis,1675686,skN76,Bacteria,Proteobacteria,Gammaproteobacteria,Acidiferrobacterales,Acidiferrobacteraceae,Sulfurifustis,GCA_002355415.1,67.5,4,LC062790,56.6,28
+Streptomyces deccanensis,424188,DAS-139,Bacteria,Actinobacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces,,71.8,,EF219459,58.3,28
+Halopiger xanaduensis,387343,SH-6,Archaea,Euryarchaeota,Halobacteria,Natrialbales,Natrialbaceae,Halopiger,GCA_000217715.1,65.2,4.4,AM268114,58.8,28
+Paenibacillus mesophilus,2582849,SYSU K30004,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,,53.6,,MK943675,56.2,28
+Paenibacillus antri,2582848,SYSU K30003,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,,59,,MK943674,57,28
+Anaerococcus rubeinfantis,1720199,mt16,Bacteria,Firmicutes,Tissierellia,Tissierellales,Peptoniphilaceae,Anaerococcus,,29.5,,LN881592,48.7,28
+Gabonia massiliensis,1686296,GM3,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Gabonia,,37.9,,LN849789,54.7,28
+Kallipyga gabonensis,1686287,GM4,Bacteria,Firmicutes,Tissierellia,,,Kallipyga,,50,,LN849790,52.6,28
+Fictibacillus halophilus,1610490,AS8,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Fictibacillus,,46.9,,KP265300,54.6,28
+Bacillus jeddahensis,1461580,JCE,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,,39.4,,HG931339,55.1,28
+Geodermatophilus nigrescens,1070870,YIM 75980,Bacteria,Actinobacteria,Actinobacteria,Geodermatophilales,Geodermatophilaceae,Geodermatophilus,,73.1,,JN656711,59.9,28
+Brevibacterium album,417948,YIM 90718,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Brevibacteriaceae,Brevibacterium,,70,,EF158852,57.4,28
+Saccharomonospora amisosensis,1128677,DS3030,Bacteria,Actinobacteria,Actinobacteria,Pseudonocardiales,Pseudonocardiaceae,Saccharomonospora,,68.9,,JN989292,58.6,28
+Micromonospora yasonensis,1128667,DS3186,Bacteria,Actinobacteria,Actinobacteria,Micromonosporales,Micromonosporaceae,Micromonospora,,73.1,,JN989295,60.4,28
+Saccharothrix stipae,1049182,D34,Bacteria,Actinobacteria,Actinobacteria,Pseudonocardiales,Pseudonocardiaceae,Saccharothrix,,74.1,,JN002085,59.2,28
+Pseudonocardia cypriaca,882449,KT2142,Bacteria,Actinobacteria,Actinobacteria,Pseudonocardiales,Pseudonocardiaceae,Pseudonocardia,,74.6,,HQ157191,59.1,28
+Mycobacterium shimoidei,29313,ATCC 27962,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,,,,AJ005005,58.5,28
+Streptomyces gulbargensis,364901,DAS 131,Bacteria,Actinobacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces,,69.8,,DQ317411,58.8,28
+Alloscardovia omnicolens,419015,CCUG 31649,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Alloscardovia,,48,,NR_042583,56.5,28
+Sporotomaculum syntrophicum,182264,FB,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Sporotomaculum,,46.8,,AB076610,55.2,28
+Streptomyces klenkii,1420899,S2704,Bacteria,Actinobacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces,,72.2,,KF656772,59.1,28
+Clostridium formicaceticum,1497,ATCC 27076,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,GCA_001854185.1,35.5,4.6,X77836,53.8,28
+Halococcus saccharolyticus,62319,P-423,Archaea,Euryarchaeota,Halobacteria,Halobacteriales,Halococcaceae,Halococcus,,63.4,,AB004876,59.3,28
+Fudania jinshanensis,2603327,313,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Actinomycetaceae,Fudania,CP029033,60.6,2.8,MK209065,57.9,28
+Actinomyces qiguomingii,2057800,410,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Actinomycetaceae,Actinomyces,GCA_004102025.1,66.8,4,MG650117,59.3,28
+Nocardioides taihuensis,1835606,X17,Bacteria,Actinobacteria,Actinobacteria,Propionibacteriales,Nocardioidaceae,Nocardioides,,69.9,,KU050051,59,28
+Methanobrevibacter olleyae,294671,KM1H5-1P,Archaea,Euryarchaeota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanobrevibacter,GCA_001563245.1,26.9,2.2,AY615201,53.6,28
+Providencia entomophila,2604839,IO-23,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Morganellaceae,Providencia,,,,MH553347,53.4,28
+Legionella norrlandica,1498499,LEGN,Bacteria,Proteobacteria,Gammaproteobacteria,Legionellales,Legionellaceae,Legionella,,37.6,,KJ796839,53.1,28
+Trabulsiella odontotermitis,379893,Eant 3-9,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Trabulsiella,,55.7,,DQ453129,55.3,28
+Bacteroides cutis,2024197,Marseille-P4118,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,,,,LT908453,51.4,28
+Bacteroides bouchesdurhonensis,1841855,Marseille-P2653,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,,,,LT558803,50.3,28
+Nitratifractor salsuginis,269261,E9I37-1,Bacteria,Proteobacteria,Epsilonproteobacteria,Campylobacterales,,Nitratifractor,GCA_000186245.1,53.9,2.1,AB175500,55.7,28
+Acetobacter senegalensis,446692,CWBI-B418,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Acetobacter,GCA_001499615.1,54.5,4,AY883036,54.7,28
+Micromonospora profundi,1420889,DS3010,Bacteria,Actinobacteria,Actinobacteria,Micromonosporales,Micromonosporaceae,Micromonospora,,73.3,,KF494813,59.8,28
+Streptomyces chilikensis,1194079,RC 1830,Bacteria,Actinobacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces,,66.8,,JN050256,59.2,28
+Nonomuraea muscovyensis,1124761,FMN03,Bacteria,Actinobacteria,Actinobacteria,Streptosporangiales,Streptosporangiaceae,Nonomuraea,,69.6,,JN896617,60.1,28
+Senegalimassilia faecalis,2509433,KGMB04484,Bacteria,Actinobacteria,Coriobacteriia,Coriobacteriales,Coriobacteriaceae,Senegalimassilia,,61.2,,MK588841,64.8,28
+Selenomonas massiliensis,2058293,Marseille-P4036,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,Selenomonas,,,,LT970915,54.8,28
+Mycobacterium lehmannii,2048550, SN 1900,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,,66.7,,KY933300,58,28
+Mycobacterium eburneum,2035343,X82,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,,68.7,,KX879093,58,28
+Flavisolibacter metallilatus,1639646,KACC 19145,Bacteria,Bacteroidetes,Chitinophagia,Chitinophagales,Chitinophagaceae,Flavisolibacter,,49.1,,KP231287,51.5,28
+Pontibacter ramchanderi,1179743,LP43,Bacteria,Bacteroidetes,Cytophagia,Cytophagales,Hymenobacteraceae,Pontibacter,,59.1,,JQ806111,57.8,28
+Aestuariibacter aggregatus,634436,WH169,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Marisediminitalea,,49.4,,FJ847832,53.2,28
+Mycobacterium gordonae,1778,ATCC 14470,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,,,,X52923,57.6,28
+Segniliparus rotundus,286802,CDC 1076 ,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Segniliparaceae,Segniliparus,GCA_000092825.1,66.8,3.2,AY608918,58.5,28
+Actinomyces culturomici,1926276,CSUR P3561,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Actinomycetaceae,Actinomyces,,,, LT627670,,28
+Saccharopolyspora hattusasensis,1128679,CR3506,Bacteria,Actinobacteria,Actinobacteria,Pseudonocardiales,Pseudonocardiaceae,Saccharopolyspora,,71.7,,JN989298,58.6,28
+Streptomyces burgazadensis,1452742,Z1R7,Bacteria,Actinobacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces,,69.4,,KF793919,60,28
+Streptomyces ovatisporus,1128682,S4702,Bacteria,Actinobacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces,,72.5,,JN989306,58.6,28
+Streptomyces muensis,1077944,MBRL 179,Bacteria,Actinobacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces,,71.1,,JN560155,59.6,28
+Bradyrhizobium daqingense,993502,CCBAU 15774,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Bradyrhizobiaceae,Bradyrhizobium,,61.2,,HQ231274,55,28
+Isoptericola halotolerans,300560,YIM 70177,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Promicromonosporaceae,Isoptericola,,72.8,,AY789835,59,28
+Mycobacterium kubicae,120959,ATCC700732,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,,,,AF133902,58.4,28
+Streptomyces abyssalis,933944,YIM M 10400,Bacteria,Actinobacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces,,71.3,,HQ585121,59,28
+Streptomyces xishensis,933941,YIM M 10378,Bacteria,Actinobacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces,,71.4,,HQ585118,58.9,28
+Rhodovulum phaeolacus,722732,JA580,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rhodovulum,,62.3,,FN669139,55.2,28
+Nocardiopsis halotolerans,124252,DSM 44410,Bacteria,Actinobacteria,Actinobacteria,Streptosporangiales,Nocardiopsaceae,Nocardiopsis,,68,,AJ290448,59.3,28
+Mycolicibacter minnesotensis,1118379,DL49,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycolicibacter,,,,NR_109474,57.8,28
+Soortia roseihalophila,1889947,Bsw-2b,Bacteria,Balneolaeota,Balneolia,Balneolales,Soortiaceae,Soortia,,40.5,,KU695464,55.4,28
+Acetobacter suratthaniensis,1502841,AI32,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Acetobacter,,59.6,,AB937774,54.7,28
+Selenomonas bovis,416586,WG,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,Selenomonas,,63.9,,EF139191,55,27
+Microbacterium luticocti,451764,SC-087B,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Microbacteriaceae,Microbacterium,,72,,AM747814,56.7,27
+Haliangium tepidum,162028,SMP-10,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Kofleriaceae,Haliangium,,69,,AB062751,58.1,27
+Kytococcus schroeteri,138300,Muenster 2000,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Dermacoccaceae,Kytococcus,,,,AJ297722,56.9,27
+Carboxydocella manganica,744873,SLM 61,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales Family XVI. Incertae Sedis,Carboxydocella,,50.9,,GU584133,57.3,26
+Tepidimicrobium ferriphilum,285106,SB91,Bacteria,Firmicutes,Tissierellia,,,Tepidimicrobium,,33,,AY656718,54.6,26
+Clostridium thermobutyricum,29372,JW171K ,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,,37,,NR_044849,53.4,26
+Natronovirga wadinatrunensis,759415,JW/NM-WN-LH1 ,Bacteria,Firmicutes,Clostridia,Natranaerobiales,Natranaerobiaceae,Natronovirga,,42,,EU338489,56.2,26
+Natranaerobius trueperi,759412,JW/NM-WN-LU,Bacteria,Firmicutes,Clostridia,Natranaerobiales,Natranaerobiaceae,Natranaerobius,,41,,EU338490,56,26
+Halorubrum distributum,29283,1m,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Halorubraceae,Halorubrum,,63.6,,D63572,57.5,26
+Desulfotomaculum arcticum,341036,15,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Desulfallas,,48.9,,DQ148942,55.5,26
+Salibacterium halochares,520043,MSS4,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Salibacterium,,47.2,,AM982516,57.6,26
+Halococcus qingdaonensis,224402,CM5,Archaea,Euryarchaeota,Halobacteria,Halobacteriales,Halococcaceae,Halococcus,,61.2,,AY243109,59.2,26
+Halobiforma nitratireducens,130048,135,Archaea,Euryarchaeota,Halobacteria,Natrialbales,Natrialbaceae,Halobiforma,,66.9,,AB045012,58.9,26
+Streptomyces malaysiense,1428626,MUSC 136,Bacteria,Actinobacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces,,72.3,,KJ632663,59,26
+Amphibacillus iburiensis,1212662,N314,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Amphibacillus,,38.4,,AB736274,53.9,26
+Byssovorax cruenta,293647,By c2,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Polyangiaceae,Byssovorax,,69.9,,AJ833647,56.6,26
+Ornithinimicrobium pekingense,384677,LW6,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Intrasporangiaceae,Ornithinimicrobium,,69,,DQ512860,58,26
+Streptomyces antioxidans,1507734,MUSC 164,Bacteria,Actinobacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces,,71.6,,KJ632665,58.8,26
+Xinfangfangia soli,2185115, ZQBW,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Xinfangfangia,,67,,MG190346,56.7,26
+Micrococcus flavus,384602,LW4,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Micrococcaceae,Micrococcus,,71.4,,DQ491453,57.8,26
+Spiroplasma poulsonii,2138,DW-1,Bacteria,Tenericutes,Mollicutes,Entomoplasmatales,Spiroplasmataceae,Spiroplasma,,26,,M24483,49.4,26
+Deferribacter autotrophicus,500465,SL50,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,Deferribacteraceae,Deferribacter,,28.7,,EU407777,59.6,25
+Bacillus thermophilus,1245522,SgZ-10,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,,45.3,,JX274438,55.9,25
+Oceanotoga teriensis,515440,27303,Bacteria,Thermotogae,Thermotogae,Thermotogales,Thermotogaceae,Oceanotoga,,26.8,,EU588727,53.3,25
+Tepidimicrobium xylanilyticum,1123352,PML14,Bacteria,Firmicutes,Tissierellia,,,Tepidimicrobium,,36.2,,EF522948,54.3,25
+Thermogutta terrifontis,1331910,R1,Bacteria,Planctomycetes,Planctomycetia,Planctomycetales,Planctomycetaceae,Thermogutta,GCA_002277955.1,57.3,4.8,KC867694,59.5,25
+Nautilia nitratireducens,646273,MB-1,Bacteria,Proteobacteria,Epsilonproteobacteria,Nautiliales,Nautiliaceae,Nautilia,,36,,FJ532475,54.8,25
+Petrotoga mexicana,204046,MET12,Bacteria,Thermotogae,Thermotogae,Petrotogales,Petrotogaceae,Petrotoga,,36.1,,NR_029058,54.4,25
+Marinitoga camini,106262,MV1075,Bacteria,Thermotogae,Thermotogae,Petrotogales,Petrotogaceae,Marinitoga,,29,,AJ250439,56.5,25
+Tepidiphilus margaritifer,203471,N2-214,Bacteria,Proteobacteria,Hydrogenophilalia,Hydrogenophilales,Hydrogenophilaceae,Tepidiphilus,,64.8,,AJ504663,59.1,25
+Petrothermobacter organivorans,1856807,ANA,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,Deferribacteraceae,Petrothermobacter,,34.3,,LC155975,55.7,25
+Ureibacillus defluvii,1245527,DX-1,Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Ureibacillus,,40.4,,JX274433,54.8,25
+Garciella nitratireducens,218205, MET79,Bacteria,Firmicutes,Clostridia,Clostridiales,Eubacteriaceae,Garciella,,30.9,,AY176772,54,25
+Bacillus hisashii,996558,N-11 ,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,,37.9,,AB618491,55.6,25
+Haloterrigena thermotolerans,121872,PR5,Archaea,Euryarchaeota,Halobacteria,Natrialbales,Natrialbaceae,Haloterrigena,,63.3,,AF115478,58.6,25
+Tepidimonas thermarum,335431,AA-1,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,,Tepidimonas,,67.9,,AM042693,57.2,25
+Nonomuraea thermotolerans,1490292,3-33-9B,Bacteria,Actinobacteria,Actinobacteria,Streptosporangiales,Streptosporangiaceae,Nonomuraea,,72.5,,KJ027601,60.3,25
+Tepidanaerobacter syntrophicus,224999,JL,Bacteria,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacteraceae,Tepidanaerobacter,,38,,AB106353,55.8,25
+Saccharopolyspora subtropica,1530170,T3,Bacteria,Actinobacteria,Actinobacteria,Pseudonocardiales,Pseudonocardiaceae,Saccharopolyspora,,71.3,,KM114900,58.9,25
+Aneurinibacillus sediminis,1776164,1-10M-8-7-50,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Aneurinibacillus,,41.9,,KU324479,57.3,25
+Rhodopseudomonas thermotolerans,999700,JA576 ,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Bradyrhizobiaceae,Rhodopseudomonas,,66.2,,FR851928,55,25
+Bacillus nealsonii,115979,FO-92,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,,,,AF234863,54.2,25
+Tepidibacillus infernus,1806172,MBL-TLP,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Tepidibacillus,,35.4,,KU726543,54.9,25
+Dissulfurirhabdus thermomarina,1765737,SH388,Bacteria,Proteobacteria,Deltaproteobacteria,,,Dissulfurirhabdus,,64.6,,KU051627,58.8,25
+Paenibacillus thermoaerophilus,1215385,TC22- 2b ,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,,59.1,,AB738878,57.5,25
+Halorubrum lipolyticum,368624,44077,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Halorubraceae,Halorubrum,,65.9,,DQ355814,58.3,25
+Oceanicella actignis,1189325,PRQ-67,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Oceanicella,,71.2,,JQ864435,58.4,25
+Pseudomonas thermotolerans,157784,CM3,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,,66.4,,AJ311980,55.7,25
+Paenibacillus phocaensis,1776378,mt24,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,,53.5,,LN998053,55.2,25
+Rubeoparvulum massiliense,1631346,mt6,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Rubeoparvulum,,43.8,,LN828926,55.3,25
+Porphyrobacter cryptus,196588,ALC-2,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Erythrobacteraceae,Porphyrobacter,,66.2,,AF465834,54.8,25
+Bacillus fumarioli,105229, Logan B1801,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,,40.7,,AJ250056,55.3,25
+Alicyclobacillus montanus,1830138,USBA-GBX-503,Bacteria,Firmicutes,Bacilli,Bacillales,Alicyclobacillaceae,Alicyclobacillus,,44.6,,KU366611,59,25
+Rhabdanaerobium thermarum,1715347,SYSU GA15001,Bacteria,Firmicutes,Clostridia,Clostridiales,Eubacteriaceae,Rhabdanaerobium,,35.6,,KR054687,53.7,25
+Prauserella oleivorans,1478153,RIPI,Bacteria,Actinobacteria,Actinobacteria,Pseudonocardiales,Pseudonocardiaceae,Prauserella,,69,,KJ123726,58.4,25
+Actinomadura cellulosilytica,1411118,YIM 77510,Bacteria,Actinobacteria,Actinobacteria,Streptosporangiales,Thermomonosporaceae,Actinomadura,,70.2,,AB859254,60.5,25
+Actinomadura amylolytica,1411117,YIM 77502,Bacteria,Actinobacteria,Actinobacteria,Streptosporangiales,Thermomonosporaceae,Actinomadura,GCA_003589885.1,72.8,6.8,AB859253,60.7,25
+Vulcaniibacterium tengchongense,1273429,YIM 77520,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Vulcaniibacterium,,66.9,,JX964994,57.6,25
+Nocardiopsis yanglingensis,672459,A18,Bacteria,Actinobacteria,Actinobacteria,Streptosporangiales,Nocardiopsaceae,Nocardiopsis,,67.1,,GQ463465,58.5,25
+Tepidicella xavieri,360241,TU-16,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,,Tepidicella,,64.9,,DQ295805,56.6,25
+Natrarchaeobius halalkaliphilus,1679091,AArcht-Sl,Archaea,Euryarchaeota,Halobacteria,Natrialbales,Natrialbaceae,Natrarchaeobius,,61.1,,KT247971,57.9,25
+Halosiccatus urmianus,1586233,DC8,Archaea,Euryarchaeota,Halobacteria,Halobacteriales,Haloarculaceae,Halosiccatus,,68.1,,KM596805,59.7,25
+Halobaculum magnesiiphilum,1017351,MGY-184,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Halorubraceae,Halobaculum,,67,,AB627357,58.8,25
+Halobellus limi,699433,TBN53,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Halobellus,GCA_004799685.1,65.9,3.7,GU208828,57.3,25
+Natronorubrum tibetense,63128,GA33,Archaea,Euryarchaeota,Halobacteria,Natrialbales,Natrialbaceae,Natronorubrum,,60.1,,AB005656,57.9,25
+Natronorubrum bangense,61858,A33,Archaea,Euryarchaeota,Halobacteria,Natrialbales,Natrialbaceae,Natronorubrum,GCA_004799645.1,60.6,4.4,Y14028,57.5,25
+Natronomonas pharaonis,2257,Gabara,Archaea,Euryarchaeota,Halobacteria,Halobacteriales,Haloarculaceae,Natronomonas,GCA_000026045.1,63.1,2.7,D87971,58.6,25
+Halorubrum arcis,368454,AJ201,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Halorubraceae,Halorubrum,,65.7,,DQ355793,58.4,25
+Anaerosalibacter bizertensis,932217,C5BEL,Bacteria,Firmicutes,Tissierellia,Tissierellales,Tissierellaceae,Anaerosalibacter,,31.1,,HQ534365,52.9,25
+Cohnella fontinalis,477675,YT-1101,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Cohnella,,58.6,,AB362828,56.8,25
+Halomicroarcula pellucida,1427151,BNERC31,Archaea,Euryarchaeota,Halobacteria,Halobacteriales,Haloarculaceae,Halomicroarcula,,64.1,,AB766179,58.5,25
+Haloarchaeobius iranensis,996166,EB21,Archaea,Euryarchaeota,Halobacteria,Halobacteriales,Halobacteriaceae,Haloarchaeobius,,67.7,,JF293278,57.4,25
+Haloferax gibbonsii,35746,Ma 2.38,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Haloferax,GCA_001190965.1,66.2,3.9,D13378,56.2,25
+Salinirussus salinus,1198300,YGH44,Archaea,Euryarchaeota,Halobacteria,Halobacteriales,Halobacteriaceae,Salinirussus,,69,,JQ937358,59.5,25
+Halorubrum kocurii,478441,BG-1,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Halorubraceae,Halorubrum,,69.4,,AM900832,58.4,25
+Bacillus acidiproducens,1121084,SL213,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,,46.1,,EF379274,54.7,25
+Actinokineospora soli,1048753,YIM 75948,Bacteria,Actinobacteria,Actinobacteria,Pseudonocardiales,Pseudonocardiaceae,Actinokineospora,,73.8,,JN005785,59.4,25
+Kurthia massiliensis,1033739,JC30,Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Kurthia,,39.3,,NR_118218,53.1,25
+Tepidamorphus gemmatus,747076,CB-27A,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhodobiaceae,Tepidamorphus,,66.9,,GU187912,58.1,25
+Halarchaeum solikamskense,1073081,RS94,Archaea,Euryarchaeota,Halobacteria,Halobacteriales,Halobacteriaceae,Halarchaeum,,66.4,,JN227878,57.5,25
+Haloferax larsenii,302484,ZJ206,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Haloferax,,62.2,,AY838278,57.2,25
+Lutaonella thermophila,488549,CC-MHSW-2 ,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Lutaonella,,39.7,,EU287913,50.5,25
+Muricauda lutaonensis,516051,CC-HSB-11 ,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Muricauda,GCA_000963865.1,45,3.3,EU564844,57.4,25
+Jhaorihella thermophila,488547,CC-MHSW-1 ,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Jhaorihella,,64.7,,EU287912,57.6,25
+Alkalibacillus halophilus,368977,YIM 012,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Alkalibacillus,,39,,DQ377742,53.8,25
+Halogeometricum rufum,553469,RO1-4,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Halogeometricum,,64.9,,EU887286,57.3,25
+Haladaptatus litoreus,553468,RO1-28,Archaea,Euryarchaeota,Halobacteria,Halobacteriales,Halobacteriaceae,Haladaptatus,,54,,EU887285,56.9,25
+Gracilibacter thermotolerans,342666,JW/YJL-S1,Bacteria,Firmicutes,Clostridia,Clostridiales,Gracilibacteraceae,Gracilibacter,,42.8,,DQ117465,52,25
+Silanimonas lenta,265429,4墩25휑,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Silanimonas,,50.7,,AY557615,57,25
+Hydrotalea sandarakina,1004304,AF-51,Bacteria,Bacteroidetes,Chitinophagia,Chitinophagales,Chitinophagaceae,Hydrotalea,,35.2,,JF739858,50.9,25
+Halorubrum aidingense,368623,31-hong,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Halorubraceae,Halorubrum,,64.2,,DQ355813,57.6,25
+Kroppenstedtia eburnea,714067,JFMB-ATE,Bacteria,Firmicutes,Bacilli,Bacillales,Thermoactinomycetaceae,Kroppenstedtia,,54.6,,FN665656,58.7,25
+Halovarius luteus,1586232,DA50,Archaea,Euryarchaeota,Halobacteria,Natrialbales,Natrialbaceae,Halovarius,,62.3,,KM596804,59.1,25
+Natronorubrum aibiense,348826,44015,Archaea,Euryarchaeota,Halobacteria,Natrialbales,Natrialbaceae,Natronorubrum,GCA_009392895.1,61.3,4.3,DQ205516,57.6,25
+Amycolatopsis deserti,185696,GY024,Bacteria,Actinobacteria,Actinobacteria,Pseudonocardiales,Pseudonocardiaceae,Amycolatopsis,,,,NR_146833,58.9,25
+Marinobacter lutaoensis,135739,T5054,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Marinobacter,,63.5,,AF288157,56,25
+Halorubrum salsamenti,2583990,Y69,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Halorubraceae,Halorubrum,,65.1,,KX376706,57.7,25
+Haloparvum sedimenti,1678448,DYS4,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Halorubraceae,Haloparvum,,68.2,,KP202830,58.2,25
+Halovenus rubra,869890,R28,Archaea,Euryarchaeota,Halobacteria,Halobacteriales,Halobacteriaceae,Halovenus,,56.3,,HM159605,58.3,25
+Halobaculum roseum,2175149,D90,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Halorubraceae,Halobaculum,,65.9,,KX376700,58.9,25
+Halosimplex litoreum,1198301,YGH94,Archaea,Euryarchaeota,Halobacteria,Halobacteriales,Haloarculaceae,Halosimplex,,64,,JQ937362,59,25
+Halopenitus persicus,1048396,DC30,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Halorubraceae,Halopenitus,GCA_002355635.1,66,3.1,JF979130,58.8,25
+Halovenus aranensis,890420,EB27,Archaea,Euryarchaeota,Halobacteria,Halobacteriales,Halobacteriaceae,Halovenus,,61,,HQ197980,57.1,25
+Halohasta litorea,869891,R30,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Halorubraceae,Halohasta,,62.4,,HM159607,56.9,25
+Haloarcula hispanica,51589,Y27,Archaea,Euryarchaeota,Halobacteria,Halobacteriales,Haloarculaceae,Haloarcula,GCA_000223905.1,62.5,3.9,U68541,55.8,25
+Bifidobacterium avesanii,1798157,TRE C ,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,,65.9,,KU051446,61.2,25
+Bifidobacterium aerophilum,1798155,TRE 17 ,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,,63.3,,KU051444,59.2,25
+Desmospora profundinema,1571184,SCSIO 11154 ,Bacteria,Firmicutes,Bacilli,Bacillales,Thermoactinomycetaceae,Desmospora,,51.8,,KM368342,58.8,25
+Sporanaerobacter acetigenes,165813,Lup 33,Bacteria,Firmicutes,Tissierellia,Tissierellales,,Sporanaerobacter,,32.2,,AF358114,53.4,25
+Halorubrum depositum,2583992,Y78,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Halorubraceae,Halorubrum,,66.6,,KX376712,58.1,25
+Halonotius roseus,2511997,F9-27,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Halorubraceae,Halonotius,,62.7,,MK478811,57.2,25
+Halonotius terrestris,2487750,F15B,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Halorubraceae,Halonotius,,61.9,,MH465135,57.2,25
+Haloprofundus halophilus,2283527,NK23,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Haloprofundus,,65.3,,KM453697,57,25
+Halegenticoccus soli,1985678,SYSUA9-0,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Halegenticoccus,,66.9,,KX752787,59.3,25
+Haloplanus salinarum,1912324,SP28,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Haloplanus,,66.2,,KX151776,58.9,25
+Saliphagus infecundisoli,1849069,YIM 93745,Archaea,Euryarchaeota,Halobacteria,Natrialbales,Natrialbaceae,Saliphagus,,64.6,,KY419833,58.7,25
+Halobellus ramosii,1379040,S2FP14,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Halobellus,,61.4,,JQ910929,58.1,25
+Salinirubellus salinus,1364945,ZS-35-S2,Archaea,Euryarchaeota,Halobacteria,Halobacteriales,,Salinirubellus,,67,,KC918829,59.8,25
+Salinigranum salinum,1364937,YJ-50-S2,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Halorubraceae,Salinigranum,,65.2,,KC918822,59,25
+Haloarchaeobius salinus,1198298,YC82,Archaea,Euryarchaeota,Halobacteria,Halobacteriales,Halobacteriaceae,Haloarchaeobius,,63.7,,JQ937361,58.1,25
+Haloarchaeobius amylolyticus,1198296,XD48,Archaea,Euryarchaeota,Halobacteria,Halobacteriales,Halobacteriaceae,Haloarchaeobius,,65.3,,JQ937359,56.8,25
+Halorussus amylolyticus,1126242,YC93,Archaea,Euryarchaeota,Halobacteria,Halobacteriales,Halobacteriaceae,Halorussus,,64.6,,JQ237117,58.4,25
+Halorientalis brevis,1126241,YC89,Archaea,Euryarchaeota,Halobacteria,Halobacteriales,Haloarculaceae,Halorientalis,,61.3,,JQ237120,59.1,25
+Halorussus ruber,1126238,YC25,Archaea,Euryarchaeota,Halobacteria,Halobacteriales,Halobacteriaceae,Halorussus,,63.3,,JQ237116,58.8,25
+Haloplanus litoreus,767515,GX21 ,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Haloplanus,,65.8,,HM063950,58.3,25
+Natronoarchaeum rubrum,755311,GX48,Archaea,Euryarchaeota,Halobacteria,Halobacteriales,Halobacteriaceae,Natronoarchaeum,,66.2,,JF421970,59.2,25
+Halobellus litoreus,755310,GX31,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Halobellus,,66.8,,GU951426,57.1,25
+Halorubellus salinus,755309,GX3,Archaea,Euryarchaeota,Halobacteria,Halobacteriales,Halobacteriaceae,Halorubellus,,67.3,,GU951429,57.7,25
+Halorubellus litoreus,755308,GX26,Archaea,Euryarchaeota,Halobacteria,Halobacteriales,Halobacteriaceae,Halorubellus,,67.2,,GU951430,58.1,25
+Haloarchaeobius litoreus,755306,GX1,Archaea,Euryarchaeota,Halobacteria,Halobacteriales,Halobacteriaceae,Haloarchaeobius,,67.7,,GU951427,57.4,25
+Halolamina pelagica,699431,TBN21,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Halorubraceae,Halolamina,,64.8,,GU208826,58.6,25
+Halobellus clavatus,660517,TNN18,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Halobellus,,61.9,,NR_117278,58.1,25
+Halorussus rarus,660515,TBN4,Archaea,Euryarchaeota,Halobacteria,Halobacteriales,Halobacteriaceae,Halorussus,,66.1,,GQ282618,58.3,25
+Natronorubrum sediminis,640943,CG-6,Archaea,Euryarchaeota,Halobacteria,Natrialbales,Natrialbaceae,Natronorubrum,,62.5,,FN376859,58.2,25
+Haloterrigena salina,504937,XH-65,Archaea,Euryarchaeota,Halobacteria,Natrialbales,Natrialbaceae,Haloterrigena,,67,,AM942763,58,25
+Halorubrum ejinorense,425309,EJ-32,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Halorubraceae,Halorubrum,,64,,AM491830,57.7,25
+Natrinema ejinorense,373386,EJ-57,Archaea,Euryarchaeota,Halobacteria,Natrialbales,Natrialbaceae,Natrinema,,64.7,,AM231733,57.5,25
+Halostagnicola larsenii,353800,XH-48,Archaea,Euryarchaeota,Halobacteria,Natrialbales,Natrialbaceae,Halostagnicola,GCA_000517625.1,60.9,4.1,AM117571,57.8,25
+Methanobacterium beijingense,242129,44045,Archaea,Euryarchaeota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanobacterium,,38.9,,AY350742,55.4,25
+Gordonibacter faecihominis,1432309,CAT-2,Bacteria,Actinobacteria,Coriobacteriia,Eggerthellales,Eggerthellaceae,Gordonibacter,,68.4,,KF785806,62.3,25
+Kurthia senegalensis,1033740,JC8E,Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Kurthia,,38.2,,JF824796,53.1,25
+Salinivenus lutea,890426,DGO,Bacteria,Rhodothermaeota,Rhodothermia,Rhodothermales,Salinibacteraceae,Salinivenus,,65.6,,HQ197983,57.1,25
+Salinivenus iranica,890425,CB7,Bacteria,Rhodothermaeota,Rhodothermia,Rhodothermales,Salinibacteraceae,Salinivenus,,64.8,,HQ197982,57.2,25
+Paenibacillus residui,629724,MC-246,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,,49,,FN293173,55,25
+Actinopolyspora xinjiangensis,405564,TRM 40136,Bacteria,Actinobacteria,Actinobacteria,Actinopolysporales,Actinopolysporaceae,Actinopolyspora,,68.9,,GU479394,60.8,25
+Levilinea saccharolytica,229921, KIBI-1,Bacteria,Chloroflexi,Anaerolineae,Anaerolineales,Anaerolineaceae,Levilinea,,,,AB109439,55.3,25
+Leptolinea tardivitalis,229920,YMTK-2,Bacteria,Chloroflexi,Anaerolineae,Anaerolineales,Anaerolineaceae,Leptolinea,,48.2,,AB109438,54.1,25
+Ornithinibacillus heyuanensis,1392876,GIESS003(,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Ornithinibacillus,,40.1,,KF317693,53.9,25
+Fabivirga thermotolerans,1758176,A4,Bacteria,Bacteroidetes,Cytophagia,Cytophagales,Flammeovirgaceae,Fabivirga,,40.3,,KT229616,52.8,25
+Streptomyces salilacus,1813820,TRM 41337,Bacteria,Actinobacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces,,75,,KU860456,59.8,25
+Nocardiopsis akesuensis,1236269,TRM 46250,Bacteria,Actinobacteria,Actinobacteria,Streptosporangiales,Nocardiopsaceae,Nocardiopsis,,71.1,,KU860457,59.2,25
+Methanolobus zinderi,536044,SD1,Archaea,Euryarchaeota,Methanomicrobia,Methanosarcinales,Methanosarcinaceae,Methanolobus,,42,,EU711413,55.6,25
+Sulfurivermis fontis,1972068,JG42,Bacteria,Proteobacteria,Gammaproteobacteria,Chromatiales,Thioalkalispiraceae,Sulfurivermis,GCA_004001245.1,64,3.2,LC225746,55.3,25
+Salisaeta longa,503170,S4-4,Bacteria,Bacteroidetes,,Bacteroidetes Order II. Incertae sedis,Rhodothermaceae,Salisaeta,,62.9,,EU426570,55.4,25
+Halorubrum trueperi,2004704,Y73,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Halorubraceae,Halorubrum,,61.9,,KX376707,57.6,25
+Halorubrum yunnanense,1526162,Q85,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Halorubraceae,Halorubrum,,66.3,,KJ644187,57.8,25
+Phenylobacterium terrae,2665495,YIM 730227,Bacteria,Proteobacteria,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Phenylobacterium,,68.2,,MG661736,56,25
+Halopiger salifodinae,1202768,SH-6,Archaea,Euryarchaeota,Halobacteria,Natrialbales,Natrialbaceae,Halopiger,,62.5,,JX014296,59,25
+Halorubrum orientale,376415,EJ-52,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Halorubraceae,Halorubrum,,64.2,,AM235786,58.3,25
+Haladaptatus pallidirubidus,1008152,YIM93656,Archaea,Euryarchaeota,Halobacteria,Halobacteriales,Halobacteriaceae,Haladaptatus,,57.4,,JF449425,57.7,25
+Methanobacterium congolense,118062,CT,Archaea,Euryarchaeota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanobacterium,GCA_900095295.1,38.5,2.5,AF233586,56.2,25
+Salinibacillus xinjiangensis,1229268,J4,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Salinibacillus,,36.2,,JX402080,55.3,25
+Haloplanus aerogenes,660522,TBN37,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Haloplanus,GCA_003856835.1,65.7,3.5,GQ282625,57.8,25
+Halanaerobium alcaliphilum,39651,GSLS,Bacteria,Firmicutes,Clostridia,Halanaerobiales,Halanaerobiaceae,Halanaerobium,,31,,X81850,50,25
+Halorubrum aquaticum,387340,EN-2,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Halorubraceae,Halorubrum,,62.1,,AM268115,58.5,25
+Natronococcus occultus,29288,SP4,Archaea,Euryarchaeota,Halobacteria,Natrialbales,Natrialbaceae,Natronococcus,GCA_000328685.1,64.6,4.3,Z28378,58.8,25
+Methanobacterium bryantii,2161,PA,Archaea,Euryarchaeota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanobacterium,,33.2,,M59124,53.9,25
+Egibacter rhizosphaerae,1670831,EGI 80759,Bacteria,Actinobacteria,Nitriliruptoria,Egibacterales,Egibacteraceae,Egibacter,GCA_004322855.1,71.7,4.6,KR605111,60.4,25
+Haloimpatiens lingqiaonensis,1380675,ZC-CMC3,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Haloimpatiens,,30,,KC869664,53.5,25
+Methanohalophilus portucalensis,39664,FDF-1,Archaea,Euryarchaeota,Methanomicrobia,Methanosarcinales,Methanosarcinaceae,Methanohalophilus,,43.5,,AY290717,55.3,25
+Caecibacterium sporoformans,915180,LMG 27730,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Caecibacterium,,32.5,,HQ452857,52.2,25
+Phenylobacterium zucineum,284016,HLK1,Bacteria,Proteobacteria,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Phenylobacterium,GCA_000017265.1,,4.4,AY628697,56.5,25
+Mobilitalea sibirica,1462919,P3M-3 ,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Mobilitalea,,33.4,,KF931641,52.7,25
+Desulfovermiculus halophilus,339722,11墩6휑,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfohalobiaceae,Desulfovermiculus,,55.2,,DQ139408,57.5,25
+Clostridium lundense,319475,R1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,,31.2,,AY858804,53.1,25
+Alkaliphilus namsaraevii,1454184,㎎-07-2,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Alkaliphilus,,32.6,,KJ196388,54,25
+Halanaerocella petrolearia,644790,S200,Bacteria,Firmicutes,Clostridia,Halanaerobiales,Halobacteroidaceae,Halanaerocella,,32.7,,FJ931099,50.8,25
+Syntrophomonas erecta,264446,GB4-38,Bacteria,Firmicutes,Clostridia,Clostridiales,Syntrophomonadaceae,Syntrophomonas,,69,,AY536889,54.9,25
+Rhodoplanes azumiensis,1897628,TUT3581,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Hyphomicrobiaceae,Rhodoplanes,,70.4,,LC178580,57.8,25
+Bifidobacterium myosotis,1630166,MRM_5.9 ,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,,65.1,,KP718941,59.5,25
+Rhodoplanes tepidamans,200616,TUT3520,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Hyphomicrobiaceae,Rhodoplanes,,68.9,,AB087718,58,25
+Anaeromusa acidaminophila,81464,DKglu16,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Sporomusaceae,Anaeromusa,,48,,AF071415,54.4,25
+Turicibacter sanguinis,154288,MOL361,Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Turicibacter,,36.9,,AF349724,53.3,25
+Haloquadratum walsbyi,293091,C23,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Haloquadratum,GCA_000237865.1,47.7,3.3,AY676200,56.8,25
+Halonotius pteroides,268735,1.15.5,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Halorubraceae,Halonotius,,58,,AY498641,56.9,25
+Halosimplex rubrum,869889,R27,Archaea,Euryarchaeota,Halobacteria,Halobacteriales,Haloarculaceae,Halosimplex,,64,,HM159603,58,25
+Halosimplex pelagicum,869886,R2,Archaea,Euryarchaeota,Halobacteria,Halobacteriales,Haloarculaceae,Halosimplex,,62.5,,HM159602,58.7,25
+Natrinema soli,1930624,5墩3휑,Archaea,Euryarchaeota,Halobacteria,Natrialbales,Natrialbaceae,Natrinema,,61.5,,KY381123,57.5,25
+Methanobacterium aggregans,1615586,E09F.3,Archaea,Euryarchaeota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanobacterium,,39.1,,KP006499,56.3,25
+Haladaptatus paucihalophilus,367189,DX253,Archaea,Euryarchaeota,Halobacteria,Halobacteriales,Halobacteriaceae,Haladaptatus,,60.5,,DQ344973,57.1,25
+Rhodoplanes tepidicaeni,1897629,TUT3542,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Hyphomicrobiaceae,Rhodoplanes,,67.7,,LC178581,57.9,25
+Geosporobacter ferrireducens,1424294,IRF9,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Geosporobacter,GCA_001750685.1,38.6,5.8,KF601937,55.5,25
+Fuchsiella alkaliacetigena,957042,Z-7100,Bacteria,Firmicutes,Clostridia,Halanaerobiales,Halobacteroidaceae,Fuchsiella,,32,,HQ828140,52.2,25
+Alteribacillus persepolensis,568899,HS136,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Alteribacillus,,37.1,,FM244839,55.8,25
+Halorubrum pallidum,1526114,PJ61,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Halorubraceae,Halorubrum,,65.1,,KJ644242,57.3,25
+Methanocalculus halotolerans,71152,SEBR 4845,Archaea,Euryarchaeota,Methanomicrobia,Methanomicrobiales,Methanocalculaceae,Methanocalculus,,43,,AF033672,55.8,25
+Cellulosilyticum lentocellum,29360,RHM5,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Cellulosilyticum,GCA_000178835.2,34.3,4.7,X71851,52.1,25
+Haloferax massiliensis,1476858,Arc-Hr,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Haloferax,,65.4,,HG964472,57.2,25
+Natronobacterium texcoconense,1095778,B23,Archaea,Euryarchaeota,Halobacteria,Natrialbales,Natrialbaceae,Natronobacterium,,62.5,,JN571120,58.9,25
+Natronorubrum texcoconense,1095776,B4,Archaea,Euryarchaeota,Halobacteria,Natrialbales,Natrialbaceae,Natronorubrum,,63.3,,HQ456225,57.7,25
+Methanomassiliicoccus luminyensis,1080712,B10,Archaea,Euryarchaeota,Thermoplasmata,Methanomassiliicoccales,Methanomassiliicoccaceae,Methanomassiliicoccus,,59.9,,HQ896499,55.4,25
+Halobellus salinus,931585,CSW2.24.4,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Halobellus,,67,,HQ451075,58.8,25
+Haloplanus ruber,869892,R35 ,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Haloplanus,,66,,HM159597,58.2,25
+Methanobacterium alcaliphilum,392018,WeN4,Archaea,Euryarchaeota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanobacterium,,57,,DQ649335,55.1,25
+Halovivax ruber,387341,XH-70,Archaea,Euryarchaeota,Halobacteria,Natrialbales,Natrialbaceae,Halovivax,GCA_000328525.1,64.3,3.2,AM269467,58.7,25
+Halovivax asiaticus,332953,EJ-46,Archaea,Euryarchaeota,Halobacteria,Natrialbales,Natrialbaceae,Halovivax,,60.3,,AM039978,58.8,25
+Salibacterium halotolerans,1884432,S7,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Salibacterium,,,,LN812017,57.1,25
+Metakosakonia massiliensis,1485952,?JC163,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Metakosakonia,,55.1,,JN657217,55.4,25
+Glycomyces xinjiangensis,1934410,XHU 5301,Bacteria,Actinobacteria,Actinobacteria,Glycomycetales,Glycomycetaceae,Glycomyces,,72.5,,KY368645,59,25
+Wenzhouxiangella sediminis,1792836,XDB06,Bacteria,Proteobacteria,Gammaproteobacteria,Chromatiales,Wenzhouxiangellaceae,Wenzhouxiangella,,65,,KU645983,54.6,25
+Paenibacillus mobilis,1715729,S8,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,,53.1,,KX636168,55.7,25
+Leucobacter massiliensis,1686285,122RC15,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Microbacteriaceae,Leucobacter,,70.3,,LN849775,56.4,25
+Sellimonas intestinalis,1653434,BR72,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Sellimonas,,45.3,,KP966092,54.1,25
+Dermabacter vaginalis,1630135,AD1-86,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Dermabacteraceae,Dermabacter,GCA_001678905.1,62.6,2.4,KP903369,56.7,25
+Mycolicibacterium malmesburyense,1566886,WCM 7299,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycolicibacterium,,67.4,,KJ873241,58.6,25
+Gracilibacillus massiliensis,1564956,Awa-1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Gracilibacillus,,36.1,,LN626645,55,25
+Desulfovibrio biadhensis,1537568,Khaled BD4 ,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,Desulfovibrio,,54.6,,LM999902,57.2,25
+Tessaracoccus massiliensis,1522311,SIT-7,Bacteria,Actinobacteria,Actinobacteria,Propionibacteriales,Propionibacteriaceae,Tessaracoccus,,67.8,,LK985394,56.4,25
+Actinomyces succiniciruminis,1522002,Am4,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Actinomycetaceae,Actinomyces,,69.8,,LN680002,59.8,25
+Bacillus rubiinfantis,1499680,mt2,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,,40,,LK021113,54.6,25
+Haemophilus massiliensis,1461579,FF7,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Haemophilus,,46,,HG931334,53.3,25
+Alistipes ihumii,1470347,AP11,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,,57.9,,JX101692,53.4,25
+Bacillus massilioanorexius,1468413,AP8,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,,34.1,,JX101689,54.4,25
+Bacillus salitolerans,1437434,KC1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,,39,,KF751884,54.5,25
+Bacillus massiliogorillae,1243664,G2,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,,35,,JX650055,53.9,25
+Nosocomiicoccus massiliensis,1232430,NP2,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Nosocomiicoccus,,36.4,,JX424771,52.3,25
+Nesterenkonia massiliensis,1232429,NP1,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Micrococcaceae,Nesterenkonia,,62.5,,JX424770,57.2,25
+Salinifilum aidingensis,1224632,TRM 46074,Bacteria,Actinobacteria,Actinobacteria,Pseudonocardiales,Pseudonocardiaceae,Salinifilum,,70.9,,JX193858,60.3,25
+Corynebacterium humireducens,1223514,MFC-5,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,GCA_000819445.1,68.6,2.7,GQ421281,57.5,25
+Peptostreptococcus canis,1159213,CCUG 57081,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Peptostreptococcus,,30.8,,HE687281,51.8,25
+Texcoconibacillus texcoconensis,1095777,13CC,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Texcoconibacillus,,37.5,,JN571119,54.1,25
+Tenuibacillus halotolerans,1035043,YIM 94025,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Tenuibacillus,,38.5,,JQ995150,55.6,25
+Paenibacillus marinisediminis,1031539,LHW35,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,,45,,JF748731,55.3,25
+Fodinibius salinus,860790, YIM D17,Bacteria,Balneolaeota,Balneolia,Balneolales,Balneolaceae,Fodinibius,,43,,HM153810,56.8,25
+Actinopolyspora alba,673379,YIM 90480,Bacteria,Actinobacteria,Actinobacteria,Actinopolysporales,Actinopolysporaceae,Actinopolyspora,,68.3,,GQ480940,60,25
+Blautia glucerasea,536633,HFTH-1,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Blautia,,40.7,,AB439724,54.1,25
+Lachnoanaerobaculum saburreum,467210,CCUG 28089,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnoanaerobaculum,,37,,AB525414,51.2,25
+Pelotomaculum isophthalicicum,342448,JI,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Pelotomaculum,,,,AB232785,56.2,25
+Paenibacillus tarimensis,416012,SA-7-6,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,,53.7,,EF125184,56.1,25
+Actinopolyspora erythraea,414996, YIM 90600,Bacteria,Actinobacteria,Actinobacteria,Actinopolysporales,Actinopolysporaceae,Actinopolyspora,GCA_002263515.1,68.8,5.2,GQ480939,60.1,25
+Halobacillus alkaliphilus,396056,FP5,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Halobacillus,,43.5,,AM295006,55.8,25
+Syntrophomonas cellicola,382673,19J-3,Bacteria,Firmicutes,Clostridia,Clostridiales,Syntrophomonadaceae,Syntrophomonas,,48.8,,DQ288691,54.5,25
+Ochrobactrum pseudintermedium,370111,ADV31,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,Ochrobactrum,,54.5,,DQ365921,54.9,25
+Bifidobacterium tsurumiense,356829,OMB115,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,,53,,AB241106,60.7,25
+Pelotomaculum propionicicum,258475,MGP,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Pelotomaculum,,,,AB154390,53.9,25
+Salibacterium qingdaonense,266892,CM1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Salibacterium,,48,,DQ115802,57.5,25
+Peptostreptococcus russellii,215200,RT-10B,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Peptostreptococcus,,35.6,,AY167952,52.6,25
+Eubacterium multiforme,83339,ATCC 25552,Bacteria,Firmicutes,Clostridia,Clostridiales,Eubacteriaceae,Eubacterium,,,,AB018184,51.9,25
+Clostridium budayi,83338,ATCC 25541,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,,,,NR_024682,52.6,25
+Eubacterium ventriosum,39496,ATCC 27560,Bacteria,Firmicutes,Clostridia,Clostridiales,Eubacteriaceae,Eubacterium,,,,L34421,52.3,25
+Desulfovibrio senezii,76007,?CVL,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,Desulfovibrio,,62,,AF050100,56.3,25
+Prevotella disiens,28130, ATCC 29426,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,,41,,L16483,51.5,25
+Clostridium subterminale,1550,ATCC 25774,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,,28,,AF241844,51.9,25
+Clostridium malenominatum,1539,ATCC 25776,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,,28,,M59099,49.9,25
+Hathewaya limosa,1536,ATCC 25620,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Hathewaya,,24,,M59096,51.7,25
+Eubacterium barkeri,1528,ATCC 25849,Bacteria,Firmicutes,Clostridia,Clostridiales,Eubacteriaceae,Eubacterium,,45,,M23927,51.8,25
+Clostridium beijerinckii,1520,ATCC 25752,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,GCA_000833105.2,30,6.5,X68179,52.5,25
+Lactobacillus colini,1819254,111144-L1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,,35.6,,KU161105,51.7,25
+Lactobacillus formosensis,1617889,S215 ,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,,36.2,,AB794060,51.1,25
+Halovivax limisalsi,1453760,IC38,Archaea,Euryarchaeota,Halobacteria,Natrialbales,Natrialbaceae,Halovivax,,62.6,,KF805151,58.2,25
+Methanocalculus pumilus,152007,MHT-1,Archaea,Euryarchaeota,Methanomicrobia,Methanomicrobiales,Methanocalculaceae,Methanocalculus,,51.9,,AB008853,55.6,25
+Sulfurovum riftiae,1630136,1812E,Bacteria,Proteobacteria,Epsilonproteobacteria,,,Sulfurovum,,47.4,,KP896689,50.4,25
+Clostridium huakuii,1335065,LAM1030,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,,31.2,,KC967412,52.7,25
+Marinobacter persicus,930118,M9B,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Marinobacter,,58.6,,HQ433441,55.1,25
+Oceanobacillus limi,930131,H9B,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Oceanobacillus,,37.1,,HQ433455,54.2,25
+Alteribacillus iranensis,930128,X5B,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Alteribacillus,,42.4,,HQ433452,56.4,25
+Oceanobacillus longus,930120,T9B,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Oceanobacillus,,42.9,,HQ433443,54.2,25
+Prevotella fusca,589436,W1435 ,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,GCA_001262015.1,44.1,3.3,FJ545433,55.8,25
+Nocardia wallacei,480035,ATCC 49873,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Nocardiaceae,Nocardia,,65,,EU099357,58.6,25
+Tindallia texcoconensis,361365,IMP-300,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Tindallia,,40,,DQ234901,53.5,25
+Seinonella peptonophila,112248,ATCC 27302,Bacteria,Firmicutes,Bacilli,Bacillales,Thermoactinomycetaceae,Seinonella,,40,,AF138735,56,25
+Halohasta litchfieldiae,1073996,tADL,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Halorubraceae,Halohasta,GCA_002788215.1,58.9,3.3,JF421969,56.3,25
+Halorubrum salinum,767517,GX71,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Halorubraceae,Halorubrum,,67.1,,HM063951,57.6,25
+Halogeometricum pallidum,411361,BZ256,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Halogeometricum,,65.4,,EF055454,57.7,25
+Paenibacillus elymi,2259011, KUDC6143,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,,50.3,,KX858537,55.7,25
+Actinomyces glycerinitolerans,1892869,G10,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Actinomycetaceae,Actinomyces,,68.5,,KC866613,59.7,25
+Actinomadura alkaliterrae,1735446,D310AT,Bacteria,Actinobacteria,Actinobacteria,Streptosporangiales,Thermomonosporaceae,Actinomadura,,,,KT876993,59.1,25
+Nitratireductor aestuarii,1735103,2-2-12-1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Phyllobacteriaceae,Nitratireductor,,56.7,,KU057958,56.2,25
+Ornithinimicrobium algicola,1671577,JC311,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Intrasporangiaceae,Ornithinimicrobium,,70.4,,LN866650,58.2,25
+Mycolicibacterium oryzae,1648871,JC290,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycolicibacterium,,69.8,,LN846834,58.4,25
+Streptomyces pini,1520580,PL19,Bacteria,Actinobacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces,,69.5,,EU912466,60,25
+Paenibacillus populi,1473572,LAM0705,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,,48,,KJ000069,55.1,25
+Bacillus massiliosenegalensis,1287657,JC6,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,,37.6,,JF824800,54.8,25
+Crassaminicella profunda,1286698,Ra1766H,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Crassaminicella,,33.7,,KC329523,53,25
+Deinococcus enclensis,1049582,NIO-1023,Bacteria,Deinococcus-Thermus,Deinococci,Deinococcales,Deinococcaceae,Deinococcus,,67.2,,HQ858011,56.3,25
+Desulfosporosinus acidiphilus,885581,SJ4,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Desulfosporosinus,GCA_000255115.3,42.1,5,FJ951625,54.9,25
+Clostridium aceticum,84022,ATCC 35044,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,GCA_001042715.1,35.3,4.2,Y18183,53.9,25
+Clostridium moniliforme,39489,ATCC 25546,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,,,,L34622,51.1,25
+Pontibacter ummariensis,1610492,NKM1,Bacteria,Bacteroidetes,Cytophagia,Cytophagales,Hymenobacteraceae,Pontibacter,,58.6,,KP265297,57.2,25
+Streptomyces graminisoli,1367504,JR-19,Bacteria,Actinobacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces,,73.5,,HQ267975,58.8,25
+Aliifodinibius sediminis,1214077,YIM J21,Bacteria,Balneolaeota,Balneolia,Balneolales,Balneolaceae,Aliifodinibius,,48.4,,JQ923476,56.9,25
+Nocardia amikacinitolerans,756689,W9988,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Nocardiaceae,Nocardia,,67.3,,GU985442,58.8,25
+Coprococcus comes,410072,ATCC 27758,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Coprococcus,,40.5,,EF031542,53.6,25
+Coprococcus catus,116085,ATCC 27761,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Coprococcus,,41.5,,AB038359,54.5,25
+Coprococcus eutactus,33043,ATCC 27759,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Coprococcus,,41.5,,D14148,51.5,25
+Methanoculleus horonobensis,528314,T10,Archaea,Euryarchaeota,Methanomicrobia,Methanomicrobiales,Methanomicrobiaceae,Methanoculleus,,62.9,,AB436897,56.6,25
+Halolamina sediminis,1480675,halo-7,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Halorubraceae,Halolamina,,68,,KJ573433,58.9,25
+Natronomonas moolapensis,416273,8.8.11 ,Archaea,Euryarchaeota,Halobacteria,Halobacteriales,Haloarculaceae,Natronomonas,GCA_000591055.1,64.5,2.9,AY498645,58.6,25
+Leucobacter ruminantium,1289170,A2,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Microbacteriaceae,Leucobacter,,67,,KC107829,56.6,25
+Sporobacterium olearium,100133,SR1,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Sporobacterium,,38,,AF116854,52.8,25
+Geodermatophilus sabuli,1564158,BMG8133,Bacteria,Actinobacteria,Actinobacteria,Geodermatophilales,Geodermatophilaceae,Geodermatophilus,,74.5,,LN626269,59.1,25
+Clostridium sporogenes,1509,ATCC 3584,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,GCA_001020205.1,28,4.1,M59115,49.1,25
+Agathobacter ruminis,1712665,JK623,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Agathobacter,,41.8,,KT229569,53.4,25
+Pseudoramibacter alactolyticus,113287,ATCC 23263,Bacteria,Firmicutes,Clostridia,Clostridiales,Eubacteriaceae,Pseudoramibacter,,61,,AB036759,52.8,25
+Bacteroides uniformis,820,ATCC 8492,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,GCA_006742345.1,46.2,5,L16486,51,25
+Methanosaeta harundinacea,301375,8Ac,Archaea,Euryarchaeota,Methanomicrobia,Methanosarcinales,Methanotrichaceae,Methanothrix,GCA_000235565.1,60.6,2.6,AY817738,56.4,25
+Clostridium sordelli,1796621,ATCC 9714,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,,26,,AB075771,53.7,25
+Oceanobacillus massiliensis,1465765,Ndiop,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Oceanobacillus,,36.7,,HQ586887,54.7,25
+Fuchsiella ferrireducens,1242948,Z-7101,Bacteria,Firmicutes,Clostridia,Halanaerobiales,Halobacteroidaceae,Fuchsiella,,34.6,,JX566886,52.7,25
+Idiomarina piscisalsi,1096243,TPS4-2,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Idiomarinaceae,Idiomarina,GCA_002211765.1,47.4,2.6,AB619724,54.3,25
+Brevibacterium ravenspurgense,479117,5401308,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Brevibacteriaceae,Brevibacterium,,,,EU868814,57.1,25
+Staphylococcus massiliensis,555791,5402776,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,,36.6,,EU707796,51.9,25
+Lysinibacillus massiliensis,292806,4400831,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Lysinibacillus,,,,AY677116,54,25
+Thiomonas bhubaneswarensis,339866,S10,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,,Thiomonas,,64.8,,DQ092334,55.6,25
+Clostridium sartagoforme,84031,ATCC 25778,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,,28,,Y18175,52.5,25
+Asaccharospora irregularis,29359,ATCC 25756,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Asaccharospora,,,,X73447,53,25
+Clostridium cadaveris,1529,ATCC 25783,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,,27,,M59086,50,25
+Acetoanaerobium sticklandii,1511,StadtmanHF,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Acetoanaerobium,GCA_000196455.1,33.3,2.7,M26494,51.9,25
+Acidaminococcus fermentans,905,VR4,Bacteria,Firmicutes,Negativicutes,Acidaminococcales,Acidaminococcaceae,Acidaminococcus,GCA_000025305.1,55.8,2.3,X65935,53.7,25
+Marinicrinis lubricantis,2086470,KSS164-79,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Marinicrinis,,62.8,,MG589643,55.5,25
+Aeromicrobium massiliense,1464554,?JC14,Bacteria,Actinobacteria,Actinobacteria,Propionibacteriales,Nocardioidaceae,Aeromicrobium,,72.5,,JF824798,58.2,25
+Jeotgalibacillus alkaliphilus,1671556,JC303,Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Jeotgalibacillus,,43,,LN866628,55.1,25
+Salinifilum ghardaiensis,1293032,H53,Bacteria,Actinobacteria,Actinobacteria,Pseudonocardiales,Pseudonocardiaceae,Salinifilum,,72.6,,KC427277,60.2,25
+Ktedonosporobacter rubrisoli,2509675,SCAWS-G2,Bacteria,Chloroflexi,Ktedonobacteria,Ktedonobacterales,,,GCA_004208415.1,51.8,11.3,KY427895,58.4,25
+Domibacillus enclensis,1017273,NIO-1016,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Domibacillus,,46.9,,JF893466,56.3,25
+Bacillus cellulasensis,1049581,NIO-1130,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,,39.9,,HQ858013,55.1,25
+Methanofollis tationis,81417,Chile 9,Archaea,Euryarchaeota,Methanomicrobia,Methanomicrobiales,Methanomicrobiaceae,Methanofollis,,54,,AF095272,56.3,25
+Rhodocista pekingensis,201185,3-p,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,Rhodocista,,68.8,,AF523824,58.3,25
+Bacteroides faecis,674529,MAJ27,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,,,,GQ496624,50.1,25
+Saccharomonospora xiaoerkulensis,1778871,TRM 41495,Bacteria,Actinobacteria,Actinobacteria,Pseudonocardiales,Pseudonocardiaceae,Saccharomonospora,,72.9,,KU511278,59.6,25
+Flexilinea flocculi,1678840,TC1,Bacteria,Chloroflexi,Anaerolineae,Anaerolineales,Anaerolineaceae,Flexilinea,,42.1,,LC049585,53.7,25
+Eubacterium callanderi,53442,FD,Bacteria,Firmicutes,Clostridia,Clostridiales,Eubacteriaceae,Eubacterium,GCA_000152245.2,47.5,4.3,X96961,53.1,25
+Christensenella minuta,626937,YIT 12065,Bacteria,Firmicutes,Clostridia,Clostridiales,Christensenellaceae,Christensenella,GCA_003628755.1,51.4,3,AB490809,54.8,25
+Mycobacterium genavense,36812,ATCC 51234,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,,,,X60070,58,25
+Methanolacinia paynteri,230356,G-2000,Archaea,Euryarchaeota,Methanomicrobia,Methanomicrobiales,Methanomicrobiaceae,Methanolacinia,,44.9,,NR_042788,56,25
+Bacteroides xylanisolvens,371601,XB1A ,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,GCA_006546965.1,41.8,6.5,AM230650,49.6,25
+Halorubrum californiense,416585,SF3-213,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Halorubraceae,Halorubrum,,69.4,,EF139654,58.2,25
+Methanocalculus taiwanensis,106207,P2F9704a,Archaea,Euryarchaeota,Methanomicrobia,Methanomicrobiales,Methanocalculaceae,Methanocalculus,,,,AF172443,56.2,25
+Mycobacterium talmoniae,1858794,NE-TNMC-100812,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,,,,KX008970,57.7,25
+Butyricimonas faecalis,2093856,H184,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Odoribacteraceae,Butyricimonas,GCA_003991565.1,43.5,5,MG963286,57.5,25
+Bacillus lacus,1983721,AK74,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,,51.6,,LT844664,55.4,25
+Sphingobacterium bovisgrunnientis,1874697,YK2,Bacteria,Bacteroidetes,Sphingobacteriia,Sphingobacteriales,Sphingobacteriaceae,Sphingobacterium,,38.9,,LT599836,51.2,25
+Bifidobacterium hapali,1630172,MRM_8.14 ,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,,56.4,,KP718961,57.4,25
+Mycoplasma mucosicanis,458208,1642,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,,,,AM774638,47.7,25
+Saccharopolyspora lacisalsi,1000566,TRM 40133,Bacteria,Actinobacteria,Actinobacteria,Pseudonocardiales,Pseudonocardiaceae,Saccharopolyspora,,68.2,,JF411070,59.7,25
+Fretibacterium fastidiosum,651822,SGP1 ,Bacteria,Synergistetes,Synergistia,Synergistales,Synergistaceae,Fretibacterium,,63,,GQ149247,56,25
+Sphingomonas rosea,335605,PB196,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingomonas,,,,AB220121,54.4,25
+Actinocatenispora rupis,519421,CS5-AC17,Bacteria,Actinobacteria,Actinobacteria,Micromonosporales,Micromonosporaceae,Actinocatenispora,,74.3,,AM980986,59.6,25
+Paenibacillus pueri,512397,b09i-3,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,,56.6,,EU391156,56.9,25
+Halomonas ilicicola,480814,SP8,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Halomonadaceae,Halomonas,,66.9,,EU218533,58.3,25
+Clostridium diolis,223919,SH1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,GCA_008705175.1,,5.9,NR_025542,53,25
+Paenibacillus ginsengihumi,431596,DCY16,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,,50.9,,EF452662,56.7,25
+Desulfotomaculum defluvii,369958,A5LFS102,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Desulfotomaculum,,45.4,,AM184185,54.4,25
+Burkholderia oklahomensis,342113,C6786,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,GCA_000959365.1,67.1,7.1,NR_043552,55.2,25
+Mycobacterium lacus,169765,ATCC BAA-323,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,,,,AF406783,57.7,25
+Alishewanella fetalis,111143,R2422019,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alishewanella,,51,,AF144407,53.6,25
+Bacteroides massiliensis,204516,B84634,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,,49,,AY126616,51.2,25
+Actinobacillus capsulatus,717,P243,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Actinobacillus,,42.4,,M75062,51.1,25
+Streptococcus hyovaginalis,149015,SHV515,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,,40,,Y07601,52,25
+Superficieibacter electus,2022662,BP-1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Superficieibacter,,,,MG866003,54.8,25
+Arenimonas maotaiensis,1446479,YT8,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Arenimonas,,66.6,,KF746926,56.1,25
+Prevotella scopos,589437,W2052,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,,41,,FJ545434,53.9,25
+Syntrophus aciditrophicus,316277,SB,Bacteria,Proteobacteria,Deltaproteobacteria,Syntrophobacterales,Syntrophaceae,Syntrophus,GCA_000013405.1,51.5,3.2,U86447,52.3,25
+Halomonas rifensis,762643,HK31,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Halomonadaceae,Halomonas,,61.5,,HM026177,57.9,25
+Lysobacter xanthus,2675060,U8,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Lysobacter,,70.6,,MF417835,56.7,25
+Lysobacter helvus,2675059, D10,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Lysobacter,,70.2,,MF417836,57.1,25
+Castellaniella daejeonensis,659013,MJ06,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Castellaniella,,66.2,,GQ241321,55.2,25
+Castellaniella ginsengisoli,546114,DCY36,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Castellaniella,,63.7,,EU873313,54.8,25
+Pseudoclavibacter soli,452623,KP02,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Microbacteriaceae,Pseudoclavibacter,,64.4,,AB329630,56.8,25
+Microbacterium soli,446075,DCY 17,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Microbacteriaceae,Microbacterium,,70.2,,EF593038,56.2,25
+Gryllotalpicola ginsengisoli,444608,DCY26,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Microbacteriaceae,Gryllotalpicola,,65.8,,EF587758,57.9,25
+Marininema halotolerans,1155944,YIM M11385,Bacteria,Firmicutes,Bacilli,Bacillales,Thermoactinomycetaceae,Marininema,,46.6,,KC684888,57.1,25
+Exiguobacterium enclense,1017277,NIO-1109,Bacteria,Firmicutes,Bacilli,Bacillales,,Exiguobacterium,,46.9,,JF893462,55.2,25
+Streptococcus ferus,1345,8S1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,GCA_900475025.1,42.8,1.9,AJ420197,53.1,25
+Bifidobacterium aesculapii,1329411,MRM 3/1,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,,64.7,,KC807989,60.1,25
+Pseudomonas oryzae,1392877,WM-3,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,,69.4,,NR_133023,54,25
+Mariniradius saccharolyticus,1245591,AK6,Bacteria,Bacteroidetes,Cytophagia,Cytophagales,Cyclobacteriaceae,Mariniradius,,45.6,,FR687202,60.2,25
+Marinilabilia nitratireducens,857392,AK2,Bacteria,Bacteroidetes,Bacteroidia,Marinilabiliales,Marinilabiliaceae,Marinilabilia,,40.2,,FN994992,50.8,25
+Labedaea rhizosphaerae,598644,RS-49,Bacteria,Actinobacteria,Actinobacteria,Pseudonocardiales,Pseudonocardiaceae,Labedaea,,64.2,,FM998036,59.6,25
+Wandonia haliotis,574963,Haldis-1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Crocinitomicaceae,Wandonia,,38.1,,FJ424814,52.3,25
+Nocardioides humi,449461,DCY24,Bacteria,Actinobacteria,Actinobacteria,Propionibacteriales,Nocardioidaceae,Nocardioides,GCA_006494775.1,72.3,6.2,EF623863,57.8,25
+Streptococcus minor,229549,ON59,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,,41.1,,AY232832,52.8,25
+Tumebacillus luteolus,1616821,U13,Bacteria,Firmicutes,Bacilli,Bacillales,Alicyclobacillaceae,Tumebacillus,,,,KP050358,58.1,25
+Lysinibacillus odysseyi,202611,34hs-1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Lysinibacillus,,,,AF526913,54,25
+Chryseobacterium takakiae,1302685,AG1-2,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Chryseobacterium,,37.3,,KC560016,50,25
+Shewanella chilikensis,558541,JC5,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,,54.6,,FM210033,54.5,25
+Paraburkholderia ginsengisoli,311231,KMY03,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Paraburkholderia,,61.6,,AB201286,56,25
+Anoxynatronum sibiricum,210623,Z-7981,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Anoxynatronum,,48.4,,AF522323,55.1,25
+Sphingomonas tabacisoli,2249466,X1-8,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingomonas,,66.5,,MF370621,55.1,25
+Methanomethylovorans uponensis,1341726,EK1,Archaea,Euryarchaeota,Methanomicrobia,Methanosarcinales,Methanosarcinaceae,Methanomethylovorans,,39.2,,KC876048,55.9,25
+Methanocorpusculum labreanum,83984,Z,Archaea,Euryarchaeota,Methanomicrobia,Methanomicrobiales,Methanocorpusculaceae,Methanocorpusculum,GCA_000015765.1,50,1.8,CP000559,53.8,25
+Natronobacterium gregoryi,44930,SP2,Archaea,Euryarchaeota,Halobacteria,Natrialbales,Natrialbaceae,Natronobacterium,GCA_000230715.3,62.2,3.8,D87970,58.7,25
+Corynebacterium godavarianum,2054421,PRD07,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,,68.5,,KY670596,56.2,25
+Streptomyces luteus,1915400,TRM 45540,Bacteria,Actinobacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces,,62,,KM285235,59.6,25
+Piscinibacter defluvii,1796922,SH-1,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,,Piscinibacter,,69.9,,KU667249,56.8,25
+Virgibacillus senegalensis,1499679,SK-1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Virgibacillus,,,,LK021111,55.9,25
+Faecalibaculum rodentium,1702221,ALO17,Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Faecalibaculum,GCA_001564455.1,54,2.5,KP881689,56.1,25
+Massilibacteroides vaginae,1673718,MV12,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Massilibacteroides,,40.1,,LN866992,50.5,25
+Paenibacillus lacus,1615953,Agd-32,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,,56,,LN812815,56.3,25
+Planococcus massiliensis,1499687,ES2,Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Planococcus,,46,,LK021122,56.9,25
+Anaeromicrobium sediminis,1478221,DY2726D,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Anaeromicrobium,,33.4,,KJ137882,53.4,25
+Glycomyces albus,1407560,TRM 49136,Bacteria,Actinobacteria,Actinobacteria,Glycomycetales,Glycomycetaceae,Glycomyces,,71,,AB857718,59.9,25
+Ercella succinigenes,1337094,ZWB,Bacteria,Firmicutes,Clostridia,Clostridiales,Hungateiclostridiaceae,Ercella,,37.6,,HG003571,52.4,25
+Mycolicibacterium iranicum,912594,M05,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycolicibacterium,,,,HQ009482,58.5,25
+Parabacteroides faecis,1217282,157,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Tannerellaceae,Parabacteroides,,41.8,,AB739697,51.1,25
+Acetobacteroides hydrogenigenes,979970,RL-C,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Rikenellaceae,Acetobacteroides,,51.2,,AB611036,59.4,25
+Lactivibrio alcoholicus,760261,7WAY-8-7 ,Bacteria,Synergistetes,Synergistia,Synergistales,Synergistaceae,Lactivibrio,,61.4,,AB558582,57.7,25
+Oligosphaera ethanolica,760260,8KG-4,Bacteria,Lentisphaerae,Oligosphaeria,Oligosphaerales,Oligosphaeraceae,Oligosphaera,,61.1,,AB558581,58,25
+Belliella pelovolcani,529505,CC-SAL-25,Bacteria,Bacteroidetes,Cytophagia,Cytophagales,Cyclobacteriaceae,Belliella,,,,EU685336,52.2,25
+Nitritalea halalkaliphila,590849,LW7,Bacteria,Bacteroidetes,Cytophagia,Cytophagales,Cyclobacteriaceae,Nitritalea,,49,,FM991866,53,25
+Sporolactobacillus vineae,444463,SL153,Bacteria,Firmicutes,Bacilli,Bacillales,Sporolactobacillaceae,Sporolactobacillus,,51.1,,EF581819,56.6,25
+Bacillus okhensis,333138,Kh10-101,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,,,,DQ026060,54.1,25
+Mycobacterium gastri,1777,ATCC 15754,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,,,,X52919,58,25
+Oleomonas sagaranensis,89018,HD-1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Oleomonas,,66,,D45202,56.2,25
+Actinobacillus ureae,723, Henriksen 3520/59,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Actinobacillus,,42.5,,M75075,50.9,25
+Mycobacterium bohemicum,56425, DSM 44277,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,,63.5,,U84502,58,25
+Streptococcus caviae,1930533,6,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,,42.6,,LT546457,52.8,25
+Methanocorpusculum aggregans,176294,MSt,Archaea,Euryarchaeota,Methanomicrobia,Methanomicrobiales,Methanocorpusculaceae,Methanocorpusculum,,52,,HG794418,53.8,25
+Salicibibacter halophilus,2502791,NKC3-5,Bacteria,Actinobacteria,Actinobacteria,Glycomycetales,Glycomycetaceae,Salilacibacter,GCA_006740705.1,45.9,3.8,NR_165670,58.3,25
+Bifidobacterium tissieri,1630162,MRM_5.18 ,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,,63.7,,KP718951,59.7,25
+Bacillus oleivorans,1448271,JC228,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,,39,,HG799486,55.4,25
+Actinopolyspora lacussalsi,1234544,TRM 40139,Bacteria,Actinobacteria,Actinobacteria,Actinopolysporales,Actinopolysporaceae,Actinopolyspora,,66.4,,JX485633,59.8,25
+Alteribacillus bidgolensis,930129,P4B,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Alteribacillus,,38.9,,HQ433453,56.5,25
+Lysinibacillus acetophenoni,614649,JC23,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Lysinibacillus,,41,,FN179488,54.1,25
+Lysinibacillus cresolivorans,479077,SC03,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Lysinibacillus,,41.2,,EU043375,54.1,25
+Altererythrobacter ishigakiensis,476157,JPCCMB0017,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Erythrobacteraceae,Altererythrobacter,GCA_001663155.1,56.9,2.7,AB363004,54.1,25
+Desulfovibrio butyratiphilus,442866,BSY,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,Desulfovibrio,,63.3,,AB303305,56.6,25
+Salinivibrio sharmensis,390883,BAG,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Salinivibrio,,51,,AM279734,54,25
+Phenylobacterium falsum,279827,AC-49,Bacteria,Proteobacteria,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Phenylobacterium,,66.9,,AJ717391,56.2,25
+Desulfovibrio aminophilus,81425,ALA-3,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,Desulfovibrio,,66,,AF067964,57.8,25
+Pseudogulbenkiania gefcensis,1037320,yH16,Bacteria,Proteobacteria,Betaproteobacteria,Neisseriales,Chromobacteriaceae,Pseudogulbenkiania,,65.9,,JF728876,55.5,25
+Haloferax namakaokahaiae,1748331,Mke2.3,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Haloferax,,61.5,,KT970727,56.9,25
+Bacillus tamaricis,2069301,EGI 80668,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,,38.3,,KX685158,54.7,25
+Azospirillum soli,1304799,CC-LY788,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,Azospirillum,,,,KC297124,59.2,25
+Sporolactobacillus shoreae,1465501,BK92,Bacteria,Firmicutes,Bacilli,Bacillales,Sporolactobacillaceae,Sporolactobacillus,,46.6,,AB911245,56,25
+Actinopolyspora algeriensis,995059,H19,Bacteria,Actinobacteria,Actinobacteria,Actinopolysporales,Actinopolysporaceae,Actinopolyspora,,,,HQ918195,60.4,25
+Vogesella alkaliphila,1193621,JC141,Bacteria,Proteobacteria,Betaproteobacteria,Neisseriales,Chromobacteriaceae,Vogesella,,62.5,,HE819389,55.3,25
+Hansschlegelia beijingensis,1133344,PG04,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Methylocystaceae,Hansschlegelia,,64.4,,JQ034346,56,25
+Alcanivorax xenomutans,1094342,JC109,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Alcanivoracaceae,Alcanivorax,GCA_002072815.1,61.5,4.7,HE601937,56.1,25
+Actinopolyspora mzabensis,995066,H55,Bacteria,Actinobacteria,Actinobacteria,Actinopolysporales,Actinopolysporaceae,Actinopolyspora,,64.2,,HQ918202,60.1,25
+Bacillus decisifrondis,380630,E5HC-32(,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,,,,DQ465405,54.3,25
+Pararhodospirillum oryzae,478448,JA318,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,Pararhodospirillum,,60.2,,AM901295,57.1,25
+Rhodoplanes piscinae,444923,JA266,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Hyphomicrobiaceae,Rhodoplanes,,70.6,,AM712913,57.2,25
+Roseomonas tokyonensis,430521,K-20,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Roseomonas,,72,,AB297501,57.7,25
+Enteractinococcus helveticum,1837282,UASWS1574,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Micrococcaceae,Enteractinococcus,,56.3,,LN624761,55.3,25
+Pontibacter aurantiacus,1697944,NP1,Bacteria,Bacteroidetes,Cytophagia,Cytophagales,Hymenobacteraceae,Pontibacter,,52.1,,KT361203,58.3,25
+Lysobacter tolerans,1604334,UM1,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Lysobacter,,64.3,,KM888877,55.8,25
+Enteractinococcus lamae,1521434,YIM 101617,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Micrococcaceae,Enteractinococcus,,55.9,,KJ735096,57.1,25
+Rhizobium rosettiformans,1368430,W3,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium,,62.7,,EU781656,55,25
+Staphylococcus succinus,61015,AMG\D1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,GCA_001902315.1,33.1,2.7,AF004220,51.3,25
+Rhizobium aggregatum,34013,IFAM 1003,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium,,62.7,,X73041,55.5,25
+Mycolicibacter algericus,1288388,TBE 500028/10,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycolicibacter,,,,GU564404,58.2,25
+Halococcus sediminicola,1264579,CBA1101,Archaea,Euryarchaeota,Halobacteria,Halobacteriales,Halococcaceae,Halococcus,,66,,JX989265,59.2,25
+Monoglobus pectinilyticus,1981510,14,Bacteria,Firmicutes,Clostridia,Clostridiales,,Monoglobus,,37.2,,KY978733,51.4,25
+Methanocella paludicola,570267,SANAE,Archaea,Euryarchaeota,Methanomicrobia,Methanocellales,Methanocellaceae,Methanocella,GCA_000011005.1,54.9,3,AB196288,57.1,25
+Lysinibacillus xyleni,614648,JC22,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Lysinibacillus,,41.2,,FN179487,53.7,25
+Chryseomicrobium amylolyticum,558165,JC16,Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Chryseomicrobium,,57.6,,FM209428,56.1,25
+Streptosporangium violaceochromogenes,46188,ATCC 21807,Bacteria,Actinobacteria,Actinobacteria,Streptosporangiales,Streptosporangiaceae,Streptosporangium,,,,U48997,59.9,25
+Paracoccus chinensis,525640,KS-11,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Paracoccus,,69,,EU660389,56.6,25
+Stenotrophomonas chelatiphaga,517011,B-2486,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Stenotrophomonas,,68.3,,EU573216,55.3,25
+Tangfeifania diversioriginum,1168035,G22,Bacteria,Bacteroidetes,Bacteroidia,Marinilabiliales,Prolixibacteraceae,Tangfeifania,,40,,JQ683777,53.2,25
+Caenispirillum deserti,1493863,JC232,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,Caenispirillum,,70,,HG974543,57.3,25
+Streptomyces alkaliphilus,1472722,No. 7,Bacteria,Actinobacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces,,72.8,,KF976730,59.9,25
+Rhodopseudomonas telluris,644215,TUT3615,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Bradyrhizobiaceae,Rhodopseudomonas,,66.3,,AB498822,55.2,25
+Nesterenkonia aethiopica,269144,DSM 17733,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Micrococcaceae,Nesterenkonia,,69,,AY574575,57.5,25
+Geodermatophilus amargosae,1296565,G12,Bacteria,Actinobacteria,Actinobacteria,Geodermatophilales,Geodermatophilaceae,Geodermatophilus,,73,,HF679056,60.2,25
+Actinoplanes siamensis,1223317,A-T 6646,Bacteria,Actinobacteria,Actinobacteria,Micromonosporales,Micromonosporaceae,Actinoplanes,,72,,JX283293,59.5,25
+Desulfomicrobium orale,132132,NY678,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfomicrobiaceae,Desulfomicrobium,GCA_001553625.1,58.9,2.8,AJ251623,56.1,25
+Methanobrevibacter oralis,66851,ZR,Archaea,Euryarchaeota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanobrevibacter,,28,,NR_104878,52.1,25
+Marichromatium indicum,224438,JA100,Bacteria,Proteobacteria,Gammaproteobacteria,Chromatiales,Chromatiaceae,Marichromatium,,67.1,,AJ543328,55.8,25
+Rhodovulum mangrovi,1406880,AK41,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rhodovulum,,68.9,,HG529993,55.3,25
+Brevitalea deliciosa,1603870,Ac_16_C4,Bacteria,Acidobacteria,Blastocatellia,Blastocatellales,Pyrinomonadaceae,Brevitalea,,54.7,,KP638490,55.7,25
+Escherichia marmotae,1499973,HT073016,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,GCA_002900365.1,50.4,4.9,KJ787692,54.7,25
+Nannocystis konarekensis,2066023,MNa11734,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Nannocystaceae,Nannocystis,,72.2,,KY381122,57.4,25
+Bacteroides timonensis,1470345,AP1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,,43.3,,JX041639,50.4,25
+Holdemania massiliensis,1468449,AP2,Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Holdemania,,47.1,,JX101683,51.8,25
+Weeksella massiliensis,1461577,FF8,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Weeksella,,35.9,,HG931340,49.1,25
+Risungbinella massiliensis,1329796,GD1 ,Bacteria,Firmicutes,Bacilli,Bacillales,Thermoactinomycetaceae,Risungbinella,,40.1,,HF952921,56.5,25
+Nocardioides massiliensis,1325935,GD13,Bacteria,Actinobacteria,Actinobacteria,Propionibacteriales,Nocardioidaceae,Nocardioides,,71,,HF952922,57.2,25
+Actinomyces timonensis,1288391,7400942,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Actinomycetaceae,Actinomyces,,,,EU484334,61,25
+Gorillibacterium massiliense,1280390,G5,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Gorillibacterium,,50.4,,KC193239,54.7,25
+Mycobacterium paraseoulense,590652,31118?,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,,,,DQ536404,58.2,25
+Mycolicibacter paraterrae,577492,05\2522,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycolicibacter,,,,EU919229,58.5,25
+Mycobacterium seoulense,386911,DSM 44998,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,,,,DQ536403,58.2,25
+Prevotella timonensis,386414,4401737,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,,,,DQ518919,52.8,25
+Mycobacterium parascrofulaceum,240125,ATCC BAA-614,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,,,,AY337273,58.4,25
+Mycobacterium saskatchewanense,220927,ATCC BAA-544,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,,,,AY208856,58,25
+Bacteroides coprosuis,151276,PC139,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,,36.4,,AJ514258,49.8,25
+Clostridium neonatale,137838,LCDC 99A005,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,,28.5,,AF275949,52.2,25
+Clostridium haemolyticum,84025,ATCC 9650,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,,26.5,,AB037910,52.6,25
+Mycobacterium simiae,1784, ATCC 25275,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,,,,X52931,58.4,25
+Hathewaya histolytica,1498,ATCC 19401,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Hathewaya,GCA_901482605.1,,2.7,M59094,51.3,25
+Enterococcus massiliensis,1640685,CSUR P1927,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,,39.6,,LN833866,52.7,25
+Streptococcus varani,1608583,FF10,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,,40.4,,LN810501,52.5,25
+Methanobrevibacter acididurans,120963,ATM,Archaea,Euryarchaeota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanobrevibacter,,,,AF242652,53.1,25
+Flavobacterium microcysteis,2596891,MaA-Y11,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,,37,,MN061042,53.8,25
+Rubrivivax albus,2499835,ICH-3,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,,Rubrivivax,,70.3,,MF801368,57.1,25
+Ottowia konkukae,2338647,SK3863,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Ottowia,,65.8,,MG764241,54.8,25
+Fictibacillus aquaticus,2021314,GDSW-R2A3,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Fictibacillus,,44.2,,KY471632,55.2,25
+Ramlibacter alkalitolerans,2039631,CJ661,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Ramlibacter,,65.4,,KF740333,55.8,25
+Nocardioides agrisoli,1882242,djl-8,Bacteria,Actinobacteria,Actinobacteria,Propionibacteriales,Nocardioidaceae,Nocardioides,,69.3,,KX380192,57.9,25
+Actinomadura adrarensis,1819600,ACD12,Bacteria,Actinobacteria,Actinobacteria,Streptosporangiales,Thermomonosporaceae,Actinomadura,,,,KU356942,59.5,25
+Cribrihabitans pelagius,1765746,KMU-32,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Cribrihabitans,,63.7,,LC101916,55.3,25
+Arcobacter lanthierii,1564137,AF1440,Bacteria,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Campylobacteraceae,Aliiarcobacter,,26.6,,,,25
+Pseudomonas tarimensis,1507735,MA-69,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,,64.1,,KC709664,54.8,25
+Chryseobacterium shandongense,1493872,YF-3,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Chryseobacterium,,37,,KJ644318,50.6,25
+Microbacterium aureliae,1452538, JF-6,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Microbacteriaceae,Microbacterium,,69.4,,KF793922,56.3,25
+Salinicoccus sediminis,1432562,SV-16,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Salinicoccus,,48.7,,KF701618,56,25
+Sunxiuqinia dokdonensis,1409788,DH1,Bacteria,Bacteroidetes,Bacteroidia,Marinilabiliales,Prolixibacteraceae,Sunxiuqinia,,40.8,,KF646787,52.1,25
+Aliiglaciecola coringensis,1406886,AK49,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Aliiglaciecola,,41.9,,HG529994,53.4,25
+Ottowia shaoguanensis,1335047,J5-66,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Ottowia,,64.4,,KC222642,55.9,25
+Isoptericola rhizophila,1303811, BKS 3-46,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Promicromonosporaceae,Isoptericola,,70.4,,KC608148,58.4,25
+Lunatimonas lonarensis,1232681,AK24,Bacteria,Bacteroidetes,Cytophagia,Cytophagales,Cyclobacteriaceae,Lunatimonas,,,,HE985070,57.2,25
+Rhizobium halotolerans,1233081,AB21,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium,,62.5,,JX307098,55.6,25
+Azospirillum humicireducens,1226968,SgZ-5,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,Azospirillum,,67.7,,JX274435,57.4,25
+Gemmata massiliana,1210884,CSUR P189,Bacteria,Planctomycetes,Planctomycetia,Planctomycetales,Gemmataceae,Gemmata,GCA_901538265.1,64,10.1,JX088244,56.2,25
+Massilia putida,1141883,6NM-7,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Massilia,GCA_001941825.1,65.5,7.5,JQ608336,54.6,25
+Kocuria sediminis,1038857,FCS-11,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Micrococcaceae,Kocuria,,60.7,,JF896464,57.8,25
+Kocuria assamensis,876450,S9-65,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Micrococcaceae,Kocuria,,69.2,,HQ018931,57.4,25
+Shivajiella indica,872115,NIO-S1,Bacteria,Bacteroidetes,Cytophagia,Cytophagales,Cyclobacteriaceae,Shivajiella,,41.2,,FR681897,55.2,25
+Sphingomonas formosensis,861534,CC-Nfb-2,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingomonas,,62.8,,HM193517,55.3,25
+Agromyces arachidis,766966,AK-1,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Microbacteriaceae,Agromyces,,,,FN868445,56.4,25
+Microbacterium assamensis,859830,S2-48,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Microbacteriaceae,Microbacterium,,70.2,,HM146190,56.3,25
+Vibrio jasicida,766224,TCFB 0772,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,GCA_002887615.1,45.1,6,AB562589,53.9,25
+Mycolicibacterium setense,431269,ABO-M06,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycolicibacterium,,,,EF138818,57.6,25
+Mycolicibacterium conceptionense,451644,D16,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycolicibacterium,,64,,AY859684,57.7,25
+Nocardioides fonticola,450363,NAA-13,Bacteria,Actinobacteria,Actinobacteria,Propionibacteriales,Nocardioidaceae,Nocardioides,,71.8,,EF626689,58.2,25
+Solimonas soli,413479,DCY12,Bacteria,Proteobacteria,Gammaproteobacteria,Nevskiales,Sinobacteraceae,Solimonas,,40.5,,EF067861,54,25
+Aeromicrobium flavum,416568, TYLN1,Bacteria,Actinobacteria,Actinobacteria,Propionibacteriales,Nocardioidaceae,Aeromicrobium,,73.3,,EF133690,57.7,25
+Parapusillimonas granuli,380911,Ch07,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Parapusillimonas,,67.9,,DQ466075,55.3,25
+Agrococcus lahaulensis,341722,K22-21,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Microbacteriaceae,Agrococcus,,74.1,,DQ156908,56.3,25
+Xanthobacter polyaromaticivorans,225625,127W,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Xanthobacter,,65,,AB106864,55.7,25
+Spiroplasma chinense,216932,CCH,Bacteria,Tenericutes,Mollicutes,Entomoplasmatales,Spiroplasmataceae,Spiroplasma,,29,,AY189126,50.1,25
+Mycoplasma testudinis,33924,1008,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,,35,,U09788,46.9,25
+Salinicola rhizosphaerae,1443141,MSSRFH1,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Halomonadaceae,Salinicola,,64,,KF898345,57.2,25
+Streptomyces rhizophilus,1367506,JR-41,Bacteria,Actinobacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces,,71,,HQ267989,58.8,25
+Rhizobium populi,1312132,K-38,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium,,63.5,,KC609734,55.6,25
+Ciceribacter lividus,1197950,MSSRFBL1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Ciceribacter,,71,,JQ230000,55.5,25
+Streptomyces karpasiensis,1187859,K413,Bacteria,Actinobacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces,,71.9,,JQ864430,58.7,25
+Flavobacterium ummariense,913024,DS-12,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,,37.4,,HQ329187,49.2,25
+Nocardia kroppenstedtii,341199,N1286,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Nocardiaceae,Nocardia,,,,DQ157924,58.6,25
+Deinococcus actinosclerus,1768108,BM2,Bacteria,Deinococcus-Thermus,Deinococci,Deinococcales,Deinococcaceae,Deinococcus,GCA_001507665.1,70.6,3.3,KT448814,55.7,25
+Paenibacillus gorillae,1243662,G1,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,,48.8,,JX650054,54.9,25
+Syntrophorhabdus aromaticivorans,328301,UI,Bacteria,Proteobacteria,Deltaproteobacteria,Syntrophobacterales,Syntrophorhabdaceae,Syntrophorhabdus,,,,AB212873,55.8,25
+Bombella apis,1785988,MRM1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Bombella,,59.5,,KU534110,55.7,25
+Lutibaculum baratangense,1358440,AMV1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhodobiaceae,Lutibaculum,,70.5,,FN297835,57.7,25
+Kocuria atrinae,592377,P30,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Micrococcaceae,Kocuria,,70.2,,FJ607311,56.9,25
+Alteromonas litorea,252597,TF-22,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alteromonas,,46,,AY428573,53.1,25
+Bacteroides zoogleoformans,28119,ATCC 33285,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,GCA_002998435.1,,3.4,L16488,53.3,25
+Clostridium tyrobutyricum,1519,ATCC 25755,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,,28,,M59113,52.1,25
+Edwardsiella piscicida,1263550,ET883,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Hafniaceae,Edwardsiella,GCA_000348565.1,,3.9,MK937273,54.3,25
+Phenylobacterium kunshanense,1445034,BUT-10,Bacteria,Proteobacteria,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Phenylobacterium,,71.9,,KJ008916,55.7,25
+Brachybacterium squillarum,661979,M-6-3,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Dermabacteraceae,Brachybacterium,,71.5,,GQ339911,57.5,25
+Paraburkholderia sacchari,159450,PT101,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Paraburkholderia,,,,AF263278,56.3,25
+Cyclobacterium sediminis,1611812,SD70,Bacteria,Bacteroidetes,Cytophagia,Cytophagales,Cyclobacteriaceae,Cyclobacterium,,36,,KP639573,53.6,25
+Planobispora takensis,1367882,A-T 7458,Bacteria,Actinobacteria,Actinobacteria,Streptosporangiales,Streptosporangiaceae,Planobispora,,72.9,,KC865732,59.6,25
+Gryllotalpicola daejeonensis,993087,RU-04,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Microbacteriaceae,Gryllotalpicola,,70.2,,HQ832502,57.7,25
+Sphingopyxis panaciterrulae,462372,DCY34,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingopyxis,,62.3,,EU075217,55,25
+Pseudodesulfovibrio hydrargyri,2125990,BerOc1,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,Pseudodesulfovibrio,,62.6,,EU137840,54.8,25
+Lunatimonas salinarum,1774590,JC344,Bacteria,Bacteroidetes,Cytophagia,Cytophagales,Cyclobacteriaceae,Lunatimonas,,43,,LN997816,56.1,25
+Ornithinicoccus halotolerans,1748220,EGI 80423,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Intrasporangiaceae,Ornithinicoccus,,72.8,,KT734857,57.7,25
+Rhodovulum aestuarii,1671555,JA924,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rhodovulum,,64,,LN866627,55.3,25
+Rhodobacter lacus,1641972,JA826,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rhodobacter,,65.5,,LN835251,55.3,25
+Rhodobacter azollae,1608946,JA912,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rhodobacter,,64.6,,LN810641,55.2,25
+Flavisolibacter swuensis,1492899,SR2-4-2,Bacteria,Bacteroidetes,Chitinophagia,Chitinophagales,Chitinophagaceae,Flavisolibacter,,45,,KJ461520,53.4,25
+Rhodovulum viride,1231134,JA756,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rhodovulum,,63.3,,HE983843,55.4,25
+Gryllotalpicola reticulitermitis,1184153,TS-56,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Microbacteriaceae,Gryllotalpicola,,67.4,,JQ864374,56.8,25
+Rhodovulum salis,1155475,JA746,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rhodovulum,,62.4,,HE680093,55.7,25
+Marininema mesophilum,1048340,SCSIO 10219,Bacteria,Firmicutes,Bacilli,Bacillales,Thermoactinomycetaceae,Marininema,,46.5,,JN006758,56.8,25
+Thiophaeococcus fuscus,764330, JA633,Bacteria,Proteobacteria,Gammaproteobacteria,Chromatiales,Chromatiaceae,Thiophaeococcus,,64.5,,FN824810,56.9,25
+Phaeospirillum tilakii,741673,JA492,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,Phaeospirillum,,61.5,,FN675262,56.4,25
+Arthrobacter pityocampae,547334,Tp2,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Micrococcaceae,Arthrobacter,,69.5,,EU855749,56.1,25
+Alicyclobacillus aeris,545890,ZJ-6,Bacteria,Firmicutes,Bacilli,Bacillales,Alicyclobacillaceae,Alicyclobacillus,,51.2,,FM179383,57.7,25
+Thiorhodococcus fuscus,527200,JA363,Bacteria,Proteobacteria,Gammaproteobacteria,Chromatiales,Chromatiaceae,Thiorhodococcus,,64,,AM993157,56.7,25
+Allochromatium humboldtianum,504901,AX1YPE,Bacteria,Proteobacteria,Gammaproteobacteria,Chromatiales,Chromatiaceae,Allochromatium,,63.9,,EU442182,58.4,25
+Rhodovulum lacipunicei,487515,JA322,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rhodovulum,,68.6,,AM921780,55.9,25
+Rhodobacter aestuarii,453582,JA296,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rhodobacter,,65.1,,AM748926,55.3,25
+Rhodobacter maris,446682, JA276,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rhodobacter,,62.9,,AM745438,56,25
+Rhodobacter johrii,445629,JA192,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rhodobacter,,65.7,,AM398152,55.6,25
+Pararhodospirillum sulfurexigens,442525,JA143,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,Pararhodospirillum,,64.7,,AM710622,57,25
+Rhodobacter ovatus,439529, JA234 ,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rhodobacter,,70.1,,AM690348,55.3,25
+Rhodanobacter spathiphylli,347483,B39,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Rhodanobacter,,67.6,,AM087226,56.3,25
+Rhodovulum marinum,320662,JA128,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rhodovulum,,62,,AJ891122,55.5,25
+Prosthecochloris indica,315457,JAGS6,Bacteria,Chlorobi,Chlorobia,Chlorobiales,Chlorobiaceae,Prosthecochloris,,53,,AJ887996,51.3,25
+Streptomyces sundarbansensis,265730,MS1/7,Bacteria,Actinobacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces,,71.9,,AY550275,58.1,25
+Gemmatimonas aurantiaca,173480,T-27,Bacteria,Gemmatimonadetes,Gemmatimonadetes,Gemmatimonadales,Gemmatimonadaceae,Gemmatimonas,GCA_000010305.1,64.3,4.6,AB072735,60.2,25
+Rhodovulum bhavnagarense,992286,JA738,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rhodovulum,,63.4,,FR828479,55.4,25
+Nocardioides agariphilus,433664,MSL-28,Bacteria,Actinobacteria,Actinobacteria,Propionibacteriales,Nocardioidaceae,Nocardioides,,69.4,,EF466113,57.9,25
+Mycobacterium nebraskense,244292,ATCC BAA-837,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,,,,AY368456,58.1,25
+Mycobacterium haemophilum,29311,ATCC 29548,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,GCA_000340435.3,,4.2,X88923,57.8,25
+Myxococcus xanthus,34,FB,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Myxococcaceae,Myxococcus,GCA_000012685.1,68.9,9.1,AB218205,56,25
+Legionella massiliensis,1034943,LegA,Bacteria,Proteobacteria,Gammaproteobacteria,Legionellales,Legionellaceae,Legionella,,,,JF779685,53.6,25
+Paenibacillus physcomitrellae,1619311,XB,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,,53.3,,KP334123,56.2,25
+Novosphingobium lindaniclasticum,1329895,LE124,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Novosphingobium,,60.7,,JN687581,54.8,25
+Labrys soli,1233475,DCY64,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Labrys,,63,,JX315532,55.3,25
+Parasediminibacterium paludis,908966,HME6815,Bacteria,Bacteroidetes,Chitinophagia,Chitinophagales,Chitinophagaceae,Parasediminibacterium,,38.4,,HQ231219,51,25
+Paracoccus caeni,657651,MJ17,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Paracoccus,,58.7,,GQ250442,55.1,25
+Thiorhodococcus modestalkaliphilus,527199,JA395,Bacteria,Proteobacteria,Gammaproteobacteria,Chromatiales,Chromatiaceae,Thiorhodococcus,,57.8,,AM993156,56.1,25
+Coralibacter albidoflavus,499064,04OKA-3-121,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Coraliitalea,,38.8,,LC260147,57.4,25
+Flavobacterium vireti,1582803,THG-SM1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,,38.5,,KM576853,50.7,25
+Frankia coriariae,1562887,BMG5.1,Bacteria,Actinobacteria,Actinobacteria,Frankiales,Frankiaceae,Frankia,,70.2,,KY066449,60.2,25
+Frondibacter aureus,1495146,A5Q-67,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Frondibacter,,36.7,,AB932598,49.6,25
+Wenyingzhuangia heitensis,1487859,H-MN17,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Wenyingzhuangia,,31.8,,AB924513,49.1,25
+Promicromonospora iranensis,1105144,HM 792,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Promicromonosporaceae,Promicromonospora,,,,JN038073,57.5,25
+Rhizobium pongamiae,927702,VKLR-01,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium,,,,GQ444136,54.6,25
+Rubellimicrobium roseum,687525,YIM 48858,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rubellimicrobium,,67.7,,GU109478,57.6,25
+Thiorhodococcus alkaliphilus,1752873,JA878,Bacteria,Proteobacteria,Gammaproteobacteria,Chromatiales,Chromatiaceae,Thiorhodococcus,,62.4,,LN901453,56.9,25
+Spirosoma swuense,1848194,JBM2-3,Bacteria,Bacteroidetes,Cytophagia,Cytophagales,Cytophagaceae,Spirosoma,,47.4,,KU865688,54.6,25
+Rhizobium subbaraonis,908946,JC85,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium,,67.7,,NR_108508,55.5,25
+Georgenia sediminis,1242744,SCSIO 15020,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Bogoriellaceae,Georgenia,,73.2,,JX555983,58.9,24
+Haloterrigena saccharevitans,301967,AB14,Archaea,Euryarchaeota,Halobacteria,Natrialbales,Natrialbaceae,Haloterrigena,,66.6,,AY820137,58.8,24
+Halobiforma lacisalsi,229731,AJ5,Archaea,Euryarchaeota,Halobacteria,Natrialbales,Natrialbaceae,Halobiforma,GCA_000226975.3,65.2,4.4,AY277582,59.1,24
+Proteiniclasticum ruminis,398199,D3RC-2,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Proteiniclasticum,,41,,DQ852338,53.6,24
+Haloarcula japonica,29282,TR-1,Archaea,Euryarchaeota,Halobacteria,Halobacteriales,Haloarculaceae,Haloarcula,,63.3,,D28872,54.3,24
+Methanolobus chelungpuianus,502115,R15,Archaea,Euryarchaeota,Methanomicrobia,Methanosarcinales,Methanosarcinaceae,Methanolobus,,48.3,,EU293796,55.7,24
+Clostridium amylolyticum,1121298,SW408,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,,33.1,,EU037903,53.9,24
+Oryzomicrobium terrae,1735038,TPP412,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,Oryzomicrobium,GCA_008274805.1,66.1,3.5,KR296798,56.1,24
+Hoppeia youngheungensis,1408155,YIK12,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Hoppeia,,40.4,,KF576216,54.7,24
+Mycobacterium grossiae,1552759,PB739,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,GCA_008329645.1,70.5,5.7,KM186137,58.6,24
+Frischella perrara,1267021,PEB0191 ,Bacteria,Proteobacteria,Gammaproteobacteria,Orbales,Orbaceae,Frischella,GCA_000807275.1,34.1,2.7,JX878306,51.8,24
+Photorhabdus heterorhabditis,880156,SF41,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Morganellaceae,Photorhabdus,,,,HQ142626,55,24
+Barrientosiimonas humi,999931,39,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Dermacoccaceae,Barrientosiimonas,,68.4,,JF346171,57.4,24
+Hypericibacter adhaerens,2602016,R5959,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,,GCA_008728835.1,67.4,5.9,MH450230,57.5,24
+Streptomyces humi,1428620,MUSC 119,Bacteria,Actinobacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces,,72.6,,KJ632661,58.7,24
+Sinomonas humi,1338436,MUSC 117,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Micrococcaceae,Sinomonas,,67.3,,KC964537,60.1,24
+Streptomyces polygonati,1617087,NEAU-G9,Bacteria,Actinobacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces,,70.7,,KF195922,59.2,24
+Mycolicibacterium aubagnense,319707,U8,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycolicibacterium,,65,,NR_043238,58,24
+Mycobacterium sherrisii,243061,4773,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,,,,AY353699,58.5,24
+Sphaerisporangium rufum,1381558,R10-82,Bacteria,Actinobacteria,Actinobacteria,Streptosporangiales,Streptosporangiaceae,Sphaerisporangium,,74,,AB842299,59.8,24
+Monashia flava,1428657,MUSC 78,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Intrasporangiaceae,Intrasporangium,,73.1,,KF682157,57.8,24
+Streptomyces mangrovisoli,1428628,MUSC 149,Bacteria,Actinobacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces,,72.7,,KJ632664,58.6,24
+Streptomyces euryhalinus,207915,MS 3/20,Bacteria,Actinobacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces,,77.3,,KR827683,59.7,24
+Chitinophaga aurantiaca,2675051,THG-SD5.5,Bacteria,Bacteroidetes,Chitinophagia,Chitinophagales,Chitinophagaceae,Chitinophaga,,46.1,,KY765911,51.5,24
+Anaerosporomusa subterranea,1794912,RU4,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Sporomusaceae,Anaerosporomusa,,52,,KX268498,54.7,24
+Chelativorans composti,768533,Nis3,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Phyllobacteriaceae,Chelativorans,,63.4,,AB563785,57.2,23
+Haloferax mucosum,403181,PA12 ,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Haloferax,,60.8,,DQ860980,56.5,23
+Haloferax prahovense,381852,TL6,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Haloferax,,63.7,,AB258305,56.8,23
+Haloferax chudinovii,1109010,RS75,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Haloferax,,65,,JX669135,57,23
+Halanaerobacter chitinivorans,42419,W5C8,Bacteria,Firmicutes,Clostridia,Halanaerobiales,Halobacteroidaceae,Halanaerobacter,,34.8,,U32596,51.6,23
+Halalkalicoccus tibetensis,175632,DS12,Archaea,Euryarchaeota,Halobacteria,Halobacteriales,Halobacteriaceae,Halalkalicoccus,,61.5,,AF435112,58.8,23
+Saccharedens versatilis,1680761,CAG32,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Saccharedens,,59.2,,KT258895,56,23
+Ferroplasma acidarmanus,97393,fer1,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Ferroplasmaceae,Ferroplasma,GCA_000152265.2,36.5,1.9,NR_103941,51.2,23
+Bacillus massiliogabonensis,1871011,Marseille P2639,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,,,,LT598571,54.8,23
+Mycoplasma ciconiae,561067,ST 57,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,,,,FJ155815,48.5,23
+Desulfitibacter alkalitolerans,264641,sk.kt5,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Desulfitibacter,,41.6,,AY538171,53.9,23
+Falsiporphyromonas endometrii,1387297,LMM 40,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Falsiporphyromonas,,40.7,,HF969314,52.4,23
+Acidihalobacter prosperus,160660,DSM5130,Bacteria,Proteobacteria,Gammaproteobacteria,Chromatiales,Ectothiorhodospiraceae,Acidihalobacter,GCA_001753245.1,59.9,3.6,CP017448,55.8,23
+Ventosimonas gracilis,1680762,CV58,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Ventosimonadaceae,Ventosimonas,,54.9,,KT258896,54.9,23
+Nocardiopsis flavescens,758803,SA6,Bacteria,Actinobacteria,Actinobacteria,Streptosporangiales,Nocardiopsaceae,Nocardiopsis,,68.6,,GU997639,59,23
+Lactobacillus acetotolerans,1600,ATCC 43578,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,GCA_001042405.1,36.7,1.7,M58801,51.3,23
+Oxobacter pfennigii,36849,V5-2,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Oxobacter,,38,,X77838,52.8,23
+Yeosuana aromativorans,288019,GW1-1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Yeosuana,,51.4,,AY682382,52.8,23
+Streptomyces lopnurensis,1495572,TRM 49590,Bacteria,Actinobacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces,,62.2,,AB932597,59.2,23
+Cephaloticoccus capnophilus,1548208,CV41,Bacteria,Verrucomicrobia,Opitutae,Opitutales,Opitutaceae,Cephaloticoccus,,60.5,,KM066003,54.3,23
+Bacteroides oleiciplenus,626931,MS4,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,,43.5,,HG315678,50.4,23
+Sporotomaculum hydroxybenzoicum,68035,B,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Sporotomaculum,,48,,Y14845,55.5,23
+Streptomyces aidingensis,910347,TRM 46012,Bacteria,Actinobacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces,,74.4,,HQ286045,60.1,23
+Anaerococcus provencensis,938293,9402080,Bacteria,Firmicutes,Tissierellia,Tissierellales,Peptoniphilaceae,Anaerococcus,,33.5,,HM587323,49.6,23
+Acholeplasma morum,264637,72-043,Bacteria,Tenericutes,Mollicutes,Acholeplasmatales,Acholeplasmataceae,Acholeplasma,,34,,AY538168,49.1,23
+Mesoplasma entomophilum,2149,TAC,Bacteria,Tenericutes,Mollicutes,Entomoplasmatales,Entomoplasmataceae,Mesoplasma,GCA_002749675.1,27.2,0.8,M23931,47.6,23
+Acidiplasma cupricumulans,312540,BH2,Archaea,Euryarchaeota,Thermoplasmata,Thermoplasmatales,Ferroplasmaceae,Acidiplasma,,36,,AY907888,51.8,22
+Clostridium tepidiprofundi,420412,SG 508,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,,30.9,,EF197795,53,22
+Halobacterium jilantaiense,355548,NG4,Archaea,Euryarchaeota,Halobacteria,Halobacteriales,Halobacteriaceae,Halobacterium,,64.2,,DQ256409,57.7,22
+Halanaerobium salsuginis,29563,VS-752,Bacteria,Firmicutes,Clostridia,Halanaerobiales,Halanaerobiaceae,Halanaerobium,,34,,L22890,51.9,22
+Halobacterium hubeiense,1407499,JI20-1 ,Archaea,Euryarchaeota,Halobacteria,Halobacteriales,Halobacteriaceae,Halobacterium,GCA_001488575.1,66.6,3.1,LN831302,58.3,22
+Methanoculleus palmolei,72612,INSLUZ,Archaea,Euryarchaeota,Methanomicrobia,Methanomicrobiales,Methanomicrobiaceae,Methanoculleus,,59.5,,Y16382,55.9,22
+Halogeometricum borinquense,60847,PR 3 ,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Halogeometricum,GCA_000172995.2,60,3.9,AF002984,56.9,22
+Natronococcus amylolyticus,44470,Ah-36,Archaea,Euryarchaeota,Halobacteria,Natrialbales,Natrialbaceae,Natronococcus,,63.5,,D43628,58.3,22
+Prauserella coralliicola,1401264,SCSIO 11529,Bacteria,Actinobacteria,Actinobacteria,Pseudonocardiales,Pseudonocardiaceae,Prauserella,,70.2,,KF670858,58.6,22
+Halorubrum ezzemoulense,337243,5.1,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Halorubraceae,Halorubrum,GCA_004126515.1,66.5,3.7,DQ118426,57.6,22
+Halosimplex carlsbadense,171164,2쭯9-1,Archaea,Euryarchaeota,Halobacteria,Halobacteriales,Haloarculaceae,Halosimplex,,64.4,,AF320478,58.3,22
+Bifidobacterium callitrichidarum,2052941,TRI 5,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,,60.9,,KU298954,59.4,22
+Bifidobacterium vespertilionis,2562524,RST 9,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,,64.6,,MK722392,59.2,22
+Bifidobacterium jacchi,2490545,MRM 9.3,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,,61.5,,KP718960,61.6,22
+Bifidobacterium catulorum,1630173,MRM 8.19,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,,63.7,,KP718959,60.2,22
+Halococcus agarilyticus,1232219,62E,Archaea,Euryarchaeota,Halobacteria,Halobacteriales,Halococcaceae,Halococcus,,63,,AB748562,59.9,22
+Lentibacillus halodurans,237679,8墩1휑,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Lentibacillus,,43.4,,AY321433,55.4,22
+Hazenella coriacea,1179467,23436,Bacteria,Firmicutes,Bacilli,Bacillales,Thermoactinomycetaceae,Hazenella,,37.8,,JQ798970,57.6,22
+Halorubrum tibetense,175631,8W8,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Halorubraceae,Halorubrum,,63.3,,AY149598,58.6,22
+Mycolicibacterium mageritense,53462,938,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycolicibacterium,,,,AJ699399,58.9,22
+Staphylococcus hyicus,1284,D. Sompolinsky no. 1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,GCA_000816085.1,35.6,2.5,D83368,51.6,22
+Pseudogracilibacillus endophyticus,1534102,DT7-02,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Pseudogracilibacillus,,35.1,,KM253061,54.3,22
+Bacillus aidingensis,384933,5墩17휑,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,,48.1,,DQ504377,58.1,22
+Desulfobaculum xiamenense,995050,P1,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,Desulfobaculum,,64.5,,HQ697913,56.8,22
+Clostridium disporicum,84024,DS1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,,40.5,,Y18176,53.4,22
+Desulfovibrio legallii,571438,H1,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,Desulfovibrio,,55,,FJ225426,56,22
+Treponema succinifaciens,167,ATCC33096,Bacteria,Spirochaetes,Spirochaetia,Spirochaetales,Spirochaetaceae,Treponema,GCA_000195275.1,39.2,2.9,M57738,61.7,22
+Neisseria dumasiana,1931275,93087,Bacteria,Proteobacteria,Betaproteobacteria,Neisseriales,Neisseriaceae,Neisseria,,50.5,,KY417828,54.3,22
+Risungbinella pyongyangensis,1515736,MC 210,Bacteria,Firmicutes,Bacilli,Bacillales,Thermoactinomycetaceae,Risungbinella,,42.1,,KJ729272,56.6,22
+Mycobacterium scrofulaceum,1783,ATCC 19981,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,,,,X52924,57.9,22
+Yimella lutea,587872,YIM 45900,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Dermacoccaceae,Yimella,,65.8,,FJ528304,56.3,22
+Oceanirhabdus sediminicola,1176697,NH-JN4,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Oceanirhabdus,,35.8,,JQ771468,54,22
+Listeria costaricensis,2026604,CLIP 2016/00682,Bacteria,Firmicutes,Bacilli,Bacillales,Listeriaceae,Listeria,,43.7,,MK174378,53.8,22
+Actinopolyspora salinaria,1434887,HS05-03,Bacteria,Actinobacteria,Actinobacteria,Actinopolysporales,Actinopolysporaceae,Actinopolyspora,,69.9,,AB894336,60.5,22
+Corynebacterium hadale,2026255,NBT06-6,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,,65.1,,MF576260,56.1,22
+Mycolicibacterium confluentis,28047,1380/90,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycolicibacterium,,,,X63608,58,22
+Mycobacterium intracellulare,1767,DSM 44049,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,GCA_000277125.1,,5.4,X67847,58.5,22
+Muricauda iocasae,2055905,L2,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Muricauda,,51.3,,MG563767,55.4,22
+Yangia pacifica,311180,DX5-10,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Yangia,GCA_003111685.1,66.5,5.2,AJ877265,55.3,22
+Nocardioides aromaticivorans,200618,H-1,Bacteria,Actinobacteria,Actinobacteria,Propionibacteriales,Nocardioidaceae,Nocardioides,,72.2,,AB087721,58,22
+Paraburkholderia tropica,92647,Ppe8,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Paraburkholderia,,63.5,,AJ420332,55.7,22
+Shewanella fodinae,552357,JC15,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,,53.6,,FM203122,55,22
+Nonomuraea gerenzanensis,93944,ATCC 39727,Bacteria,Actinobacteria,Actinobacteria,Streptosporangiales,Streptosporangiaceae,Nonomuraea,,71.2,,AJ582011,60.4,22
+Mangroviflexus xiamenensis,995053,P2,Bacteria,Bacteroidetes,Bacteroidia,Marinilabiliales,Marinilabiliaceae,Mangroviflexus,,44.2,,HQ697914,51.4,22
+Desulfatibacillum alkenivorans,259354,PF2803 ,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfobacterales,Desulfobacteraceae,Desulfatibacillum,,57.8,,AY493562,53.8,22
+Acholeplasma granularum,264635,BTS-39,Bacteria,Tenericutes,Mollicutes,Acholeplasmatales,Acholeplasmataceae,Acholeplasma,,31.5,,AY538166,49.3,22
+Brevibacterium avium,83828,CCUG 43455,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Brevibacteriaceae,Brevibacterium,,,,Y17962,56.6,22
+Mycolicibacter hiberniae,29314, ATCC 49874,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycolicibacter,,,,X67096,58.2,22
+Acholeplasma axanthum,29552,S-743,Bacteria,Tenericutes,Mollicutes,Acholeplasmatales,Acholeplasmataceae,Acholeplasma,GCA_900660745.1,28.1,1.9,AF412968,48.9,22
+Mycobacterium malmoense,1780,ATCC 29571,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,,,,X52930,57.9,22
+Cruoricaptor ignavus,1118202,IMMIB L-12475,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Cruoricaptor,,45.6,,HE614680,57.8,22
+Flavobacterium ceti,395087,454-2,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,,36.7,,AM292800,49.2,22
+Mycolicibacterium sphagni,1786,ATCC 33027,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycolicibacterium,,,,X55590,57.5,22
+Mycolicibacterium komossense,1779,ATCC 33013,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycolicibacterium,,,,X55591,57.5,22
+Burkholderia agricolaris,2152888,BaQS159,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,,61.6,,,,22
+Methylococcus mobilis,944651,LMD 77.28.,Bacteria,Proteobacteria,Gammaproteobacteria,Methylococcales,Methylococcaceae,Methylococcus,,56.7,,HQ676599,55.1,22
+Acidipila rosea,768535,AP8,Bacteria,Acidobacteria,Acidobacteriia,Acidobacteriales,Acidobacteriaceae,Acidipila,,59.5,,AB561884,55,22
+Stenoxybacter acetivorans,422441,TAM-DN1,Bacteria,Proteobacteria,Betaproteobacteria,Neisseriales,Neisseriaceae,Stenoxybacter,,53.7,,EF212897,53.4,22
+Paracoccus sanguinis,1545044,5503,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Paracoccus,,70,,KJ960184,55.7,22
+Hartmannibacter diazotrophicus,1482074,E19,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,,Hartmannibacter,GCA_900231165.1,64,5.4,KC567245,56,22
+Acholeplasma hippikon,264636,C1,Bacteria,Tenericutes,Mollicutes,Acholeplasmatales,Acholeplasmataceae,Acholeplasma,GCA_900660755.1,31,1.5,AY538167,48.6,22
+Acholeplasma modicum,2150,PG49,Bacteria,Tenericutes,Mollicutes,Acholeplasmatales,Acholeplasmataceae,Acholeplasma,,29.3,,M23933,48.4,22
+Humibacter albus,427754,SC-083,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Microbacteriaceae,Humibacter,,68,,AM494541,56.3,22
+Desulfovibrio carbinoliphilus,345370,D41,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,Desulfovibrio,,63,,DQ186200,57.7,22
+Erwinia typographi,371042,Y1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Erwinia,,49.1,,GU166291,55.7,22
+Sphaerimonospora cavernae,1740611,N74,Bacteria,Actinobacteria,Actinobacteria,Streptosporangiales,Streptosporangiaceae,Sphaerimonospora,,70.7,,LC096135,59.8,22
+Acidiphilium iwatense,768198,MS8,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Acidiphilium,,62.7,,AB561883,56.5,22
+Vibrio scophthalmi,45658,A089,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,GCA_001685465.1,44.6,4.9,U46579,53.8,22
+Garritya polymorpha,1001,ATCC 27820,Bacteria,Bacteroidetes,Cytophagia,Cytophagales,Bernardetiaceae,Garritya,,29,,AB078059,49.6,22
+Mycolicibacterium madagascariense,212765,P2,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycolicibacterium,,,,NR_104690,58.6,22
+Burkholderia bonniea,2152891,BbQS859,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,,58.7,,,,22
+Burkholderia hayleyella,2152889,BhQS11,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,,59.2,,,,22
+Mycobacterium stomatepiae,470076,T11,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,,,,AM884331,58.5,22
+Spiroplasma taiwanense,2145,CT-1,Bacteria,Tenericutes,Mollicutes,Entomoplasmatales,Spiroplasmataceae,Spiroplasma,GCA_000439435.1,23.9,1.1,M24476,47.2,22
